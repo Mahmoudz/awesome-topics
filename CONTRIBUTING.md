@@ -1,4 +1,4 @@
-# Contributing to Awesome Concepts
+# Welcome to the Awesome Concepts community
 
 Thank you for considering contributing to this project! By participating, you are helping to create a valuable resource for the developer community.
 
