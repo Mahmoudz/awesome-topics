@@ -1,4 +1,5 @@
 <!-- Welcome Message Animation -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=555555&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+To+Awesome+Concepts!)](https://git.io/typing-svg)
 
 # Awesome Concepts
@@ -8,23 +9,27 @@ A curated collection of awesome technical concepts in the world of software engi
 ## Table of Contents
 
 Core:
+
+- [Programming](#programming)
 - [Software Design](#software-design)
 - [Algorithms](#algorithms)
-- [Data Strcutures](#data-strcutures)
 
-Cloud:
+Infr:
+
 - [Infrastructure](#infrastructure)
 - [DevOps](#devops)
 - [SRE](#sre)
 - [Network Security](#network-security)
 
 Back:
+
 - [System Architecture](#system-architecture)
 - [Databases](#databases)
 - [Backend](#backend)
 - [Information Security](#information-security)
 
 Front:
+
 - [UI / UX](#ui-ux)
 - [Web Frontend](#web-frontend)
 - [Mobile Development](#mobile)
@@ -33,104 +38,108 @@ Front:
 - [VR / AR](#vr-ar)
 
 Data:
+
 - [Data Science](#data-science)
 - [AI](#ai)
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
 
 Hard:
+
 - [Hardware](#hardware)
 - [IoT](#iot)
 - [Robotics](#robotics)
 - [Quantum Computing](#quantum-computing)
 
 Misc:
+
 - [Blockchain](#blockchain)
 - [Emerging Technologies](#emerging-technologies)
 
 ---
 
-<!-- --------------------------------------------------------------------- -->
-## System Architecture
-<!-- --------------------------------------------------------------------- -->
-
-<details>
-    <summary><strong>Scalability</strong></summary>
-    Scalability refers to a system's ability to handle an increasing workload by adding resources or components. It ensures that the system can grow to accommodate higher demands without a significant drop in performance.
-</details>
-
-<details>
-    <summary><strong>Availability</strong></summary>
-    Availability is the measure of how accessible and operational a system is over a specified period. High availability systems are designed to minimize downtime and ensure that services are consistently accessible.
-</details>
-
-<details>
-    <summary><strong>Redundancy</strong></summary>
-    Redundancy in system architecture refers to the duplication of critical components or systems to ensure continued operation in case of component failures. It enhances system reliability and availability.
-</details>
-
-<details>
-    <summary><strong>Resiliency</strong></summary>
-    Resiliency refers to the ability of a system to maintain its functionality and availability in the face of failures or disruptions. It involves designing systems to recover gracefully from faults, ensuring continuous operation.
-</details>
-
-<details>
-    <summary><strong>Elasticity</strong></summary>
-    Elasticity is the capability of a system to automatically scale resources up or down in response to changes in workload or demand. It allows for efficient resource utilization and cost management.
-</details>
-
-<details>
-    <summary><strong>Fault Tolerance</strong></summary>
-    Fault tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software faults. It involves mechanisms to detect, isolate, and recover from failures.
-</details>
-
-<details>
-    <summary><strong>Monolithic Architecture</strong></summary>
-    Monolithic Architecture is a traditional approach where all components of an application are tightly integrated into a single, self-contained system. It typically consists of a single codebase, database, and runtime environment.
-</details>
-
-<details>
-    <summary><strong>Serverless Architecture</strong></summary>
-    Serverless architecture allows developers to focus on writing code without managing server infrastructure. It relies on cloud providers to automatically scale, manage, and allocate resources as needed.
-</details>
-
-<details>
-    <summary><strong>Service-Oriented Architecture (SOA)</strong></summary>
-    Service-Oriented Architecture organizes software components as services that can be accessed remotely, promoting modularity and interoperability. Services communicate through standardized interfaces.
-</details>
-
-<details>
-    <summary><strong>Microservices Architecture</strong></summary>
-    Microservices architecture is an approach to software development where an application is composed of small, independent services that communicate through APIs. It promotes flexibility and scalability in complex systems.
-</details>
-
-<details>
-    <summary><strong>Event-Driven Architecture</strong></summary>
-    Event-Driven Architecture focuses on communication between components or microservices via events and messages. It allows for loosely coupled, scalable systems that can respond to events in real-time.
-</details>
-
-<details>
-    <summary><strong>Layered Architecture</strong></summary>
-    Layered Architecture separates software into distinct layers (e.g., presentation, business logic, data) for modularity and maintainability. Each layer has a specific responsibility, and communication often occurs vertically between adjacent layers.
-</details>
-
-<details>
-    <summary><strong>Hexagonal Architecture (Ports and Adapters)</strong></summary>
-    Hexagonal (Ports and Adapters) Architecture isolates application core logic from external dependencies using ports and adapters for flexibility. It encourages a clear separation between the core domain and external systems.
-</details>
-
-<details>
-    <summary><strong>Reactive Architecture</strong></summary>
-    Reactive Architecture designs systems to be responsive, resilient, and elastic, often using reactive programming principles. It handles events and asynchronous data flows efficiently, making it suitable for real-time applications.
-</details>
-
-<details>
-    <summary><strong>Multi-tenancy</strong></summary>
-    Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
-</details>
+### Core
 
 <!-- --------------------------------------------------------------------- -->
+
+## Programming
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>IDE (Integrated Development Environment)</strong></summary>
+    An IDE is a software application that provides tools and features for software development, including code editing, debugging, and project management.
+</details>
+
+<details>
+    <summary><strong>Version Control</strong></summary>
+    Version Control is a system that tracks changes to files and code over time, allowing multiple developers to collaborate, revert to previous versions, and manage code history.
+</details>
+
+<details>
+    <summary><strong>Variables</strong></summary>
+    Variables are symbols that represent values or data in programming. They are used to store and manipulate information within a program.
+</details>
+
+<details>
+    <summary><strong>Function / Method</strong></summary>
+    A Function (or Method) is a reusable block of code that performs a specific task or operation. It promotes code modularity and reusability.
+</details>
+
+<details>
+    <summary><strong>Class</strong></summary>
+    A Class is a blueprint or template for creating objects in object-oriented programming (OOP). It defines the structure and behavior of objects.
+</details>
+
+<details>
+    <summary><strong>Error</strong></summary>
+    An Error in programming refers to a mistake or issue that prevents a program from running correctly. Errors can be syntax errors, runtime errors, or logical errors.
+</details>
+
+<details>
+    <summary><strong>Exception</strong></summary>
+    An Exception is an event that disrupts the normal flow of a program. It is used to handle errors and exceptional conditions gracefully.
+</details>
+
+<details>
+    <summary><strong>Storage</strong></summary>
+    Storage refers to the devices and media used to store data in a computer system, such as hard drives, solid-state drives (SSDs), and cloud storage.
+</details>
+
+<details>
+    <summary><strong>Memory</strong></summary>
+    Memory, in computing, is used to temporarily store data and instructions that the CPU (Central Processing Unit) actively uses during program execution.
+</details>
+
+<details>
+    <summary><strong>Disk</strong></summary>
+    A Disk is a storage device that stores data on a physical medium, such as a hard disk drive (HDD) or solid-state drive (SSD). It provides long-term data storage and access for computers and other electronic devices.
+</details>
+
+<details>
+    <summary><strong>Processor</strong></summary>
+    A Processor (or CPU) is the central unit of a computer that performs arithmetic and logical operations. It executes instructions and manages data processing.
+</details>
+
+<details>
+    <summary><strong>Thread</strong></summary>
+    A Thread is the smallest unit of a process in a multitasking operating system. It allows for concurrent execution of tasks and improves program efficiency.
+</details>
+
+<details>
+    <summary><strong>Process</strong></summary>
+    A Process is an independent program or task running on a computer. It has its own memory space and resources and can execute multiple threads.
+</details>
+
+<details>
+    <summary><strong>API (Application Programming Interface)</strong></summary>
+    An API is a set of rules and protocols that allows different software applications to communicate and interact with each other. It defines the methods and data formats for requesting and exchanging information between systems.
+</details>
+
+<!-- --------------------------------------------------------------------- -->
+
 ## Software Design
+
 <!-- --------------------------------------------------------------------- -->
 
 <details>
@@ -294,7 +303,510 @@ Misc:
 </details>
 
 <!-- --------------------------------------------------------------------- -->
+
+## Algorithms
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Algorithms</strong></summary>
+    Algorithms are sets of instructions or steps to accomplish a specific task or solve problems. They are fundamental in computing, guiding how data is processed and analyzed efficiently.
+</details>
+
+<details>
+    <summary><strong>Big O Notation</strong></summary>
+    Big O Notation measures algorithm efficiency by how run time increases with input size. It's key for understanding and comparing different algorithms, especially in large-scale systems. Examples include O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), and O(n!).
+</details>
+
+<details>
+    <summary><strong>Data Structures</strong></summary>
+    Data Structures are ways to organize and store data, like arrays, trees, and graphs. They're the backbone of efficient algorithms and enable effective data management and access.
+</details>
+
+<details>
+    <summary><strong>Arrays</strong></summary>
+    Arrays store elements in a fixed-size, sequential collection. They offer fast access by index but have fixed sizes and require contiguous memory allocation.
+</details>
+
+<details>
+    <summary><strong>Linked Lists</strong></summary>
+    Linked Lists consist of nodes linked together in a sequence. Each node contains data and a reference to the next node. They allow for dynamic size and easy insertion/deletion.
+</details>
+
+<details>
+    <summary><strong>Stacks</strong></summary>
+    Stacks operate on a Last In, First Out (LIFO) principle. They are used for tasks like backtracking and function call management, allowing only top-element access.
+</details>
+
+<details>
+    <summary><strong>Queues</strong></summary>
+    Queues follow a First In, First Out (FIFO) order. They are essential in managing tasks in a sequential process, like printer task scheduling.
+</details>
+
+<details>
+    <summary><strong>Hash Tables</strong></summary>
+    Hash Tables store key-value pairs for efficient data retrieval. They use a hash function to compute an index for each key, enabling fast lookups.
+</details>
+
+<details>
+    <summary><strong>Trees</strong></summary>
+    Trees are hierarchical structures, with a root value and subtrees of children with a parent node. They are vital in representing hierarchical data, like file systems.
+</details>
+
+<details>
+    <summary><strong>Heaps</strong></summary>
+    Heaps are specialized trees ensuring the highest (or lowest) priority element remains at the top, commonly used in priority queues.
+</details>
+
+<details>
+    <summary><strong>Graphs</strong></summary>
+    Graphs consist of nodes (or vertices) connected by edges. They represent networks, such as social connections or routing systems.
+</details>
+
+<details>
+    <summary><strong>Trie</strong></summary>
+    Trie, or prefix tree, stores strings in a tree-like structure, allowing for efficient retrieval of words or prefixes in a dataset.
+</details>
+
+<details>
+    <summary><strong>Sets</strong></summary>
+    Sets are collections of unique elements. They are used for storing non-duplicate values and for operations like union and intersection.
+</details>
+
+<details>
+    <summary><strong>Recursion</strong></summary>
+    Recursion is a technique where a function calls itself to solve smaller parts of a problem. It simplifies complex problems, often used in sorting, searching, and traversing structures.
+</details>
+
+<details>
+    <summary><strong>Dynamic Programming</strong></summary>
+    Dynamic Programming is a strategy to solve complex problems by breaking them down into simpler subproblems. It stores the results of subproblems to avoid repeated work, enhancing efficiency.
+</details>
+
+<details>
+    <summary><strong>Memoization</strong></summary>
+    Memoization is an optimization technique that stores the results of expensive function calls and returns the cached result for repeated calls. It's effective in reducing computing time.
+</details>
+
+<details>
+    <summary><strong>Graph Theory</strong></summary>
+    Graph Theory deals with graphs, consisting of nodes and connections. It's fundamental in network analysis, path finding in maps, and solving various interconnected problems.
+</details>
+
+<details>
+    <summary><strong>Sorting</strong></summary>
+    Sorting is arranging data in a certain order. Essential for data analysis and optimization, various algorithms provide different ways to sort efficiently based on the context.
+</details>
+
+<details>
+    <summary><strong>Searching</strong></summary>
+    Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
+</details>
+
+### Cloud:
+
+<!-- --------------------------------------------------------------------- -->
+
+## Infrastructure
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Virtualization</strong></summary>
+    Virtualization involves creating virtual versions of physical resources like servers and networks. This technology enables multiple virtual systems and applications to run on a single physical machine, maximizing resource utilization and reducing costs.
+</details>
+
+<details>
+    <summary><strong>Cloud Computing</strong></summary>
+    Cloud Computing delivers computing services—servers, storage, databases, networking, software, analytics, and more—over the Internet ("the cloud"). It provides flexibility, scalability, and cost efficiency, allowing users to pay only for cloud services they use.
+</details>
+
+<details>
+    <summary><strong>Load Balancing</strong></summary>
+    Load Balancing is the process of distributing network or application traffic across multiple servers. It improves application responsiveness and availability by ensuring no single server bears too much demand, thus preventing overloading and potential downtime.
+</details>
+
+<details>
+    <summary><strong>Disaster Recovery</strong></summary>
+    Disaster Recovery is a comprehensive strategy for ensuring business continuity in case of catastrophic events. It includes planning, backup solutions, and procedures to recover IT systems and data after disasters like natural disasters, hardware failures, or cyberattacks.
+</details>
+
+<details>
+    <summary><strong>Containerization</strong></summary>
+    Containerization is the use of containers to deploy applications in lightweight, portable environments. Containers package an application's code, libraries, and dependencies together, providing consistent environments and isolating the application from the underlying system.
+</details>
+
+<details>
+    <summary><strong>Infrastructure as Code (IaC)</strong></summary>
+    Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, etc.) in a descriptive model, using code. This allows for automatic management and provisioning, improving infrastructure deployment speed and reliability.
+</details>
+
+<details>
+    <summary><strong>Monitoring</strong></summary>
+    Monitoring in IT involves continuously tracking system performance, health, and activities. This is crucial for preemptively detecting and addressing issues, ensuring systems operate efficiently and securely.
+</details>
+
+<details>
+    <summary><strong>Logging</strong></summary>
+    Logging is the process of recording events and data changes in software applications and IT systems. It's essential for troubleshooting, security audits, and understanding system behavior over time.
+</details>
+
+<!-- --------------------------------------------------------------------- -->
+
+## DevOps
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Continuous Integration (CI)</strong></summary>
+    Continuous Integration is a development practice where code changes are automatically integrated and tested frequently. It aims to identify and resolve integration issues early in the development process.
+</details>
+
+<details>
+    <summary><strong>Continuous Delivery (CD)</strong></summary>
+    Continuous Delivery extends CI by automating the release process, ensuring that code changes can be quickly and reliably delivered to production or staging environments.
+</details>
+
+<details>
+    <summary><strong>Infrastructure as Code (IaC)</strong></summary>
+    Infrastructure as Code involves managing and provisioning infrastructure using code and automation. It enables consistent and repeatable infrastructure deployments.
+</details>
+
+<details>
+    <summary><strong>Deployment</strong></summary>
+    Deployment is the process of releasing software or application updates into production or staging environments. It involves configuring, installing, and making the software available for use.
+</details>
+
+<details>
+    <summary><strong>Rollback</strong></summary>
+    Rollback is a mechanism to revert to a previous version of an application or system in case of issues or failures during deployment. It ensures system stability and minimizes downtime.
+</details>
+
+<details>
+    <summary><strong>Orchestration</strong></summary>
+    Orchestration involves coordinating and automating multiple tasks or processes to achieve a specific outcome. It's crucial for managing complex workflows in software development and operations.
+</details>
+
+<!-- --------------------------------------------------------------------- -->
+
+## SRE
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Service Level Objectives (SLOs)</strong></summary>
+    Service Level Objectives are specific, measurable goals that define the reliability and performance targets for a service. They help teams maintain the desired level of service quality.
+</details>
+
+<details>
+    <summary><strong>Service Level Agreement (SLA)</strong></summary>
+    SLA is a formal contract that outlines the agreed-upon level of service between a service provider and its customers. It defines expectations and consequences for not meeting the specified criteria.
+</details>
+
+<details>
+    <summary><strong>Service Level Indicators (SLIs)</strong></summary>
+    Service Level Indicators are metrics used to measure the performance and behavior of a service. They provide quantifiable data to assess the service's reliability and adherence to SLOs.
+</details>
+
+<details>
+    <summary><strong>Reliability</strong></summary>
+    Reliability is the ability of a system or service to consistently perform its intended function without failures. It's a core focus of SRE practices.
+</details>
+
+<details>
+    <summary><strong>Incident Management</strong></summary>
+    Incident Management involves the processes and practices for detecting, responding to, and resolving service disruptions or incidents. It aims to minimize downtime and customer impact.
+</details>
+
+<details>
+    <summary><strong>Alerting</strong></summary>
+    Alerting involves setting up notifications to inform teams about potential issues or anomalies in the system. Effective alerting is crucial for proactive incident response.
+</details>
+
+<details>
+    <summary><strong>Toil Reduction</strong></summary>
+    Toil Reduction is the practice of automating repetitive, manual operational tasks to reduce the burden on SRE teams. It frees up time for more strategic work.
+</details>
+
+<details>
+    <summary><strong>Post-Mortems</strong></summary>
+    Post-Mortems are detailed analyses conducted after incidents to understand their causes, effects, and prevention strategies. They emphasize a blameless culture and learning from failures.
+</details>
+
+<details>
+    <summary><strong>Change Management</strong></summary>
+    Change Management is the process of planning, testing, and implementing changes to a system or service in a controlled manner. It ensures that changes don't negatively impact reliability.
+</details>
+
+<details>
+    <summary><strong>Capacity Planning</strong></summary>
+    Capacity Planning is the process of forecasting and provisioning resources to meet current and future service demands. It ensures that systems can handle expected workloads.
+</details>
+
+<!-- --------------------------------------------------------------------- -->
+
+## Network Security
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Firewall</strong></summary>
+    A Firewall is a network security device that monitors and controls incoming and outgoing network traffic. It acts as a barrier between a trusted internal network and untrusted external networks, filtering traffic based on predefined rules.
+</details>
+
+<details>
+    <summary><strong>Intrusion Detection System (IDS)</strong></summary>
+    An Intrusion Detection System is a security tool that monitors network or system activities for malicious behavior or policy violations. It alerts administrators to potential threats but does not actively block them.
+</details>
+
+<details>
+    <summary><strong>Intrusion Prevention System (IPS)</strong></summary>
+    An Intrusion Prevention System goes beyond IDS by not only detecting but also actively blocking or mitigating security threats. It can take automated actions to protect the network.
+</details>
+
+<details>
+    <summary><strong>VPN (Virtual Private Network)</strong></summary>
+    A Virtual Private Network is a secure connection that allows remote users or offices to access a private network over the internet securely. It encrypts data and ensures privacy and confidentiality.
+</details>
+
+<details>
+    <summary><strong>Network Segmentation</strong></summary>
+    Network Segmentation is the practice of dividing a network into smaller, isolated segments or zones to enhance security. It limits the lateral movement of threats within the network.
+</details>
+
+<details>
+    <summary><strong>Access Control Lists (ACLs)</strong></summary>
+    Access Control Lists are rules or lists of permissions that control access to network resources. They specify which users or systems are allowed or denied access to specific resources.
+</details>
+
+<details>
+    <summary><strong>Security Appliances</strong></summary>
+    Security Appliances are specialized hardware or software devices designed to protect network infrastructure. They include firewalls, intrusion detection systems, and anti-malware appliances.
+</details>
+
+<details>
+    <summary><strong>Network Hardening</strong></summary>
+    Network Hardening is the process of securing a network by implementing security measures and best practices to reduce vulnerabilities and protect against cyberattacks.
+</details>
+
+<details>
+    <summary><strong>DDoS Mitigation (Distributed Denial of Service)</strong></summary>
+    DDoS Mitigation involves strategies and technologies to protect a network or system from large-scale, malicious traffic floods that can overwhelm and disrupt services.
+</details>
+
+<details>
+    <summary><strong>Network Access Control (NAC)</strong></summary>
+    Network Access Control is a security solution that manages and enforces policies for devices trying to connect to a network. It ensures only authorized and compliant devices gain access.
+</details>
+
+<details>
+    <summary><strong>Security Patch Management</strong></summary>
+    Security Patch Management is the process of identifying, applying, and monitoring software updates and patches to address security vulnerabilities and keep systems secure.
+</details>
+
+<details>
+    <summary><strong>Social Engineering</strong></summary>
+    Social Engineering is a form of cyberattack that manipulates individuals into revealing confidential information or performing actions that compromise security.
+</details>
+
+<details>
+    <summary><strong>Spam Filtering</strong></summary>
+    Spam Filtering is the practice of detecting and blocking unwanted or unsolicited email messages, known as spam, to prevent them from reaching users' inboxes.
+</details>
+
+<details>
+    <summary><strong>Penetration Testing</strong></summary>
+    Penetration Testing, also known as ethical hacking, involves simulating cyberattacks on a system to identify vulnerabilities and weaknesses that could be exploited by malicious actors.
+</details>
+
+<details>
+    <summary><strong>Vulnerability Assessment</strong></summary>
+    Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
+</details>
+
+### Back:
+
+<!-- --------------------------------------------------------------------- -->
+
+## System Architecture
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Scalability</strong></summary>
+    Scalability refers to a system's ability to handle an increasing workload by adding resources or components. It ensures that the system can grow to accommodate higher demands without a significant drop in performance.
+</details>
+
+<details>
+    <summary><strong>Availability</strong></summary>
+    Availability is the measure of how accessible and operational a system is over a specified period. High availability systems are designed to minimize downtime and ensure that services are consistently accessible.
+</details>
+
+<details>
+    <summary><strong>Redundancy</strong></summary>
+    Redundancy in system architecture refers to the duplication of critical components or systems to ensure continued operation in case of component failures. It enhances system reliability and availability.
+</details>
+
+<details>
+    <summary><strong>Resiliency</strong></summary>
+    Resiliency refers to the ability of a system to maintain its functionality and availability in the face of failures or disruptions. It involves designing systems to recover gracefully from faults, ensuring continuous operation.
+</details>
+
+<details>
+    <summary><strong>Elasticity</strong></summary>
+    Elasticity is the capability of a system to automatically scale resources up or down in response to changes in workload or demand. It allows for efficient resource utilization and cost management.
+</details>
+
+<details>
+    <summary><strong>Fault Tolerance</strong></summary>
+    Fault tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software faults. It involves mechanisms to detect, isolate, and recover from failures.
+</details>
+
+<details>
+    <summary><strong>Monolithic Architecture</strong></summary>
+    Monolithic Architecture is a traditional approach where all components of an application are tightly integrated into a single, self-contained system. It typically consists of a single codebase, database, and runtime environment.
+</details>
+
+<details>
+    <summary><strong>Serverless Architecture</strong></summary>
+    Serverless architecture allows developers to focus on writing code without managing server infrastructure. It relies on cloud providers to automatically scale, manage, and allocate resources as needed.
+</details>
+
+<details>
+    <summary><strong>Service-Oriented Architecture (SOA)</strong></summary>
+    Service-Oriented Architecture organizes software components as services that can be accessed remotely, promoting modularity and interoperability. Services communicate through standardized interfaces.
+</details>
+
+<details>
+    <summary><strong>Microservices Architecture</strong></summary>
+    Microservices architecture is an approach to software development where an application is composed of small, independent services that communicate through APIs. It promotes flexibility and scalability in complex systems.
+</details>
+
+<details>
+    <summary><strong>Event-Driven Architecture</strong></summary>
+    Event-Driven Architecture focuses on communication between components or microservices via events and messages. It allows for loosely coupled, scalable systems that can respond to events in real-time.
+</details>
+
+<details>
+    <summary><strong>Layered Architecture</strong></summary>
+    Layered Architecture separates software into distinct layers (e.g., presentation, business logic, data) for modularity and maintainability. Each layer has a specific responsibility, and communication often occurs vertically between adjacent layers.
+</details>
+
+<details>
+    <summary><strong>Hexagonal Architecture (Ports and Adapters)</strong></summary>
+    Hexagonal (Ports and Adapters) Architecture isolates application core logic from external dependencies using ports and adapters for flexibility. It encourages a clear separation between the core domain and external systems.
+</details>
+
+<details>
+    <summary><strong>Reactive Architecture</strong></summary>
+    Reactive Architecture designs systems to be responsive, resilient, and elastic, often using reactive programming principles. It handles events and asynchronous data flows efficiently, making it suitable for real-time applications.
+</details>
+
+<details>
+    <summary><strong>Multi-tenancy</strong></summary>
+    Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
+</details>
+
+<!-- --------------------------------------------------------------------- -->
+
+## Databases
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Relational Database</strong></summary>
+    A Relational Database stores data in structured tables with defined relationships between them. It uses SQL for querying and managing data.
+</details>
+
+<details>
+    <summary><strong>NoSQL Database</strong></summary>
+    A NoSQL Database is a non-relational database that stores data in various formats, such as document, key-value, or columnar, and is suitable for unstructured or semi-structured data.
+</details>
+
+<details>
+    <summary><strong>Data Modeling</strong></summary>
+    Data Modeling is the process of designing the structure and organization of data within a database, including defining tables, relationships, and attributes.
+</details>
+
+<details>
+    <summary><strong>SQL (Structured Query Language)</strong></summary>
+    SQL is a domain-specific language used for managing and querying relational databases. It enables users to retrieve, manipulate, and update data.
+</details>
+
+<details>
+    <summary><strong>Indexing</strong></summary>
+    Indexing involves creating data structures to optimize data retrieval in a database. It speeds up query performance by allowing quick access to specific data.
+</details>
+
+<details>
+    <summary><strong>ACID Properties</strong></summary>
+    ACID (Atomicity, Consistency, Isolation, Durability) Properties are a set of characteristics that ensure database transactions are reliable and maintain data integrity.
+</details>
+
+<details>
+    <summary><strong>Transactions</strong></summary>
+    Transactions are sequences of database operations that are treated as a single, indivisible unit. They guarantee data consistency and can be committed or rolled back.
+</details>
+
+<details>
+    <summary><strong>Normalization</strong></summary>
+    Normalization is the process of organizing data in a database to reduce data redundancy and improve data integrity by eliminating data anomalies.
+</details>
+
+<details>
+    <summary><strong>Denormalization</strong></summary>
+    Denormalization is the reverse of normalization and involves adding redundant data to a database to improve query performance by reducing joins.
+</details>
+
+<details>
+    <summary><strong>Backup and Recovery</strong></summary>
+    Backup and Recovery involve creating copies of data to prevent data loss and restoring data to its previous state in case of failures or disasters.
+</details>
+
+<details>
+    <summary><strong>BLOB (Binary Large Object)</strong></summary>
+    BLOB is a data type that can store large binary data, such as images, videos, or documents, in a database.
+</details>
+
+<details>
+    <summary><strong>OLTP (Online Transaction Processing)</strong></summary>
+    OLTP is a database processing method focused on handling real-time transactional workloads, such as data insertions, updates, and deletions.
+</details>
+
+<details>
+    <summary><strong>OLAP (Online Analytical Processing)</strong></summary>
+    OLAP is a database processing method designed for complex querying and analysis of historical data to support decision-making and reporting.
+</details>
+
+<details>
+    <summary><strong>BASE (Basically Available, Soft state, Eventually consistent)</strong></summary>
+    BASE is an alternative approach to database consistency that prioritizes availability and responsiveness over strict consistency, aiming for eventual consistency.
+</details>
+
+<details>
+    <summary><strong>Stored Procedures</strong></summary>
+    Stored Procedures are precompiled and stored database procedures that can be executed on demand. They improve performance and maintain consistency in database operations.
+</details>
+
+<details>
+    <summary><strong>Partitioning</strong></summary>
+    Partitioning is the technique of dividing large tables into smaller, manageable segments to enhance query performance and data management.
+</details>
+
+<details>
+    <summary><strong>Replication</strong></summary>
+    Replication involves copying and synchronizing data from one database to one or more replicas. It provides fault tolerance and load distribution.
+</details>
+
+<details>
+    <summary><strong>Sharding</strong></summary>
+    Sharding is a database scaling technique where data is distributed across multiple databases or servers to improve performance and handle large workloads.
+</details>
+
+<!-- --------------------------------------------------------------------- -->
+
 ## Backend
+
 <!-- --------------------------------------------------------------------- -->
 
 <details>
@@ -381,6 +893,196 @@ Misc:
     <summary><strong>Propagation</strong></summary>
     Propagation refers to the act of sending, delivering, or queuing commands or events for execution. It is a fundamental concept in event-driven and distributed systems, where actions or tasks need to be communicated and carried out across different components or services.
 </details>
+
+<!-- --------------------------------------------------------------------- -->
+
+## Information Security
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Data Encryption</strong></summary>
+    Data Encryption is the process of converting data into a code to prevent unauthorized access. It ensures that only authorized parties can decipher and access the information.
+</details>
+
+<details>
+    <summary><strong>Access Control</strong></summary>
+    Access Control is the practice of regulating who can access specific resources or data in a system or network. It includes authentication and authorization mechanisms.
+</details>
+
+<details>
+    <summary><strong>Malware Protection</strong></summary>
+    Malware Protection involves the use of software and security measures to detect, prevent, and remove malicious software (malware) such as viruses, spyware, and ransomware.
+</details>
+
+<details>
+    <summary><strong>Phishing</strong></summary>
+    Phishing is a cyberattack method where attackers trick individuals into revealing sensitive information, often through deceptive emails or websites that mimic legitimate sources.
+</details>
+
+<details>
+    <summary><strong>Data Loss Prevention (DLP)</strong></summary>
+    Data Loss Prevention is a set of strategies and technologies to prevent unauthorized access, sharing, or leakage of sensitive data to protect against data breaches.
+</details>
+
+<details>
+    <summary><strong>Security Incident Response</strong></summary>
+    Security Incident Response is a structured approach to handling and managing security incidents, including detection, containment, eradication, and recovery.
+</details>
+
+<details>
+    <summary><strong>Threat Intelligence</strong></summary>
+    Threat Intelligence is information about current and potential cybersecurity threats and vulnerabilities. It helps organizations make informed decisions and enhance security measures.
+</details>
+
+<details>
+    <summary><strong>Identity and Access Management (IAM)</strong></summary>
+    Identity and Access Management is a framework and set of technologies to manage and secure user identities and their access to resources in a system or network.
+</details>
+
+<details>
+    <summary><strong>Security Assessment</strong></summary>
+    Security Assessment involves evaluating and analyzing an organization's security posture to identify vulnerabilities, risks, and areas that require improvement.
+</details>
+
+<details>
+    <summary><strong>Risk Assessment</strong></summary>
+    Risk Assessment is the process of identifying, assessing, and prioritizing potential security risks and threats to an organization's assets and operations.
+</details>
+
+<details>
+    <summary><strong>Security Policies and Procedures</strong></summary>
+    Security Policies and Procedures are documented guidelines and rules that define the organization's approach to security, including standards and best practices.
+</details>
+
+<details>
+    <summary><strong>Security Compliance</strong></summary>
+    Security Compliance refers to adhering to industry-specific regulations, standards, and best practices to ensure that security controls meet required criteria.
+</details>
+
+<details>
+    <summary><strong>Security Auditing</strong></summary>
+    Security Auditing involves examining and assessing security controls, processes, and policies to verify compliance, detect issues, and improve security.
+</details>
+
+<details>
+    <summary><strong>Password Management</strong></summary>
+    Password Management encompasses policies and practices for creating, securing, and managing user passwords to enhance authentication security.
+</details>
+
+<details>
+    <summary><strong>Insider Threat Detection</strong></summary>
+    Insider Threat Detection focuses on monitoring and identifying potential security threats and risks posed by individuals within an organization, including employees and contractors.
+</details>
+
+<details>
+    <summary><strong>Hashing</strong></summary>
+    Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
+</details>
+
+### Front:
+
+<!-- --------------------------------------------------------------------- -->
+
+## UI / UX
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Web Frontend
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Mobile Development
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Desktop Development
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Games Development
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## VR / AR
+
+<!-- --------------------------------------------------------------------- -->
+
+### Data:
+
+<!-- --------------------------------------------------------------------- -->
+
+## Data Science
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## AI
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Machine Learning
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Deep Learning
+
+<!-- --------------------------------------------------------------------- -->
+
+### Hard:
+
+<!-- --------------------------------------------------------------------- -->
+
+## Hardware
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## IoT
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Robotics
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Quantum Computing
+
+<!-- --------------------------------------------------------------------- -->
+
+### Misc:
+
+<!-- --------------------------------------------------------------------- -->
+
+## Blockchain
+
+<!-- --------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------- -->
+
+## Emerging Technologies
+
+<!-- --------------------------------------------------------------------- -->
 
 ---
 
