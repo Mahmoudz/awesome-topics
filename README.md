@@ -4,32 +4,54 @@ A curated collection of technical concepts and terms in the world of programming
 
 ## Table of Contents
 
-- [Category 1](#category-1)
-- [Category 2](#category-2)
+- [System Architecture](#systemarchitecture)
+- [Software Design](#softwaredesign)
+- [Backend](#backend)
+- [Databases](#databases)
+
+- [Cloud Infrastructure](#cloudinfrastructure)
+- [Networking](#networking)
+- [DevOps](#devops)
+- [SRE](#sre)
+
+- [Web Frontend](#webfrontend)
+- [Mobile](#mobile)
+- [Desktop](#desktop)
+- [IoT](#iot)
+
+- [CyberSecurity](#cybersecurity)
+- [Testing](#testing)
+- [Algorithms](#algorithms)
+- [Data Science](#datascience)
+
+- [AI](#ai)
+- [Blockchain](#blockchain)
+- [Games](#games)
+- [Hardware](#hardware)
 
 ---
 
 ### Category 1
 
 <details>
-    <summary>Concept 1</summary>
+    <summary><strong>Concept 1</strong></summary>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </details>
 
 <details>
-    <summary>Concept 2</summary>
+    <summary><strong>Concept 2</strong></summary>
     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </details>
 
 ### Category 2
 
 <details>
-    <summary>Concept 1</summary>
+    <summary><strong>Concept 1</strong></summary>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 </details>
 
 <details>
-    <summary>Concept 2</summary>
+    <summary><strong>Concept 2</strong></summary>
     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </details>
 
