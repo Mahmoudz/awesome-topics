@@ -4,35 +4,35 @@ A curated collection of awesome technical concepts in the world of software engi
 
 ## Table of Contents
 
-- [System Architecture](#systemarchitecture)
-- [Software Design](#softwaredesign)
+- [System Architecture](#system-architecture)
+- [Software Design](#software-design)
 - [Backend](#backend)
 - [Databases](#databases)
-- [Cloud Infrastructure](#cloudinfrastructure)
+- [Cloud Infrastructure](#cloud-infrastructure)
 - [Networking](#networking)
 - [DevOps](#devops)
 - [SRE](#sre)
-- [Network Security](#networksecurity)
-- [Information Security](#informationsecurity)
+- [Network Security](#network-security)
+- [Information Security](#information-security)
 - [Testing](#testing)
-- [UI / UX](#uiuxdesign)
-- [Web Frontend](#webfrontend)
+- [UI / UX](#ui-ux-design)
+- [Web Frontend](#web-frontend)
 - [Mobile Development](#mobile)
 - [Desktop Development](#desktop)
 - [IoT](#iot)
 - [Algorithms](#algorithms)
-- [AI / ML](#aiml)
-- [Data Science](#datascience)
+- [AI / ML](#ai-ml)
+- [Data Science](#data-science)
 - [Games Development](#games)
-- [VR / AR](#vrar)
+- [VR / AR](#vr-ar)
 - [Blockchain](#blockchain)
 - [Hardware](#hardware)
-- [Emerging Technologies](#emergingtechnologies)
+- [Emerging Technologies](#emerging-technologies)
 
 ---
 
 <!-- --------------------------------------------------------------------- -->
-### System Architecture
+## System Architecture
 <!-- --------------------------------------------------------------------- -->
 
 <details>
@@ -111,7 +111,7 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 <!-- --------------------------------------------------------------------- -->
-### Software Design
+## Software Design
 <!-- --------------------------------------------------------------------- -->
 
 <details>
@@ -275,7 +275,7 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 <!-- --------------------------------------------------------------------- -->
-### Backend
+## Backend
 <!-- --------------------------------------------------------------------- -->
 
 <details>
