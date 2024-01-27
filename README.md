@@ -1,32 +1,51 @@
+<!-- Welcome Message Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=555555&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+To+Awesome+Concepts!)](https://git.io/typing-svg)
+
 # Awesome Concepts
 
 A curated collection of awesome technical concepts in the world of software engineering, explained in a concise and user-friendly manner. Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical concepts.
 
 ## Table of Contents
 
-- [System Architecture](#system-architecture)
+Core:
 - [Software Design](#software-design)
-- [Backend](#backend)
-- [Databases](#databases)
-- [Cloud Infrastructure](#cloud-infrastructure)
-- [Networking](#networking)
+- [Algorithms](#algorithms)
+- [Data Strcutures](#data-strcutures)
+
+Cloud:
+- [Infrastructure](#infrastructure)
 - [DevOps](#devops)
 - [SRE](#sre)
 - [Network Security](#network-security)
+
+Back:
+- [System Architecture](#system-architecture)
+- [Databases](#databases)
+- [Backend](#backend)
 - [Information Security](#information-security)
-- [Testing](#testing)
-- [UI / UX](#ui-ux-design)
+
+Front:
+- [UI / UX](#ui-ux)
 - [Web Frontend](#web-frontend)
 - [Mobile Development](#mobile)
 - [Desktop Development](#desktop)
-- [IoT](#iot)
-- [Algorithms](#algorithms)
-- [AI / ML](#ai-ml)
-- [Data Science](#data-science)
 - [Games Development](#games)
 - [VR / AR](#vr-ar)
-- [Blockchain](#blockchain)
+
+Data:
+- [Data Science](#data-science)
+- [AI](#ai)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+
+Hard:
 - [Hardware](#hardware)
+- [IoT](#iot)
+- [Robotics](#robotics)
+- [Quantum Computing](#quantum-computing)
+
+Misc:
+- [Blockchain](#blockchain)
 - [Emerging Technologies](#emerging-technologies)
 
 ---
@@ -365,14 +384,14 @@ A curated collection of awesome technical concepts in the world of software engi
 
 ---
 
-## Let's Connect
+## Stay Updated
 
-For more tech insights, you can follow me on Twitter X [@Mahmoud_Zalt](https://twitter.com/Mahmoud_Zalt).
+For more tech insights, follow me on Twitter X [@Mahmoud_Zalt](https://twitter.com/Mahmoud_Zalt).
 
 ## Contributing
 
-We highly appreciate your contributions for the community's benefit. Please read our [Contributing Guide](CONTRIBUTING.md).
+We highly appreciate your contributions. For guidance, check our [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-This repository is licensed under a [CC BY-NC-SA 4.0](LICENSE) by [Mahmoud Zalt](http://zalt.me).
+This repository is licensed under a [CC BY-NC-SA 4.0](LICENSE) © [Mahmoud Zalt](https://github.com/Mahmoudz).
