@@ -10,15 +10,14 @@ A curated collection of awesome technical concepts in the world of software engi
 
 Core:
 
-- [Programming](#programming)
+- [Programming Fundamentals](#programming-fundamentals)
+- [Algorithms & Data Structures](#algorithms-data-structures)
 - [Software Design](#software-design)
-- [Algorithms](#algorithms)
 
 Infr:
 
 - [Infrastructure](#infrastructure)
-- [DevOps](#devops)
-- [SRE](#sre)
+- [DevOps & SRE](#devops-sre)
 - [Network Security](#network-security)
 
 Back:
@@ -62,7 +61,7 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
-## Programming
+## Programming Fundamentals
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -304,7 +303,7 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
-## Algorithms
+## Algorithms & Data Strcutures 
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -403,6 +402,8 @@ Misc:
     Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
 </details>
 
+---
+
 ### Cloud:
 
 <!-- --------------------------------------------------------------------- -->
@@ -451,9 +452,69 @@ Misc:
     Logging is the process of recording events and data changes in software applications and IT systems. It's essential for troubleshooting, security audits, and understanding system behavior over time.
 </details>
 
+<details>
+    <summary><strong>Data Centers</strong></summary>
+    Data Centers are specialized facilities that house computer systems, networking equipment, and storage to support the centralized processing and management of data.
+</details>
+
+<details>
+    <summary><strong>Cloud</strong></summary>
+    Cloud computing provides on-demand access to a shared pool of computing resources, such as servers, storage, and services, over the internet.
+</details>
+
+<details>
+    <summary><strong>Server Clustering</strong></summary>
+    Server Clustering involves grouping multiple servers together to work as a single unit, enhancing availability and fault tolerance.
+</details>
+
+<details>
+    <summary><strong>Network Segmentation</strong></summary>
+    Network Segmentation is the practice of dividing a network into smaller, isolated segments to enhance security and control access.
+</details>
+
+<details>
+    <summary><strong>Network Topology</strong></summary>
+    Network Topology defines the physical or logical layout of a network, including how devices and components are connected.
+</details>
+
+<details>
+    <summary><strong>Router</strong></summary>
+    A Router is a network device that forwards data packets between different networks, determining the best path for data transmission.
+</details>
+
+<details>
+    <summary><strong>Switch</strong></summary>
+    A Switch is a network device that connects devices within the same network and uses MAC addresses to forward data to the appropriate recipient.
+</details>
+
+<details>
+    <summary><strong>IP (Internet Protocol)</strong></summary>
+    IP (Internet Protocol) is the set of rules that governs how data packets are sent, routed, and received across networks, including the internet.
+</details>
+
+<details>
+    <summary><strong>Bandwidth</strong></summary>
+    Bandwidth refers to the maximum data transfer rate of a network or internet connection, often measured in bits per second (bps).
+</details>
+
+<details>
+    <summary><strong>LAN (Local Area Network)</strong></summary>
+    A LAN is a network that covers a limited geographic area, typically within a single building or campus, and allows devices to connect and communicate locally.
+</details>
+
+<details>
+    <summary><strong>VLANs (Virtual LANs)</strong></summary>
+    VLANs are virtual LANs that enable network segmentation and isolation within a physical network, improving security and traffic management.
+</details>
+
+<details>
+    <summary><strong>Network Protocols</strong></summary>
+    Network Protocols are rules and conventions that govern communication between devices and systems on a network, ensuring data exchange consistency.
+</details>
+
 <!-- --------------------------------------------------------------------- -->
 
-## DevOps
+## DevOps & SRE
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -486,12 +547,6 @@ Misc:
     <summary><strong>Orchestration</strong></summary>
     Orchestration involves coordinating and automating multiple tasks or processes to achieve a specific outcome. It's crucial for managing complex workflows in software development and operations.
 </details>
-
-<!-- --------------------------------------------------------------------- -->
-
-## SRE
-
-<!-- --------------------------------------------------------------------- -->
 
 <details>
     <summary><strong>Service Level Objectives (SLOs)</strong></summary>
@@ -623,6 +678,8 @@ Misc:
     <summary><strong>Vulnerability Assessment</strong></summary>
     Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
 </details>
+
+---
 
 ### Back:
 
@@ -980,6 +1037,8 @@ Misc:
     Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
 </details>
 
+---
+
 ### Front:
 
 <!-- --------------------------------------------------------------------- -->
@@ -1018,6 +1077,8 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+---
+
 ### Data:
 
 <!-- --------------------------------------------------------------------- -->
@@ -1044,6 +1105,8 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+---
+
 ### Hard:
 
 <!-- --------------------------------------------------------------------- -->
@@ -1069,6 +1132,8 @@ Misc:
 ## Quantum Computing
 
 <!-- --------------------------------------------------------------------- -->
+
+---
 
 ### Misc:
 
