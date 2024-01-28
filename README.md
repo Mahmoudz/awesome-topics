@@ -945,11 +945,6 @@ Misc:
 </details>
 
 <details>
-    <summary><strong>Rendering</strong></summary>
-    Rendering refers to the process of generating output, often in the form of user interfaces or content, from source data or templates. It involves transforming data into a visually or contextually meaningful format for presentation to users or other software components.
-</details>
-
-<details>
     <summary><strong>Parsing</strong></summary>
     Parsing is the act of analyzing and interpreting data or text to extract relevant information or convert it into a structured format. A parser is a software component responsible for parsing, converting, or transforming data from one representation to another.
 </details>
@@ -1236,8 +1231,28 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Serialization</strong></summary>
+    Serialization is the process of converting data structures or objects into a format that can be easily stored, transmitted, or reconstructed. It is commonly used for data persistence and communication between different parts of a software application.
+</details>
+
+<details>
+    <summary><strong>GUI (Graphical User Interface)</strong></summary>
+    GUI refers to the graphical interface of a software application that allows users to interact with it using visual elements such as windows, buttons, icons, and menus. It enhances user experience by providing a visually intuitive way to interact with the software.
+</details>
+
+<details>
+    <summary><strong>Electron</strong></summary>
+    Electron is an open-source framework that enables the development of cross-platform desktop applications using web technologies like HTML, CSS, and JavaScript. It allows developers to create desktop apps for multiple operating systems using a single codebase.
+</details>
+
+<details>
+    <summary><strong>Distribution</strong></summary>
+    Distribution in software refers to the process of packaging and delivering a software application to end-users. It involves tasks like creating installers, uploading to app stores, or making it available for download, ensuring accessibility to the target audience.
+</details>
+
+<details>
+    <summary><strong>Filesystem</strong></summary>
+    The Filesystem is the hierarchical structure used by an operating system to organize and manage files and directories on storage devices. It provides a means to store, retrieve, and organize data within a software application.
 </details>
 
 ![Divider](.github/assets/divider-2.jpg)
@@ -1249,8 +1264,43 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Game Engine</strong></summary>
+    A Game Engine is a software framework or platform that provides developers with tools and components to create, develop, and deploy video games. It offers features for rendering graphics, handling physics, managing assets, and enabling game logic, simplifying the game development process and enhancing productivity.
+</details>
+
+<details>
+    <summary><strong>Rendering</strong></summary>
+    Rendering refers to the process of generating output, often in the form of user interfaces or content, from source data or templates. It involves transforming data into a visually or contextually meaningful format for presentation to users or other software components.
+</details>
+
+<details>
+    <summary><strong>Physics</strong></summary>
+    Physics in game development simulates real-world physical behavior, including gravity, collisions, and object movement. It enhances realism and interactivity in games.
+</details>
+
+<details>
+    <summary><strong>Shaders</strong></summary>
+    Shaders are small programs used in game graphics to manipulate the appearance of objects and create visual effects. They control how light interacts with materials, enhancing realism and aesthetics.
+</details>
+
+<details>
+    <summary><strong>Sprites</strong></summary>
+    Sprites are 2D images or animations used in games to represent characters, objects, and effects. They are essential for creating game visuals and animations.
+</details>
+
+<details>
+    <summary><strong>Particles</strong></summary>
+    Particles are small, visual elements in games used to simulate effects like smoke, fire, rain, or explosions. They add realism and visual appeal to game environments.
+</details>
+
+<details>
+    <summary><strong>Collision Detection</strong></summary>
+    Collision Detection is a game mechanic that determines when game objects or characters intersect. It is crucial for handling interactions, such as character-environment collisions or object-object collisions.
+</details>
+
+<details>
+    <summary><strong>Pathfinding</strong></summary>
+    Pathfinding is the process of finding the best route or path for characters or objects in a game world. It is essential for creating intelligent movement and navigation within games.
 </details>
 
 ![Divider](.github/assets/divider-2.jpg)
@@ -1262,8 +1312,68 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Immersion</strong></summary>
+    Immersion refers to the feeling of being fully absorbed in a virtual or augmented reality environment, creating a sense of presence and engagement.
+</details>
+
+<details>
+    <summary><strong>Tracking</strong></summary>
+    Tracking involves monitoring the position and movement of physical objects or users within the virtual or augmented reality space. It enables interactive and responsive experiences.
+</details>
+
+<details>
+    <summary><strong>Stereoscopy</strong></summary>
+    Stereoscopy is a technique that provides depth perception by presenting slightly different images to each eye, mimicking the way humans perceive depth in the real world.
+</details>
+
+<details>
+    <summary><strong>Haptics</strong></summary>
+    Haptics uses tactile feedback, such as vibrations or force feedback, to simulate the sense of touch, enhancing realism and immersion in digital environments.
+</details>
+
+<details>
+    <summary><strong>3D Modeling</strong></summary>
+    3D Modeling is the process of creating three-dimensional digital representations of objects or environments, essential for building realistic digital worlds.
+</details>
+
+<details>
+    <summary><strong>Scene Graph</strong></summary>
+    A Scene Graph is a data structure used to organize and manage the objects and entities within a digital scene, enabling efficient rendering and interactions.
+</details>
+
+<details>
+    <summary><strong>Field of View</strong></summary>
+    Field of View (FoV) determines the extent of the observable world in a digital environment, impacting what a user can see at a given time.
+</details>
+
+<details>
+    <summary><strong>Gesture Recognition</strong></summary>
+    Gesture Recognition identifies and interprets hand or body movements made by users, enabling interactive and intuitive control of digital elements.
+</details>
+
+<details>
+    <summary><strong>Eye Tracking</strong></summary>
+    Eye Tracking monitors the movement and focus of a user's eyes, allowing for dynamic interactions and improving rendering quality based on gaze.
+</details>
+
+<details>
+    <summary><strong>Spatial Audio</strong></summary>
+    Spatial Audio creates realistic soundscapes by simulating the direction and location of audio sources, enhancing immersion and situational awareness.
+</details>
+
+<details>
+    <summary><strong>Simulated Environments</strong></summary>
+    Simulated Environments are digitally created spaces that replicate real-world or fictional settings for various applications, including training, gaming, and simulations.
+</details>
+
+<details>
+    <summary><strong>Calibration</strong></summary>
+    Calibration is the process of fine-tuning and aligning sensors and devices in digital systems to ensure accurate tracking, visuals, and interactions.
+</details>
+
+<details>
+    <summary><strong>Room Scaling</strong></summary>
+    Room Scaling allows users to move and interact within physical spaces that match the digital environment's dimensions, offering a more immersive experience.
 </details>
 
 ---
