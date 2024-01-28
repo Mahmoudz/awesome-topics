@@ -51,9 +51,11 @@ Misc:
 
 ---
 
+![Divider](.github/assets/divider-1.jpg)
+
 ### ➤ Core
 
-![Divider](.github/assets/divider-1.jpg)
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -402,9 +404,13 @@ Misc:
     Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
 </details>
 
-### ➤ Infra
+---
 
 ![Divider](.github/assets/divider-1.jpg)
+
+### ➤ Infra
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -683,9 +689,13 @@ Misc:
     Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
 </details>
 
-### ➤ Back
+---
 
 ![Divider](.github/assets/divider-1.jpg)
+
+### ➤ Back
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1047,9 +1057,13 @@ Misc:
     Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
 </details>
 
-### ➤ Front
+---
 
 ![Divider](.github/assets/divider-1.jpg)
+
+### ➤ Front
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1252,9 +1266,13 @@ Misc:
     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 </details>
 
-### ➤ Data
+---
 
 ![Divider](.github/assets/divider-1.jpg)
+
+### ➤ Data
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1306,9 +1324,13 @@ Misc:
     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 </details>
 
-### ➤ Misc
+---
 
 ![Divider](.github/assets/divider-1.jpg)
+
+### ➤ Misc
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
