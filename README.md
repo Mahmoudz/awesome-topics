@@ -14,7 +14,7 @@ Core:
 - [Algorithms & Data Structures](#algorithms-data-structures)
 - [Software Design](#software-design)
 
-Infr:
+Infra:
 
 - [Infrastructure](#infrastructure)
 - [DevOps & SRE](#devops-sre)
@@ -50,7 +50,9 @@ Misc:
 
 ---
 
-### Core
+### ➤ Core
+
+![Divider](.github/assets/divider-1.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -127,6 +129,8 @@ Misc:
     <summary><strong>API (Application Programming Interface)</strong></summary>
     An API is a set of rules and protocols that allows different software applications to communicate and interact with each other. It defines the methods and data formats for requesting and exchanging information between systems.
 </details>
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -294,9 +298,11 @@ Misc:
     Eventual Consistency is a consistency model used in distributed systems, where it is acknowledged that, given time and certain conditions, all replicas of data will eventually become consistent. It is a key consideration in designing highly available distributed systems.
 </details>
 
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
-## Algorithms & Data Strcutures 
+## Algorithms & Data Strcutures
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -395,9 +401,9 @@ Misc:
     Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
 </details>
 
----
+### ➤ Infra
 
-### Cloud:
+![Divider](.github/assets/divider-1.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -505,6 +511,8 @@ Misc:
     Network Protocols are rules and conventions that govern communication between devices and systems on a network, ensuring data exchange consistency.
 </details>
 
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## DevOps & SRE
@@ -591,6 +599,8 @@ Misc:
     Capacity Planning is the process of forecasting and provisioning resources to meet current and future service demands. It ensures that systems can handle expected workloads.
 </details>
 
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Network Security
@@ -672,9 +682,9 @@ Misc:
     Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
 </details>
 
----
+### ➤ Back
 
-### Back:
+![Divider](.github/assets/divider-1.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -756,6 +766,8 @@ Misc:
     <summary><strong>Multi-tenancy</strong></summary>
     Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
 </details>
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -853,6 +865,8 @@ Misc:
     Sharding is a database scaling technique where data is distributed across multiple databases or servers to improve performance and handle large workloads.
 </details>
 
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Backend
@@ -944,6 +958,8 @@ Misc:
     Propagation refers to the act of sending, delivering, or queuing commands or events for execution. It is a fundamental concept in event-driven and distributed systems, where actions or tasks need to be communicated and carried out across different components or services.
 </details>
 
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Information Security
@@ -1030,9 +1046,9 @@ Misc:
     Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
 </details>
 
----
+### ➤ Front
 
-### Front:
+![Divider](.github/assets/divider-1.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1040,11 +1056,25 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Web Frontend
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1052,11 +1082,25 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Desktop Development
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1064,15 +1108,27 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## VR / AR
 
 <!-- --------------------------------------------------------------------- -->
 
----
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
 
-### Data:
+### ➤ Data
+
+![Divider](.github/assets/divider-1.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1080,11 +1136,25 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## AI
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1092,15 +1162,27 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Deep Learning
 
 <!-- --------------------------------------------------------------------- -->
 
----
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
 
-### Misc:
+### ➤ Misc
+
+![Divider](.github/assets/divider-1.jpg)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1108,11 +1190,25 @@ Misc:
 
 <!-- --------------------------------------------------------------------- -->
 
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
+
 <!-- --------------------------------------------------------------------- -->
 
 ## Emerging Technologies
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Concept</strong></summary>
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+</details>
+
+![Divider](.github/assets/divider-2.jpg)
 
 ---
 
