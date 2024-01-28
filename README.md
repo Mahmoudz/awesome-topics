@@ -1,3 +1,5 @@
+![Divider](.github/assets/awesome-concepts-cover-1.png)
+
 <!-- Welcome Message Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=555555&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+To+Awesome+Concepts!)](https://git.io/typing-svg)
 
@@ -1665,6 +1667,8 @@ A curated collection of awesome technical concepts in the world of software engi
     <summary><strong>Nanotechnology</strong></summary>
     Nanotechnology is the manipulation and control of materials and structures at the nanoscale (typically at the level of atoms and molecules), leading to innovations in materials science, electronics, medicine, and energy production.
 </details>
+
+![Divider](.github/assets/divider-1.png)
 
 ---
 
