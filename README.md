@@ -1391,8 +1391,53 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Statistics</strong></summary>
+    Statistics is the mathematical study of data, involving techniques for collecting, summarizing, and analyzing data to extract meaningful insights and make data-driven decisions.
+</details>
+
+<details>
+    <summary><strong>Data Wrangling</strong></summary>
+    Data Wrangling, also known as data munging, is the process of cleaning, transforming, and preparing raw data into a suitable format for analysis and modeling.
+</details>
+
+<details>
+    <summary><strong>Data Visualization</strong></summary>
+    Data Visualization uses graphical representations such as charts, graphs, and plots to visually present data patterns, trends, and relationships, making complex data more understandable.
+</details>
+
+<details>
+    <summary><strong>Data Mining</strong></summary>
+    Data Mining involves the discovery of patterns, trends, and valuable information within large datasets using various statistical and machine learning techniques.
+</details>
+
+<details>
+    <summary><strong>Predictive Modeling</strong></summary>
+    Predictive Modeling uses statistical and machine learning algorithms to build models that predict future outcomes or trends based on historical data.
+</details>
+
+<details>
+    <summary><strong>Data Cleaning</strong></summary>
+    Data Cleaning is the process of identifying and correcting errors, inconsistencies, and missing values in datasets to ensure data accuracy and reliability.
+</details>
+
+<details>
+    <summary><strong>A/B Testing</strong></summary>
+    A/B Testing is a method used to compare two versions of a web page or product to determine which performs better in terms of user engagement or conversion rates.
+</details>
+
+<details>
+    <summary><strong>SQL (Structured Query Language)</strong></summary>
+    SQL is a programming language used for managing and querying relational databases. It allows users to retrieve, manipulate, and analyze data stored in databases.
+</details>
+
+<details>
+    <summary><strong>Business Intelligence</strong></summary>
+    Business Intelligence (BI) involves the use of data analysis tools and techniques to transform raw data into actionable insights, supporting informed business decisions.
+</details>
+
+<details>
+    <summary><strong>Data Governance</strong></summary>
+    Data Governance is a set of policies, processes, and practices that ensure data quality, integrity, and security throughout its lifecycle within an organization.
 </details>
 
 ![Divider](.github/assets/divider-2.jpg)
@@ -1404,9 +1449,50 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Natural Language Processing (NLP)</strong></summary>
+    Natural Language Processing (NLP) is a field of AI that focuses on enabling computers to understand, interpret, and generate human language. It is essential for applications like chatbots, language translation, and sentiment analysis.
 </details>
+
+<details>
+    <summary><strong>Computer Vision</strong></summary>
+    Computer Vision is a branch of AI that enables machines to interpret and understand visual information from the world, including images and videos. It is used in tasks like image recognition and object tracking.
+</details>
+
+<details>
+    <summary><strong>Expert Systems</strong></summary>
+    Expert Systems are AI systems that mimic human expertise in a specific domain by using knowledge-based rules and reasoning. They are used for decision support and problem-solving.
+</details>
+
+<details>
+    <summary><strong>Genetic Algorithms</strong></summary>
+    Genetic Algorithms are optimization algorithms inspired by the process of natural selection. They are used in AI to find solutions to complex problems by evolving and selecting the best possible solutions over generations.
+</details>
+
+<details>
+    <summary><strong>Cognitive Computing</strong></summary>
+    Cognitive Computing is a branch of AI that aims to create systems that can simulate human thought processes, including reasoning, problem-solving, and learning. It often combines multiple AI techniques.
+</details>
+
+<details>
+    <summary><strong>Speech Recognition</strong></summary>
+    Speech Recognition is the technology that enables computers to transcribe and understand spoken language. It is used in applications like voice assistants and speech-to-text systems.
+</details>
+
+<details>
+    <summary><strong>Robotics</strong></summary>
+    Robotics combines AI, sensors, and mechanical systems to create autonomous or semi-autonomous machines capable of performing tasks in the physical world. It has applications in industries like manufacturing, healthcare, and agriculture.
+</details>
+
+<details>
+    <summary><strong>Reinforcement Learning</strong></summary>
+    Reinforcement Learning is a machine learning paradigm where agents learn to make decisions by interacting with an environment. They receive rewards or penalties based on their actions, allowing them to learn optimal strategies.
+</details>
+
+<details>
+    <summary><strong>Neural Networks</strong></summary>
+    Neural Networks are a class of machine learning models inspired by the structure and function of the human brain. They are used for tasks like image recognition, natural language processing, and more.
+</details>
+
 
 ![Divider](.github/assets/divider-2.jpg)
 
@@ -1417,8 +1503,58 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Machine Learning</strong></summary>
+    Machine Learning is a subset of artificial intelligence that involves the use of algorithms and statistical models to enable computers to learn from data, make predictions, and improve performance on specific tasks without being explicitly programmed.
+</details>
+
+<details>
+    <summary><strong>Supervised Learning</strong></summary>
+    Supervised Learning is a type of machine learning where the algorithm is trained on a labeled dataset, with input-output pairs. It learns to make predictions or classify new data based on patterns in the training data.
+</details>
+
+<details>
+    <summary><strong>Unsupervised Learning</strong></summary>
+    Unsupervised Learning is a type of machine learning where the algorithm is trained on an unlabeled dataset and aims to discover hidden patterns or structure within the data. Common tasks include clustering and dimensionality reduction.
+</details>
+
+<details>
+    <summary><strong>Feature Engineering</strong></summary>
+    Feature Engineering is the process of selecting, transforming, or creating relevant features (input variables) from raw data to improve the performance of machine learning models.
+</details>
+
+<details>
+    <summary><strong>Model Evaluation</strong></summary>
+    Model Evaluation involves assessing the performance of machine learning models using various metrics and techniques to determine how well they generalize to new, unseen data.
+</details>
+
+<details>
+    <summary><strong>Decision Trees</strong></summary>
+    Decision Trees are a type of machine learning model that uses a tree-like structure to make decisions or predictions by recursively splitting data based on the most significant features.
+</details>
+
+<details>
+    <summary><strong>Random Forests</strong></summary>
+    Random Forests are an ensemble learning technique that combines multiple decision trees to improve prediction accuracy and reduce overfitting.
+</details>
+
+<details>
+    <summary><strong>Support Vector Machines (SVM)</strong></summary>
+    Support Vector Machines (SVM) are a class of machine learning algorithms used for classification and regression tasks. They aim to find a hyperplane that best separates data points into distinct classes.
+</details>
+
+<details>
+    <summary><strong>Clustering</strong></summary>
+    Clustering is an unsupervised learning technique that groups similar data points together based on their characteristics. It is used for tasks such as customer segmentation and anomaly detection.
+</details>
+
+<details>
+    <summary><strong>Regression Analysis</strong></summary>
+    Regression Analysis is a machine learning technique used to predict a continuous target variable based on input features. It models the relationship between variables and estimates numerical values.
+</details>
+
+<details>
+    <summary><strong>Ensemble Learning</strong></summary>
+    Ensemble Learning combines multiple machine learning models to make predictions or classifications. It often results in improved performance by leveraging the diversity of different models.
 </details>
 
 ![Divider](.github/assets/divider-2.jpg)
@@ -1430,8 +1566,53 @@ Misc:
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    <summary><strong>Neural Networks</strong></summary>
+    Neural Networks are a fundamental component of deep learning, consisting of interconnected layers of artificial neurons that can model complex relationships in data.
+</details>
+
+<details>
+    <summary><strong>Convolutional Neural Networks (CNN)</strong></summary>
+    Convolutional Neural Networks (CNNs) are specialized neural networks designed for processing and analyzing visual data, such as images and videos, by applying convolutional operations.
+</details>
+
+<details>
+    <summary><strong>Recurrent Neural Networks (RNN)</strong></summary>
+    Recurrent Neural Networks (RNNs) are neural networks with loops that allow them to process sequences of data, making them suitable for tasks like natural language processing and time series analysis.
+</details>
+
+<details>
+    <summary><strong>Deep Neural Network Architectures</strong></summary>
+    Deep Neural Network Architectures are complex neural network structures with many layers, enabling them to learn hierarchical representations of data and solve intricate problems.
+</details>
+
+<details>
+    <summary><strong>Transfer Learning</strong></summary>
+    Transfer Learning is a technique where a pre-trained neural network model is used as a starting point for a new task, saving time and resources while achieving good performance.
+</details>
+
+<details>
+    <summary><strong>Image Recognition</strong></summary>
+    Image Recognition is the process of identifying and classifying objects or patterns within images using deep learning models, enabling applications like facial recognition and object detection.
+</details>
+
+<details>
+    <summary><strong>Natural Language Processing with Deep Learning</strong></summary>
+    Natural Language Processing with Deep Learning involves using deep neural networks to understand, generate, and manipulate human language, enabling applications like chatbots and language translation.
+</details>
+
+<details>
+    <summary><strong>Generative Adversarial Networks (GANs)</strong></summary>
+    Generative Adversarial Networks (GANs) consist of two neural networks, a generator and a discriminator, that compete to create and evaluate realistic data, often used for generating images and creative content.
+</details>
+
+<details>
+    <summary><strong>Long Short-Term Memory (LSTM)</strong></summary>
+    Long Short-Term Memory (LSTM) is a type of recurrent neural network architecture designed to handle long sequences of data and is commonly used in tasks like speech recognition and natural language processing.
+</details>
+
+<details>
+    <summary><strong>Deep Reinforcement Learning</strong></summary>
+    Deep Reinforcement Learning combines deep learning and reinforcement learning to train agents to make decisions in complex environments, making it suitable for applications like game playing and robotics.
 </details>
 
 ---
