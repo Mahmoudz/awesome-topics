@@ -1,5 +1,3 @@
-<!-- markdownlint-disable -->
-
 <!-- Welcome Message Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=555555&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+To+Awesome+Concepts!)](https://git.io/typing-svg)
 
@@ -9,26 +7,26 @@ A curated collection of awesome technical concepts in the world of software engi
 
 ## Table of Contents
 
-Core:
+*Core:*
 
 - [Programming Fundamentals](#programming-fundamentals)
 - [Algorithms & Data Structures](#algorithms-data-structures)
 - [Software Design](#software-design)
 
-Infra:
+*Infra:*
 
 - [Infrastructure](#infrastructure)
 - [DevOps & SRE](#devops-sre)
 - [Network Security](#network-security)
 
-Back:
+*Back:*
 
 - [System Architecture](#system-architecture)
 - [Databases](#databases)
 - [Backend](#backend)
 - [Information Security](#information-security)
 
-Front:
+*Front:*
 
 - [UI / UX](#ui-ux)
 - [Web Frontend](#web-frontend)
@@ -37,29 +35,25 @@ Front:
 - [Games Development](#games)
 - [VR / AR](#vr-ar)
 
-Data:
+*Data:*
 
 - [Data Science](#data-science)
 - [AI](#ai)
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
 
-Misc:
+*Misc:*
 
 - [Blockchain](#blockchain)
 - [Emerging Technologies](#emerging-technologies)
 
 ---
 
-![Divider](.github/assets/divider-1.jpg)
-
-### ➤ Core
-
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Programming Fundamentals
+# Programming Fundamentals
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -133,11 +127,11 @@ Misc:
     An API is a set of rules and protocols that allows different software applications to communicate and interact with each other. It defines the methods and data formats for requesting and exchanging information between systems.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Software Design
+# Software Design
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -301,11 +295,11 @@ Misc:
     Eventual Consistency is a consistency model used in distributed systems, where it is acknowledged that, given time and certain conditions, all replicas of data will eventually become consistent. It is a key consideration in designing highly available distributed systems.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Algorithms & Data Strcutures
+# Algorithms & Data Strcutures
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -404,17 +398,11 @@ Misc:
     Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
 </details>
 
----
-
-![Divider](.github/assets/divider-1.jpg)
-
-### ➤ Infra
-
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Infrastructure
+# Infrastructure
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -518,11 +506,11 @@ Misc:
     Network Protocols are rules and conventions that govern communication between devices and systems on a network, ensuring data exchange consistency.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## DevOps & SRE
+# DevOps & SRE
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -606,11 +594,11 @@ Misc:
     Capacity Planning is the process of forecasting and provisioning resources to meet current and future service demands. It ensures that systems can handle expected workloads.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Network Security
+# Network Security
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -689,17 +677,11 @@ Misc:
     Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
 </details>
 
----
-
-![Divider](.github/assets/divider-1.jpg)
-
-### ➤ Back
-
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## System Architecture
+# System Architecture
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -778,11 +760,11 @@ Misc:
     Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Databases
+# Databases
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -876,11 +858,11 @@ Misc:
     Sharding is a database scaling technique where data is distributed across multiple databases or servers to improve performance and handle large workloads.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Backend
+# Backend
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -964,11 +946,11 @@ Misc:
     Propagation refers to the act of sending, delivering, or queuing commands or events for execution. It is a fundamental concept in event-driven and distributed systems, where actions or tasks need to be communicated and carried out across different components or services.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Information Security
+# Information Security
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1052,17 +1034,11 @@ Misc:
     Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
 </details>
 
----
-
-![Divider](.github/assets/divider-1.jpg)
-
-### ➤ Front
-
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## UI / UX
+# UI / UX
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1136,11 +1112,11 @@ Misc:
     Microinteractions are subtle, momentary animations or feedback in a user interface. They enhance user engagement and provide immediate visual or audio cues in response to user actions, contributing to a more interactive and enjoyable user experience.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Web Frontend
+# Web Frontend
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1194,11 +1170,11 @@ Misc:
     The DOM is an API for HTML and XML documents, providing a structured representation of the document. Understanding the DOM is essential for dynamic content manipulation and event handling.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Mobile Development
+# Mobile Development
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1222,11 +1198,11 @@ Misc:
     App Store Optimization is the process of optimizing a mobile app's listing on app stores (e.g., Apple App Store, Google Play) to improve its visibility and discoverability. It involves optimizing keywords, images, and descriptions to attract more downloads.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Desktop Development
+# Desktop Development
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1255,11 +1231,11 @@ Misc:
     The Filesystem is the hierarchical structure used by an operating system to organize and manage files and directories on storage devices. It provides a means to store, retrieve, and organize data within a software application.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Games Development
+# Games Development
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1303,11 +1279,11 @@ Misc:
     Pathfinding is the process of finding the best route or path for characters or objects in a game world. It is essential for creating intelligent movement and navigation within games.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## VR / AR
+# VR / AR
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1376,17 +1352,11 @@ Misc:
     Room Scaling allows users to move and interact within physical spaces that match the digital environment's dimensions, offering a more immersive experience.
 </details>
 
----
-
-![Divider](.github/assets/divider-1.jpg)
-
-### ➤ Data
-
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Data Science
+# Data Science
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1440,11 +1410,11 @@ Misc:
     Data Governance is a set of policies, processes, and practices that ensure data quality, integrity, and security throughout its lifecycle within an organization.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## AI
+# AI
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1494,11 +1464,11 @@ Misc:
 </details>
 
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Machine Learning
+# Machine Learning
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1557,11 +1527,11 @@ Misc:
     Ensemble Learning combines multiple machine learning models to make predictions or classifications. It often results in improved performance by leveraging the diversity of different models.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Deep Learning
+# Deep Learning
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1615,17 +1585,11 @@ Misc:
     Deep Reinforcement Learning combines deep learning and reinforcement learning to train agents to make decisions in complex environments, making it suitable for applications like game playing and robotics.
 </details>
 
----
-
-![Divider](.github/assets/divider-1.jpg)
-
-### ➤ Misc
-
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Blockchain
+# Blockchain
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1669,11 +1633,11 @@ Misc:
     Tokens are digital assets or representations of value that can be created, transferred, or exchanged within a blockchain ecosystem, serving various purposes, such as access, ownership, or utility.
 </details>
 
-![Divider](.github/assets/divider-2.jpg)
+![Divider](.github/assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
-## Emerging Technologies
+# Emerging Technologies
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1702,19 +1666,16 @@ Misc:
     Nanotechnology is the manipulation and control of materials and structures at the nanoscale (typically at the level of atoms and molecules), leading to innovations in materials science, electronics, medicine, and energy production.
 </details>
 
-
-![Divider](.github/assets/divider-2.jpg)
-
 ---
 
-## Stay Updated
+# Stay Updated
 
 For more tech insights, follow me on Twitter X [@Mahmoud_Zalt](https://twitter.com/Mahmoud_Zalt).
 
-## Contributing
+# Contributing
 
-We highly appreciate your contributions. For guidance, check our [Contributing Guide](CONTRIBUTING.md).
+We highly appreciate your contributions. Check our [Contributing Guide](CONTRIBUTING.md).
 
-## License
+# License
 
-This repository is licensed under a [CC BY-NC-SA 4.0](LICENSE) © [Mahmoud Zalt](https://github.com/Mahmoudz).
+This repository is licensed under a [CC BY-NC-SA 4.0](LICENSE).
