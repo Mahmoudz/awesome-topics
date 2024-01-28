@@ -7,42 +7,42 @@ A curated collection of awesome technical concepts in the world of software engi
 
 ## Table of Contents
 
-*Core:*
+**Core:**
 
 - [Programming Fundamentals](#programming-fundamentals)
-- [Algorithms & Data Structures](#algorithms-data-structures)
 - [Software Design](#software-design)
+- [Algorithms / Data Structures](#algorithms--data-structures)
 
-*Infra:*
+**Infra:**
 
 - [Infrastructure](#infrastructure)
-- [DevOps & SRE](#devops-sre)
+- [DevOps / SRE](#devops--sre)
 - [Network Security](#network-security)
 
-*Back:*
+**Back:**
 
 - [System Architecture](#system-architecture)
 - [Databases](#databases)
 - [Backend](#backend)
 - [Information Security](#information-security)
 
-*Front:*
+**Front:**
 
-- [UI / UX](#ui-ux)
+- [UI / UX](#ui--ux)
 - [Web Frontend](#web-frontend)
 - [Mobile Development](#mobile)
 - [Desktop Development](#desktop)
 - [Games Development](#games)
-- [VR / AR](#vr-ar)
+- [VR / AR](#vr--ar)
 
-*Data:*
+**Data:**
 
 - [Data Science](#data-science)
 - [AI](#ai)
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
 
-*Misc:*
+**Misc:**
 
 - [Blockchain](#blockchain)
 - [Emerging Technologies](#emerging-technologies)
@@ -299,7 +299,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <!-- --------------------------------------------------------------------- -->
 
-# Algorithms & Data Strcutures
+# Algorithms / Data Structures
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -510,7 +510,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <!-- --------------------------------------------------------------------- -->
 
-# DevOps & SRE
+# DevOps / SRE
 
 <!-- --------------------------------------------------------------------- -->
 
