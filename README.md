@@ -1,11 +1,9 @@
 [![Awesome Concepts](assets/cover-1.png)](https://github.com/Mahmoudz/awesome-concepts)
 
 <!-- Welcome Message Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=555555&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Concepts!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=555555&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Concepts!)](https://github.com/Mahmoudz/awesome-concepts)
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-# Awesome Concepts 
+# Awesome Concepts    [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated collection of awesome technical concepts in the world of software engineering, explained in a concise and user-friendly manner. Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical concepts.
 
@@ -14,8 +12,8 @@ A curated collection of awesome technical concepts in the world of software engi
 **Core:**
 
 - [Programming Fundamentals](#programming-fundamentals)
-- [Software Design](#software-design)
 - [Algorithms / Data Structures](#algorithms--data-structures)
+- [Software Design](#software-design)
 
 **Infra:**
 
@@ -60,6 +58,46 @@ A curated collection of awesome technical concepts in the world of software engi
 # Programming Fundamentals
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Syntax</strong></summary>
+    Syntax refers to the set of rules and conventions that dictate the structure and format of code in a programming language, ensuring that it is written correctly and can be understood by both humans and computers.
+</details>
+
+<details>
+    <summary><strong>Loops</strong></summary>
+    Loops are control structures in programming that allow a set of instructions to be repeated multiple times, often based on a condition or for a specified number of iterations, improving code efficiency.
+</details>
+
+<details>
+    <summary><strong>Conditional Statements</strong></summary>
+    Conditional Statements are programming constructs that enable different code blocks to be executed based on specified conditions, facilitating decision-making in programs.
+</details>
+
+<details>
+    <summary><strong>Operators</strong></summary>
+    Operators are symbols or keywords in programming languages used to perform operations on data, such as arithmetic, comparison, and logical operations, enabling manipulation and computation.
+</details>
+
+<details>
+    <summary><strong>Compilation</strong></summary>
+    Compilation is the process in which the source code of a program is translated into machine code or an intermediate code by a compiler, making it executable by a computer.
+</details>
+
+<details>
+    <summary><strong>Source Code</strong></summary>
+    Source Code is the human-readable code written by developers in a programming language, serving as the foundation for creating software applications and systems.
+</details>
+
+<details>
+    <summary><strong>Framework</strong></summary>
+    A Framework is a pre-established structure or set of tools and libraries in which developers can build software applications, streamlining development and providing common functionalities.
+</details>
+
+<details>
+    <summary><strong>Library</strong></summary>
+    A Library is a collection of pre-written functions, routines, and code modules that developers can reuse in their programs to perform specific tasks or operations, saving time and effort.
+</details>
 
 <details>
     <summary><strong>IDE (Integrated Development Environment)</strong></summary>
@@ -129,6 +167,114 @@ A curated collection of awesome technical concepts in the world of software engi
 <details>
     <summary><strong>API (Application Programming Interface)</strong></summary>
     An API is a set of rules and protocols that allows different software applications to communicate and interact with each other. It defines the methods and data formats for requesting and exchanging information between systems.
+</details>
+
+![Divider](assets/divider-1.png)
+
+<!-- --------------------------------------------------------------------- -->
+
+# Algorithms / Data Structures
+
+<!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Algorithms</strong></summary>
+    Algorithms are sets of instructions or steps to accomplish a specific task or solve problems. They are fundamental in computing, guiding how data is processed and analyzed efficiently.
+</details>
+
+<details>
+    <summary><strong>Big O Notation</strong></summary>
+    Big O Notation measures algorithm efficiency by how run time increases with input size. It's key for understanding and comparing different algorithms, especially in large-scale systems. Examples include O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), and O(n!).
+</details>
+
+<details>
+    <summary><strong>Data Types</strong></summary>
+    Data Types in programming define the type of data that a variable can hold, including integers, strings, booleans, and more, ensuring data integrity and enabling proper data manipulation.
+</details>
+
+<details>
+    <summary><strong>Data Structures</strong></summary>
+    Data Structures are ways to organize and store data, like arrays, trees, and graphs. They're the backbone of efficient algorithms and enable effective data management and access.
+</details>
+
+<details>
+    <summary><strong>Arrays</strong></summary>
+    Arrays store elements in a fixed-size, sequential collection. They offer fast access by index but have fixed sizes and require contiguous memory allocation.
+</details>
+
+<details>
+    <summary><strong>Linked Lists</strong></summary>
+    Linked Lists consist of nodes linked together in a sequence. Each node contains data and a reference to the next node. They allow for dynamic size and easy insertion/deletion.
+</details>
+
+<details>
+    <summary><strong>Stacks</strong></summary>
+    Stacks operate on a Last In, First Out (LIFO) principle. They are used for tasks like backtracking and function call management, allowing only top-element access.
+</details>
+
+<details>
+    <summary><strong>Queues</strong></summary>
+    Queues follow a First In, First Out (FIFO) order. They are essential in managing tasks in a sequential process, like printer task scheduling.
+</details>
+
+<details>
+    <summary><strong>Hash Tables</strong></summary>
+    Hash Tables store key-value pairs for efficient data retrieval. They use a hash function to compute an index for each key, enabling fast lookups.
+</details>
+
+<details>
+    <summary><strong>Trees</strong></summary>
+    Trees are hierarchical structures, with a root value and subtrees of children with a parent node. They are vital in representing hierarchical data, like file systems.
+</details>
+
+<details>
+    <summary><strong>Heaps</strong></summary>
+    Heaps are specialized trees ensuring the highest (or lowest) priority element remains at the top, commonly used in priority queues.
+</details>
+
+<details>
+    <summary><strong>Graphs</strong></summary>
+    Graphs consist of nodes (or vertices) connected by edges. They represent networks, such as social connections or routing systems.
+</details>
+
+<details>
+    <summary><strong>Trie</strong></summary>
+    Trie, or prefix tree, stores strings in a tree-like structure, allowing for efficient retrieval of words or prefixes in a dataset.
+</details>
+
+<details>
+    <summary><strong>Sets</strong></summary>
+    Sets are collections of unique elements. They are used for storing non-duplicate values and for operations like union and intersection.
+</details>
+
+<details>
+    <summary><strong>Recursion</strong></summary>
+    Recursion is a technique where a function calls itself to solve smaller parts of a problem. It simplifies complex problems, often used in sorting, searching, and traversing structures.
+</details>
+
+<details>
+    <summary><strong>Dynamic Programming</strong></summary>
+    Dynamic Programming is a strategy to solve complex problems by breaking them down into simpler subproblems. It stores the results of subproblems to avoid repeated work, enhancing efficiency.
+</details>
+
+<details>
+    <summary><strong>Memoization</strong></summary>
+    Memoization is an optimization technique that stores the results of expensive function calls and returns the cached result for repeated calls. It's effective in reducing computing time.
+</details>
+
+<details>
+    <summary><strong>Graph Theory</strong></summary>
+    Graph Theory deals with graphs, consisting of nodes and connections. It's fundamental in network analysis, path finding in maps, and solving various interconnected problems.
+</details>
+
+<details>
+    <summary><strong>Sorting</strong></summary>
+    Sorting is arranging data in a certain order. Essential for data analysis and optimization, various algorithms provide different ways to sort efficiently based on the context.
+</details>
+
+<details>
+    <summary><strong>Searching</strong></summary>
+    Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
 </details>
 
 ![Divider](assets/divider-1.png)
@@ -303,112 +449,14 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <!-- --------------------------------------------------------------------- -->
 
-# Algorithms / Data Structures
-
-<!-- --------------------------------------------------------------------- -->
-
-<details>
-    <summary><strong>Algorithms</strong></summary>
-    Algorithms are sets of instructions or steps to accomplish a specific task or solve problems. They are fundamental in computing, guiding how data is processed and analyzed efficiently.
-</details>
-
-<details>
-    <summary><strong>Big O Notation</strong></summary>
-    Big O Notation measures algorithm efficiency by how run time increases with input size. It's key for understanding and comparing different algorithms, especially in large-scale systems. Examples include O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), and O(n!).
-</details>
-
-<details>
-    <summary><strong>Data Structures</strong></summary>
-    Data Structures are ways to organize and store data, like arrays, trees, and graphs. They're the backbone of efficient algorithms and enable effective data management and access.
-</details>
-
-<details>
-    <summary><strong>Arrays</strong></summary>
-    Arrays store elements in a fixed-size, sequential collection. They offer fast access by index but have fixed sizes and require contiguous memory allocation.
-</details>
-
-<details>
-    <summary><strong>Linked Lists</strong></summary>
-    Linked Lists consist of nodes linked together in a sequence. Each node contains data and a reference to the next node. They allow for dynamic size and easy insertion/deletion.
-</details>
-
-<details>
-    <summary><strong>Stacks</strong></summary>
-    Stacks operate on a Last In, First Out (LIFO) principle. They are used for tasks like backtracking and function call management, allowing only top-element access.
-</details>
-
-<details>
-    <summary><strong>Queues</strong></summary>
-    Queues follow a First In, First Out (FIFO) order. They are essential in managing tasks in a sequential process, like printer task scheduling.
-</details>
-
-<details>
-    <summary><strong>Hash Tables</strong></summary>
-    Hash Tables store key-value pairs for efficient data retrieval. They use a hash function to compute an index for each key, enabling fast lookups.
-</details>
-
-<details>
-    <summary><strong>Trees</strong></summary>
-    Trees are hierarchical structures, with a root value and subtrees of children with a parent node. They are vital in representing hierarchical data, like file systems.
-</details>
-
-<details>
-    <summary><strong>Heaps</strong></summary>
-    Heaps are specialized trees ensuring the highest (or lowest) priority element remains at the top, commonly used in priority queues.
-</details>
-
-<details>
-    <summary><strong>Graphs</strong></summary>
-    Graphs consist of nodes (or vertices) connected by edges. They represent networks, such as social connections or routing systems.
-</details>
-
-<details>
-    <summary><strong>Trie</strong></summary>
-    Trie, or prefix tree, stores strings in a tree-like structure, allowing for efficient retrieval of words or prefixes in a dataset.
-</details>
-
-<details>
-    <summary><strong>Sets</strong></summary>
-    Sets are collections of unique elements. They are used for storing non-duplicate values and for operations like union and intersection.
-</details>
-
-<details>
-    <summary><strong>Recursion</strong></summary>
-    Recursion is a technique where a function calls itself to solve smaller parts of a problem. It simplifies complex problems, often used in sorting, searching, and traversing structures.
-</details>
-
-<details>
-    <summary><strong>Dynamic Programming</strong></summary>
-    Dynamic Programming is a strategy to solve complex problems by breaking them down into simpler subproblems. It stores the results of subproblems to avoid repeated work, enhancing efficiency.
-</details>
-
-<details>
-    <summary><strong>Memoization</strong></summary>
-    Memoization is an optimization technique that stores the results of expensive function calls and returns the cached result for repeated calls. It's effective in reducing computing time.
-</details>
-
-<details>
-    <summary><strong>Graph Theory</strong></summary>
-    Graph Theory deals with graphs, consisting of nodes and connections. It's fundamental in network analysis, path finding in maps, and solving various interconnected problems.
-</details>
-
-<details>
-    <summary><strong>Sorting</strong></summary>
-    Sorting is arranging data in a certain order. Essential for data analysis and optimization, various algorithms provide different ways to sort efficiently based on the context.
-</details>
-
-<details>
-    <summary><strong>Searching</strong></summary>
-    Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
-</details>
-
-![Divider](assets/divider-1.png)
-
-<!-- --------------------------------------------------------------------- -->
-
 # Infrastructure
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Infrastructure</strong></summary>
+    Infrastructure, including on-premises and cloud-based resources, refers to the foundational components, hardware, and software that support and enable the operation of computer systems, networks, and IT environments, forming the backbone of modern technology ecosystems.
+</details>
 
 <details>
     <summary><strong>Virtualization</strong></summary>
@@ -519,6 +567,16 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>DevOps</strong></summary>
+    DevOps integrates software development and IT operations, focusing on collaboration, automation, and continuous delivery. It aims to improve efficiency, reduce development time, and enhance software quality through streamlined processes.
+</details>
+
+<details>
+    <summary><strong>Site Reliability Engineering (SRE)</strong></summary>
+    SRE blends software engineering with IT operations for reliable software systems. It emphasizes automation, continuous improvement, and proactive problem-solving for system reliability. SRE balances new features with system stability and performance.
+</details>
+
+<details>
     <summary><strong>Continuous Integration (CI)</strong></summary>
     Continuous Integration is a development practice where code changes are automatically integrated and tested frequently. It aims to identify and resolve integration issues early in the development process.
 </details>
@@ -607,6 +665,11 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Network Security</strong></summary>
+    Network Security involves policies, practices, and tools designed to protect data integrity and network accessibility. It prevents unauthorized access, misuse, malfunction, modification, destruction, or improper disclosure, ensuring safe and secure network operations and data transmission.
+</details>
+
+<details>
     <summary><strong>Firewall</strong></summary>
     A Firewall is a network security device that monitors and controls incoming and outgoing network traffic. It acts as a barrier between a trusted internal network and untrusted external networks, filtering traffic based on predefined rules.
 </details>
@@ -688,6 +751,11 @@ A curated collection of awesome technical concepts in the world of software engi
 # System Architecture
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>System Architecture</strong></summary>
+    System Architecture defines the structure and behavior of a system. It outlines components, their relationships, and the principles guiding design and evolution, crucial for functionality, performance, and scalability.
+</details>
 
 <details>
     <summary><strong>Scalability</strong></summary>
@@ -773,8 +841,8 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
-    <summary><strong>Relational Database</strong></summary>
-    A Relational Database stores data in structured tables with defined relationships between them. It uses SQL for querying and managing data.
+    <summary><strong>Relational Database (RDBMS)</strong></summary>
+    RDBMS is a database management system based on the relational model. It organizes data into tables with rows and columns, allowing for efficient data retrieval, management, and storage. Key features include data integrity, normalization, and support for SQL queries.
 </details>
 
 <details>
@@ -871,6 +939,11 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Backend</strong></summary>
+    The backend refers to the server side of a website or application, responsible for managing data storage and processing. It includes servers, databases, and applications that work behind the scenes to deliver functionality and manage user interactions.
+</details>
+
+<details>
     <summary><strong>Synchronization</strong></summary>
     Synchronization is the coordination of multiple threads or processes to ensure orderly and consistent execution. It is essential for preventing race conditions and maintaining data integrity in concurrent systems.
 </details>
@@ -957,6 +1030,11 @@ A curated collection of awesome technical concepts in the world of software engi
 # Information Security
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Information Security</strong></summary>
+    Information Security protects data from unauthorized access and breaches, ensuring its confidentiality, integrity, and availability. It covers cyber security and risk management practices for both digital and physical data.
+</details>
 
 <details>
     <summary><strong>Data Encryption</strong></summary>
@@ -1047,6 +1125,16 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>User Interface (UI)</strong></summary>
+    User Interface (UI) is the point of interaction between a user and a digital device or application. It involves the design and layout of screens, buttons, icons, and other visual elements that enable users to interact effectively with technology.
+</details>
+
+<details>
+    <summary><strong>User Experience (UX)</strong></summary>
+    User Experience (UX) encompasses all aspects of a user's interaction with a company, its services, and its products. It focuses on understanding user needs and creating products that provide meaningful and relevant experiences, integrating aspects of design, usability, and function.
+</details>
+
+<details>
     <summary><strong>Wireframing</strong></summary>
     Wireframing is the process of creating visual representations of web page layouts and structures. These wireframes serve as a blueprint for designers and developers, outlining the placement of elements, content, and functionality, without delving into design details.
 </details>
@@ -1123,6 +1211,11 @@ A curated collection of awesome technical concepts in the world of software engi
 # Web Frontend
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Web Frontend</strong></summary>
+    Frontend refers to the part of a website or web application that users interact with directly. It involves the design and development of the user interface, including elements like layout, graphics, and interactivity, typically using technologies like HTML, CSS, and JS.
+</details>
 
 <details>
     <summary><strong>Responsive Design</strong></summary>
@@ -1292,6 +1385,16 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Virtual Reality (VR)</strong></summary>
+    Virtual Reality (VR) is a simulated experience that can be similar to or completely different from the real world. It uses computer technology to create a three-dimensional, interactive environment, often requiring equipment like headsets and sensors for a fully immersive experience.
+</details>
+
+<details>
+    <summary><strong>Augmented Reality (AR)</strong></summary>
+    Augmented Reality (AR) blends digital content with the real world. It overlays computer-generated images, sounds, or other data onto our physical environment, enhancing real-world experiences with interactive and digitally manipulative features, often through devices like smartphones or AR glasses.
+</details>
+
+<details>
     <summary><strong>Immersion</strong></summary>
     Immersion refers to the feeling of being fully absorbed in a virtual or augmented reality environment, creating a sense of presence and engagement.
 </details>
@@ -1365,6 +1468,11 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Data Science</strong></summary>
+    Data Science involves extracting insights and knowledge from structured and unstructured data. It combines aspects of statistics, computer science, and information technology to analyze, visualize, and interpret data for decision-making and problem-solving in various domains.
+</details>
+
+<details>
     <summary><strong>Statistics</strong></summary>
     Statistics is the mathematical study of data, involving techniques for collecting, summarizing, and analyzing data to extract meaningful insights and make data-driven decisions.
 </details>
@@ -1421,6 +1529,16 @@ A curated collection of awesome technical concepts in the world of software engi
 # AI
 
 <!-- --------------------------------------------------------------------- -->
+
+<details>
+    <summary><strong>Artificial Intelligence (AI)</strong></summary>
+    Artificial Intelligence (AI) is the simulation of human intelligence in machines. These AI systems are designed to perform tasks that typically require human intelligence, including learning, reasoning, problem-solving, perception, and language understanding.
+</details>
+
+<details>
+    <summary><strong>Artificial General Intelligence (AGI)</strong></summary>
+    Artificial General Intelligence (AGI) refers to a type of AI that has the ability to understand, learn, and apply its intelligence broadly and flexibly, akin to human cognitive abilities. AGI can perform any intellectual task that a human being can, across diverse domains.
+</details>
 
 <details>
     <summary><strong>Natural Language Processing (NLP)</strong></summary>
@@ -1540,6 +1658,11 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Deep Learning</strong></summary>
+    Deep Learning is a subset of Machine Learning using neural networks with many layers. It's particularly effective in recognizing patterns and making predictions from large amounts of data, often used in applications like image and speech recognition.
+</details>
+
+<details>
     <summary><strong>Neural Networks</strong></summary>
     Neural Networks are a fundamental component of deep learning, consisting of interconnected layers of artificial neurons that can model complex relationships in data.
 </details>
@@ -1646,12 +1769,17 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Emerging Technologies</strong></summary>
+    Emerging Technologies refer to novel and rapidly evolving technological innovations that have significant potential to impact society and business.
+</details>
+
+<details>
     <summary><strong>Quantum Computing</strong></summary>
     Quantum Computing is an advanced computing paradigm that uses the principles of quantum mechanics to perform complex calculations at speeds unimaginable by classical computers, potentially revolutionizing various fields, including cryptography and optimization.
 </details>
 
 <details>
-    <summary><strong>5G Technology</strong></summary>
+    <summary><strong>5G</strong></summary>
     5G Technology is the fifth generation of wireless communication technology, offering faster data speeds, lower latency, and increased connectivity, paving the way for innovations in IoT, autonomous vehicles, and augmented reality.
 </details>
 
