@@ -26,10 +26,11 @@ The following template illustrates the preferred structure for README sections.
 # Section
 <!-- --------------------------------------------------------------------- -->
 
-<details>
-    <summary><strong>Concept</strong></summary>
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-</details>
+<details><summary><strong>Concept</strong></summary><p>
+
+> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+</p></details>
 ```
 
 ## Contribution Guidelines
