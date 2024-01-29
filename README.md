@@ -1,4 +1,4 @@
-[![Awesome Concepts](assets/cover-1.png)](https://github.com/Mahmoudz/awesome-concepts)
+[![Awesome Concepts](assets/images/cover-1.png)](https://github.com/Mahmoudz/awesome-concepts)
 
 <!-- Welcome Message Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=555555&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Concepts!)](https://github.com/Mahmoudz/awesome-concepts)
@@ -8,6 +8,8 @@
 A curated collection of awesome technical concepts in the world of software engineering, explained in a concise and user-friendly manner. Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical concepts.
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+> **Disclaimer:**  This collection thrives on your contributions. ❤️ It's a starting point, and I can't do it alone. Your input is vital to make it more comprehensive. If you have a favorite concept missing here, please [join in](#Contributing) shaping this resource together for the community's benefit. 
 
 ## Contents
 
@@ -53,7 +55,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 ---
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -186,7 +188,7 @@ A curated collection of awesome technical concepts in the world of software engi
     An API is a set of rules and protocols that allows different software applications to communicate and interact with each other. It defines the methods and data formats for requesting and exchanging information between systems.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -294,7 +296,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -462,7 +464,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Eventual Consistency is a consistency model used in distributed systems, where it is acknowledged that, given time and certain conditions, all replicas of data will eventually become consistent. It is a key consideration in designing highly available distributed systems.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -570,7 +572,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Network Protocols are rules and conventions that govern communication between devices and systems on a network, ensuring data exchange consistency.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -668,7 +670,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Capacity Planning is the process of forecasting and provisioning resources to meet current and future service demands. It ensures that systems can handle expected workloads.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -756,7 +758,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -844,7 +846,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -942,7 +944,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Sharding is a database scaling technique where data is distributed across multiple databases or servers to improve performance and handle large workloads.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1045,7 +1047,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Propagation refers to the act of sending, delivering, or queuing commands or events for execution. It is a fundamental concept in event-driven and distributed systems, where actions or tasks need to be communicated and carried out across different components or services.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1138,7 +1140,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1226,7 +1228,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Microinteractions are subtle, momentary animations or feedback in a user interface. They enhance user engagement and provide immediate visual or audio cues in response to user actions, contributing to a more interactive and enjoyable user experience.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1294,7 +1296,7 @@ A curated collection of awesome technical concepts in the world of software engi
     The DOM is an API for HTML and XML documents, providing a structured representation of the document. Understanding the DOM is essential for dynamic content manipulation and event handling.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1338,7 +1340,7 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1386,7 +1388,7 @@ A curated collection of awesome technical concepts in the world of software engi
     An Installer is a software application or package used to install or set up another software program on a computer. It often includes options for customization, configuration, and dependencies to ensure the correct installation of the desired software.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1454,7 +1456,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Game Assets are digital resources used in game development, including graphics, audio, 3D models, textures, and code. They are essential components for creating immersive gaming experiences.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1537,7 +1539,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Room Scaling allows users to move and interact within physical spaces that match the digital environment's dimensions, offering a more immersive experience.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1600,7 +1602,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Data Governance is a set of policies, processes, and practices that ensure data quality, integrity, and security throughout its lifecycle within an organization.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1664,7 +1666,7 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1727,7 +1729,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Ensemble Learning combines multiple machine learning models to make predictions or classifications. It often results in improved performance by leveraging the diversity of different models.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1790,7 +1792,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Deep Reinforcement Learning combines deep learning and reinforcement learning to train agents to make decisions in complex environments, making it suitable for applications like game playing and robotics.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1838,7 +1840,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Tokens are digital assets or representations of value that can be created, transferred, or exchanged within a blockchain ecosystem, serving various purposes, such as access, ownership, or utility.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
 
@@ -1876,7 +1878,7 @@ A curated collection of awesome technical concepts in the world of software engi
     Nanotechnology is the manipulation and control of materials and structures at the nanoscale (typically at the level of atoms and molecules), leading to innovations in materials science, electronics, medicine, and energy production.
 </details>
 
-![Divider](assets/divider-1.png)
+![Divider](assets/images/divider-1.png)
 
 ---
 
@@ -1886,7 +1888,7 @@ For more tech insights, follow me on Twitter X [@Mahmoud_Zalt](https://twitter.c
 
 # Contributing
 
-We highly appreciate your contributions. Check our [Contributing Guide](.github/CONTRIBUTING.md).
+We need your contribution. Plesse check our [Contributing Guide](.github/CONTRIBUTING.md).
 
 # License
 
