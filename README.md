@@ -1,16 +1,13 @@
-![Divider](assets/awesome-concepts-cover-1.png)
+[![Awesome Concepts](assets/cover-1.png)](https://github.com/Mahmoudz/awesome-concepts)
 
 <!-- Welcome Message Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=555555&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Concepts!)](https://git.io/typing-svg)
 
-# Awesome Concepts: Your Guide to Tech Mastery
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated collection of awesome technical concepts in the world of software engineering, explained in a concise and user-friendly manner. 
+# Awesome Concepts 
 
-Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical concepts.
-
-We're proud to be part of the [Awesome List Movement](https://github.com/sindresorhus/awesome). Our goal is to uniquely demystify complex tech concepts, making learning easier and more accessible for everyone.
-
+A curated collection of awesome technical concepts in the world of software engineering, explained in a concise and user-friendly manner. Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical concepts.
 
 ## Contents
 
