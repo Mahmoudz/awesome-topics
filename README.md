@@ -32,9 +32,9 @@ A curated collection of awesome technical concepts in the world of software engi
 
 - [UI / UX](#ui--ux)
 - [Web Frontend](#web-frontend)
-- [Mobile Development](#mobile)
-- [Desktop Development](#desktop)
-- [Games Development](#games)
+- [Mobile Development](#mobile-development)
+- [Desktop Development](#desktop-development)
+- [Games Development](#games-development)
 - [VR / AR](#vr--ar)
 
 **Data:**
@@ -60,8 +60,23 @@ A curated collection of awesome technical concepts in the world of software engi
 <!-- --------------------------------------------------------------------- -->
 
 <details>
+    <summary><strong>Compiler</strong></summary>
+    A Compiler is a program that translates high-level source code into machine code, executable by a computer. It processes the entire code at once, generating a standalone executable file, optimizing the code for performance.
+</details>
+
+<details>
+    <summary><strong>Interpreter</strong></summary>
+    An Interpreter directly executes instructions written in a programming or scripting language without previously converting them to an object code or machine code. It reads, analyzes, and executes each line of code in sequence, making it slower but more flexible than a compiler.
+</details>
+
+<details>
     <summary><strong>Syntax</strong></summary>
     Syntax refers to the set of rules and conventions that dictate the structure and format of code in a programming language, ensuring that it is written correctly and can be understood by both humans and computers.
+</details>
+
+<details>
+    <summary><strong>Binary Code</strong></summary>
+    Binary Code is a system of representing information using only two symbols, typically 0 and 1. It's fundamental in computing, where each binary digit (bit) represents a discrete piece of data or instruction, forming the basis for all digital communication and computation.
 </details>
 
 <details>
@@ -464,8 +479,8 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 <details>
-    <summary><strong>Cloud Computing</strong></summary>
-    Cloud Computing delivers computing services—servers, storage, databases, networking, software, analytics, and more—over the Internet ("the cloud"). It provides flexibility, scalability, and cost efficiency, allowing users to pay only for cloud services they use.
+    <summary><strong>Cloud</strong></summary>
+    Cloud computing provides on-demand access to a shared pool of computing resources, such as servers, storage, and services, over the internet.
 </details>
 
 <details>
@@ -501,11 +516,6 @@ A curated collection of awesome technical concepts in the world of software engi
 <details>
     <summary><strong>Data Centers</strong></summary>
     Data Centers are specialized facilities that house computer systems, networking equipment, and storage to support the centralized processing and management of data.
-</details>
-
-<details>
-    <summary><strong>Cloud</strong></summary>
-    Cloud computing provides on-demand access to a shared pool of computing resources, such as servers, storage, and services, over the internet.
 </details>
 
 <details>
@@ -989,6 +999,16 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 <details>
+    <summary><strong>HTTP</strong></summary>
+    HTTP, or Hypertext Transfer Protocol, is a fundamental protocol used in the World Wide Web. It defines the rules for transferring and formatting text, images, multimedia, and other resources on the internet. HTTP operates over the TCP/IP network.
+</details>
+
+<details>
+    <summary><strong>TCP</strong></summary>
+    TCP, or Transmission Control Protocol, is a core protocol of the Internet Protocol Suite (TCP/IP). It provides reliable, connection-oriented communication between devices over a network. TCP ensures data integrity by establishing and maintaining a connection, managing data transmission, and handling error recovery.
+</details>
+
+<details>
     <summary><strong>Rate Limiting</strong></summary>
     Rate limiting is a technique used to control the number of requests or connections that a client can make to a server within a specified time frame. It helps prevent overloading the server and ensures fair usage of resources.
 </details>
@@ -1248,6 +1268,11 @@ A curated collection of awesome technical concepts in the world of software engi
 </details>
 
 <details>
+    <summary><strong>SEO</strong></summary>
+    SEO, or Search Engine Optimization, is a set of strategies and techniques used to improve a website's visibility and ranking in search engine results pages (SERPs). It involves optimizing content, keywords, and various on-page and off-page factors to increase organic traffic and enhance online presence.
+</details>
+
+<details>
     <summary><strong>State Management</strong></summary>
     State Management is key in handling data and UI state in dynamic applications. It involves patterns and tools like Redux or Context API to maintain consistency and manage data flow.
 </details>
@@ -1295,6 +1320,22 @@ A curated collection of awesome technical concepts in the world of software engi
     App Store Optimization is the process of optimizing a mobile app's listing on app stores (e.g., Apple App Store, Google Play) to improve its visibility and discoverability. It involves optimizing keywords, images, and descriptions to attract more downloads.
 </details>
 
+<details>
+    <summary><strong>App Store</strong></summary>
+    An App Store is a digital platform where users can discover, download, and install software applications for their devices, such as smartphones and tablets. It provides a centralized marketplace for both free and paid apps.
+</details>
+
+<details>
+    <summary><strong>Emulator</strong></summary>
+    An Emulator is software or hardware that mimics the behavior of a different computer system or device. It allows running software or applications designed for one platform on another, enabling compatibility testing and development across various environments.
+</details>
+
+<details>
+    <summary><strong>In-App Purchases</strong></summary>
+    In-App Purchases are transactions made within a mobile app or software that enable users to buy additional features, content, or digital goods. They often contribute to the monetization of free or freemium apps and enhance user experiences.
+</details>
+
+
 ![Divider](assets/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1326,6 +1367,21 @@ A curated collection of awesome technical concepts in the world of software engi
 <details>
     <summary><strong>Filesystem</strong></summary>
     The Filesystem is the hierarchical structure used by an operating system to organize and manage files and directories on storage devices. It provides a means to store, retrieve, and organize data within a software application.
+</details>
+
+<details>
+    <summary><strong>System Tray</strong></summary>
+    The System Tray, also known as the Notification Area, is a part of the user interface in an operating system where icons and notifications for running applications and system functions are displayed, typically in the lower-right corner of the screen.
+</details>
+
+<details>
+    <summary><strong>Shortcut</strong></summary>
+    A Shortcut is a quick way to access a file, folder, program, or feature on a computer. It's typically represented by an icon or keyboard combination and allows users to open items or perform actions with ease.
+</details>
+
+<details>
+    <summary><strong>Installer</strong></summary>
+    An Installer is a software application or package used to install or set up another software program on a computer. It often includes options for customization, configuration, and dependencies to ensure the correct installation of the desired software.
 </details>
 
 ![Divider](assets/divider-1.png)
@@ -1374,6 +1430,26 @@ A curated collection of awesome technical concepts in the world of software engi
 <details>
     <summary><strong>Pathfinding</strong></summary>
     Pathfinding is the process of finding the best route or path for characters or objects in a game world. It is essential for creating intelligent movement and navigation within games.
+</details>
+
+<details>
+    <summary><strong>3D Modeling</strong></summary>
+    3D Modeling is the process of creating three-dimensional digital representations of objects or scenes. It's widely used in various industries, including gaming, architecture, and entertainment, to design and visualize complex structures.
+</details>
+
+<details>
+    <summary><strong>Animation</strong></summary>
+    Animation involves creating moving images or sequences by displaying a series of still images in rapid succession. It's used in films, games, and multimedia to bring characters, objects, and scenes to life through motion.
+</details>
+
+<details>
+    <summary><strong>Multiplayer Networking</strong></summary>
+    Multiplayer Networking refers to the technology and protocols used to enable online multiplayer gaming experiences. It allows players to connect, interact, and compete with others in real-time over the internet, enhancing gaming engagement.
+</details>
+
+<details>
+    <summary><strong>Game Assets</strong></summary>
+    Game Assets are digital resources used in game development, including graphics, audio, 3D models, textures, and code. They are essential components for creating immersive gaming experiences.
 </details>
 
 ![Divider](assets/divider-1.png)
