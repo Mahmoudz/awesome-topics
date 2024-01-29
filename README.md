@@ -1,5 +1,7 @@
 [![Awesome Concepts](assets/images/cover-1.png)](https://github.com/Mahmoudz/awesome-concepts)
 
+![Alt text](assets/images/awesome-concepts.png)
+
 <!-- Welcome Message Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=555555&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Concepts!)](https://github.com/Mahmoudz/awesome-concepts)
 

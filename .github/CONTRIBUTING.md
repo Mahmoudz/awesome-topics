@@ -6,7 +6,8 @@ Your interest in contributing to "Awesome Concepts" is greatly appreciated! By p
 
 1. **Understand Our Approach**: Familiarize yourself with Awesome Concepts' approach, emphasizing clear, concise, and accurate explanations of technical concepts.
 2. **Choose Your Contribution**: Select from the following contribution areas: adding a new concept, editing an existing concept, introducing a new subject, or enhancing the design.
-3. **Meet Quality Standards**: Ensure contributions meet our standards for clarity, conciseness, and accuracy. Review our [Pull Request Template](#) for detailed guidance.
+3. **Meet Quality Standards**: Ensure contributions meet our standards for clarity, conciseness, and accuracy. 
+Review our [Pull Request Template](PULL_REQUEST_TEMPLATE.md) for detailed guidance.
 4. **Community Guidelines**: Maintain a respectful and collaborative environment by following the [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines).
 
 ## Terminology
@@ -43,7 +44,7 @@ The following template illustrates the preferred structure for README sections.
 - Include at least 5 related concepts and don't forget to update the Table of Contents.
 
 #### 4. **Making Enhancements**:
-- For design changes or structural improvements, consult [@mahmoudz](https://github.com/Mahmoudz) before working on your PR.
+- For design changes or major structural improvements, please consult [@Mahmoudz](https://github.com/Mahmoudz) before working on your PR.
 
 ---
 
