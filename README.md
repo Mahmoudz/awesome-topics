@@ -57,6 +57,8 @@ A curated collection of awesome technical concepts in the world of software engi
 
 ---
 
+> ## Want to view all toggles at once!? [Learn more](.github/TOGGLE.md).
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
