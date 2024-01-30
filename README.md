@@ -1,17 +1,17 @@
-[![Awesome Concepts](assets/images/cover-1.png)](https://github.com/Mahmoudz/awesome-concepts)
+[![Awesome Topics Intro Message](assets/images/youre-awesome-1.svg)](https://github.com/Mahmoudz/awesome-topics)
 
-![Alt text](assets/images/awesome-concepts.png)
+![Awesome Topics Cover Photo](assets/images/awesome-topics-cover-1.png)
 
 <!-- Welcome Message Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=555555&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Concepts!)](https://github.com/Mahmoudz/awesome-concepts)
+[![Awesome Topics Welcome Message](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=33FF33&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+To+Awesome+Topics!)](https://github.com/Mahmoudz/awesome-topics)
 
-# Awesome Concepts 😎
+# Awesome Topics 😎
 
-A curated collection of awesome technical concepts in the world of software engineering, explained in a concise and user-friendly manner. Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical concepts.
+A curated collection of awesome technical topics in the world of software, explained in a concise and user-friendly manner. Whether you're a beginner or an expert engineer, this resource is designed to facilitate your grasp of a wide range of technical topics.
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> **Disclaimer:**  This collection thrives on your contributions. ❤️ It's a starting point, and I can't do it alone. Your input is vital to make it more comprehensive. If you have a favorite concept missing here, please [join in](#Contributing) shaping this resource together for the community's benefit. 
+> **Disclaimer:**  This collection thrives on your contributions. ❤️ It's a starting point, and I can't do it alone. Your input is vital to make it more comprehensive. If you have a favorite topic missing here, please [join in](#Contributing) shaping this resource together for the community's benefit. 
 
 ## Contents
 
@@ -361,7 +361,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <details><summary><strong>Inheritance</strong></summary><p>
 
-> Inheritance is a concept in OOP where a class can inherit properties and behaviors from another class. It promotes code reuse and hierarchy in class relationships.
+> Inheritance is a topic in OOP where a class can inherit properties and behaviors from another class. It promotes code reuse and hierarchy in class relationships.
 
 </p></details>
 
@@ -385,7 +385,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <details><summary><strong>Abstraction</strong></summary><p>
 
-> Abstraction is the process of simplifying complex systems by focusing on essential details while hiding unnecessary complexities. It allows developers to work with high-level concepts without dealing with low-level implementation details.
+> Abstraction is the process of simplifying complex systems by focusing on essential details while hiding unnecessary complexities. It allows developers to work with high-level topics without dealing with low-level implementation details.
 
 </p></details>
 
@@ -1231,7 +1231,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <details><summary><strong>Propagation</strong></summary><p>
 
-> Propagation refers to the act of sending, delivering, or queuing commands or events for execution. It is a fundamental concept in event-driven and distributed systems, where actions or tasks need to be communicated and carried out across different components or services.
+> Propagation refers to the act of sending, delivering, or queuing commands or events for execution. It is a fundamental topic in event-driven and distributed systems, where actions or tasks need to be communicated and carried out across different components or services.
 
 </p></details>
 
@@ -1471,7 +1471,7 @@ A curated collection of awesome technical concepts in the world of software engi
 
 <details><summary><strong>Cross-Browser Compatibility</strong></summary><p>
 
-> This concept ensures that a website functions consistently across different browsers. It's key for reaching a broad audience and involves testing and tweaking for browser-specific quirks.
+> This topic ensures that a website functions consistently across different browsers. It's key for reaching a broad audience and involves testing and tweaking for browser-specific quirks.
 
 </p></details>
 

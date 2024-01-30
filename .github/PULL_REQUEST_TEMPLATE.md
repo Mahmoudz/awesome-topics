@@ -1,13 +1,13 @@
-# Pull Request Template for Awesome Concepts
+# Pull Request Template for Awesome Topics
 
 ## PR Type
-- New Concept
-- Edit Concept
+- New Topic
+- Edit Topic
 - New Subject
 - Design Enhancement
 
 ## Description
-Please provide a concise summary of your changes or the new concept you are introducing.
+Please provide a concise summary of your changes or the new topic you are introducing.
 
 ## Checklist
 - [ ] I have read the project's [Contributing Guide](CONTRIBUTING.md).

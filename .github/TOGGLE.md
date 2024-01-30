@@ -16,4 +16,4 @@ Follow these easy steps to create a bookmark that runs JS code to search for tog
     ```
 5. Save the new bookmark. That's it!
 
-Now, whenever you're viewing the README.md of [Awesome Concepts](https://github.com/Mahmoudz/awesome-concepts), simply click this bookmark to unveil all toggle content at once. 😉
+Now, whenever you're viewing the README.md of [Awesome Topics](https://github.com/Mahmoudz/awesome-topics), simply click this bookmark to unveil all toggle content at once. 😉
