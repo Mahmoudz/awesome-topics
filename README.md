@@ -619,12 +619,6 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
-<details><summary><strong>Infrastructure as Code (IaC)</strong></summary><p>
-
-> Infrastructure as Code (IaC) is a practice of managing and provisioning infrastructure using code and automation. It allows for the creation and management of infrastructure resources, such as servers and networks, through code, enabling consistent and repeatable deployments.
-
-</p></details>
-
 <details><summary><strong>Infrastructure as a Service (IaaS)</strong></summary><p>
 
 > Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. It offers on-demand access to virtual machines, storage, and networking, allowing users to manage and scale their infrastructure without the need for physical hardware.
@@ -1219,6 +1213,96 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Modularity</strong></summary><p>
+
+> Modularity refers to the practice of designing a system or software by breaking it into smaller, self-contained modules or components. These modules can be developed, tested, and maintained independently, enhancing system organization and ease of management.
+
+</p></details>
+
+<details><summary><strong>Interoperability</strong></summary><p>
+
+> Interoperability is the ability of different systems, software, or components to work together and exchange data seamlessly. It ensures that diverse parts of a system can communicate effectively, promoting compatibility and collaboration.
+
+</p></details>
+
+<details><summary><strong>Reusability</strong></summary><p>
+
+> Reusability promotes the use of existing components or modules in various applications or systems. It reduces development effort and costs by leveraging previously created and tested solutions, increasing efficiency and consistency.
+
+</p></details>
+
+<details><summary><strong>Maintainability</strong></summary><p>
+
+> Maintainability is the capability of a system or software to undergo updates, enhancements, and maintenance activities with ease. A maintainable system is designed for straightforward modifications and issue resolution, ensuring its longevity and reliability.
+
+</p></details>
+
+<details><summary><strong>Scalability</strong></summary><p>
+
+> Scalability refers to a system's capacity to handle increased workloads or growing demands by adding resources or components. It ensures that the system can accommodate higher traffic or data volumes without compromising performance or stability.
+
+</p></details>
+
+<details><summary><strong>Testability</strong></summary><p>
+
+> Testability measures how effectively a system or software can be tested and validated. A highly testable system is designed with clear interfaces, adequate documentation, and support for automated testing, facilitating the identification and resolution of issues.
+
+</p></details>
+
+<details><summary><strong>Debuggability</strong></summary><p>
+
+> Debuggability assesses how easily issues, errors, or bugs in a system can be identified, isolated, and corrected during development or operation. It involves providing diagnostic tools, logs, and error messages to simplify the debugging process.
+
+</p></details>
+
+<details><summary><strong>Adaptability</strong></summary><p>
+
+> Adaptability refers to a system's or software's ability to adjust and thrive in the face of changing requirements, environments, or conditions. An adaptable system can evolve, incorporate new features, and respond effectively to new challenges or opportunities.
+
+</p></details>
+
+<details><summary><strong>Evolvability</strong></summary><p>
+
+> Evolvability is closely related to adaptability and emphasizes a system's capacity to evolve over time while maintaining its integrity and functionality. It includes planning for long-term sustainability and accommodating future growth and development.
+
+</p></details>
+
+<details><summary><strong>Usability</strong></summary><p>
+
+> Usability assesses how user-friendly and intuitive a system or software is for its intended users. A system with high usability is easy to navigate, understand, and interact with, enhancing the overall user experience.
+
+</p></details>
+
+<details><summary><strong>Learnability</strong></summary><p>
+
+> Learnability is a component of usability that measures how quickly users can grasp and become proficient in using a system or software. It focuses on minimizing the learning curve for new users, making it easier for them to adapt and become proficient.
+
+</p></details>
+
+<details><summary><strong>Extensibility</strong></summary><p>
+
+> Extensibility is the capability of a system or software to accommodate new features, functionalities, or modules without significant changes to its core architecture. It enables future enhancements and customizations, allowing the system to adapt to evolving needs.
+
+</p></details>
+
+<details><summary><strong>Flexibility</strong></summary><p>
+
+> Flexibility emphasizes a system's ability to adapt and configure itself to meet varying requirements and conditions. It allows for customization and versatility in responding to different needs or scenarios, making the system adaptable to changing circumstances.
+
+</p></details>
+
+<details><summary><strong>Agility</strong></summary><p>
+
+> Agility reflects a system's capacity to respond quickly and efficiently to changes, challenges, or opportunities. An agile system can pivot, iterate, and make adjustments rapidly in response to evolving conditions, ensuring it remains competitive and relevant.
+
+</p></details>
+
+<details><summary><strong>Upgradability</strong></summary><p>
+
+> Upgradability is the ease with which a system or software can be upgraded to newer versions or incorporate the latest technologies. It ensures that the system remains current, compatible, and capable of leveraging advancements in technology and functionality.
+
+</p></details>
+
 <details><summary><strong>Fault Tolerance</strong></summary><p>
 
 > Fault tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software faults. It involves mechanisms to detect, isolate, and recover from failures.
@@ -1278,6 +1362,8 @@ A curated list of awesome technical topics from the software world, explained co
 > Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
 
 </p></details>
+
+
 
 ![Divider](assets/images/divider-1.png)
 
@@ -1733,6 +1819,24 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Single Sign-On (SSO)</strong></summary><p>
 
 > Single Sign-On (SSO) is an authentication method that allows users to access multiple applications or services with a single set of login credentials. It enhances user convenience and security by reducing the need for multiple logins.
+
+</p></details>
+
+<details><summary><strong>Data Privacy</strong></summary><p>
+
+> Data Privacy refers to the protection of an individual's or organization's sensitive information and personal data. It involves implementing policies, practices, and technologies to ensure that data is collected, stored, and processed in a secure and compliant manner, respecting the privacy rights of individuals.
+
+</p></details>
+
+<details><summary><strong>Vulnerabilities</strong></summary><p>
+
+> Vulnerabilities are weaknesses or flaws in a system, software, or network that can be exploited by attackers to compromise security or gain unauthorized access. Identifying and addressing vulnerabilities is crucial to prevent security breaches and protect against cyber threats.
+
+</p></details>
+
+<details><summary><strong>Posture</strong></summary><p>
+
+> In the context of cybersecurity, Posture refers to an organization's overall security posture or readiness to defend against cyber threats. It encompasses the organization's security policies, practices, and infrastructure to mitigate risks and respond effectively to security incidents.
 
 </p></details>
 
@@ -2320,6 +2424,120 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Game Assets</strong></summary><p>
 
 > Game Assets are digital resources used in game development, including graphics, audio, 3D models, textures, and code. They are essential components for creating immersive gaming experiences.
+
+</p></details>
+
+<details><summary><strong>Ray Tracing</strong></summary><p>
+
+> Ray Tracing is a rendering technique used in computer graphics to simulate the behavior of light rays as they interact with objects in a scene. It enables realistic lighting, reflections, and shadows, leading to higher-quality visual effects in games.
+
+</p></details>
+
+<details><summary><strong>Shaders</strong></summary><p>
+
+> Shaders are programs used in graphics rendering to control how objects and materials are displayed in real-time. They are responsible for defining the appearance of 3D models, including their colors, textures, and lighting effects.
+
+</p></details>
+
+<details><summary><strong>Physics Simulation</strong></summary><p>
+
+> Physics Simulation involves simulating real-world physical interactions, such as gravity, collisions, and motion, within a game environment. It enhances realism and allows game objects to behave naturally, creating immersive gameplay experiences.
+
+</p></details>
+
+<details><summary><strong>Vertex Buffer</strong></summary><p>
+
+> A Vertex Buffer is a memory buffer used in graphics rendering to store the properties of vertices (points) that make up 3D models. It improves rendering efficiency by providing quick access to vertex data during rendering.
+
+</p></details>
+
+<details><summary><strong>Texture Mapping</strong></summary><p>
+
+> Texture Mapping is a technique in computer graphics that applies 2D images (textures) to 3D objects to add detail, color, and surface characteristics. It enhances the realism of game environments and objects.
+
+</p></details>
+
+<details><summary><strong>Level of Detail (LOD)</strong></summary><p>
+
+> Level of Detail (LOD) is a technique used in game development to optimize performance by dynamically adjusting the complexity of 3D models based on their distance from the camera. It ensures that objects appear detailed when up close and simplified when far away.
+
+</p></details>
+
+<details><summary><strong>Frame Rate</strong></summary><p>
+
+> Frame Rate, often measured in frames per second (FPS), is the number of individual images (frames) displayed in one second of gameplay. A higher frame rate results in smoother and more responsive gameplay.
+
+</p></details>
+
+<details><summary><strong>Dynamic Shadows</strong></summary><p>
+
+> Dynamic Shadows are realistic shadows that change in real-time as game objects move and interact with light sources. They enhance visual quality and immersion by accurately depicting object shadows.
+
+</p></details>
+
+<details><summary><strong>Deferred Rendering</strong></summary><p>
+
+> Deferred Rendering is a graphics rendering technique used in game development to improve rendering efficiency and enable advanced visual effects. It involves rendering scene information into intermediate buffers before final image composition, allowing for complex lighting and post-processing effects.
+
+</p></details>
+
+<details><summary><strong>Normal Mapping</strong></summary><p>
+
+> Normal Mapping is a technique in computer graphics used to simulate detailed surface geometry on 3D models without increasing their polygon count. It enhances the appearance of objects by manipulating the direction of surface normals in texture maps to create the illusion of fine details and bumps.
+
+</p></details>
+
+<details><summary><strong>Occlusion Culling</strong></summary><p>
+
+> Occlusion Culling is a rendering optimization technique in game development that identifies and eliminates objects or parts of the scene that are not visible to the camera. It reduces rendering workload and improves performance by avoiding the rendering of objects hidden from the player's view.
+
+</p></details>
+
+<details><summary><strong>GPU Profiling</strong></summary><p>
+
+> GPU Profiling is the process of analyzing and measuring the performance of a graphics processing unit (GPU) during rendering. It helps game developers identify bottlenecks, optimize graphics code, and achieve better frame rates and responsiveness in games.
+
+</p></details>
+
+<details><summary><strong>Frame Buffer</strong></summary><p>
+
+> A Frame Buffer is a region of memory in a graphics card or system memory that stores pixel data for each frame being rendered. It is essential for displaying images on a screen and enabling visual effects such as double buffering and post-processing.
+
+</p></details>
+
+<details><summary><strong>Vertex Shading</strong></summary><p>
+
+> Vertex Shading is a stage in the graphics pipeline where the properties of vertices (points) of 3D models are manipulated using shaders. It allows for transformations, lighting calculations, and other vertex-level operations.
+
+</p></details>
+
+<details><summary><strong>Pixel Shading</strong></summary><p>
+
+> Pixel Shading, also known as fragment shading, is a stage in the graphics pipeline where the color and appearance of individual pixels on the screen are determined. It is responsible for rendering details such as textures, lighting, and special effects.
+
+</p></details>
+
+<details><summary><strong>Post-Processing Effects</strong></summary><p>
+
+> Post-Processing Effects are visual enhancements applied to the final rendered image in a game. These effects, such as depth of field, motion blur, and bloom, are applied after the rendering process to improve the overall visual quality and atmosphere.
+
+</p></details>
+
+<details><summary><strong>Ray Casting</strong></summary><p>
+
+> Ray Casting is a rendering technique used in computer graphics and game development to determine what objects or surfaces are visible from a given viewpoint. It involves tracing rays from the camera's perspective and detecting intersections with objects in the scene.
+
+</p></details>
+
+<details><summary><strong>Inverse Kinematics</strong></summary><p>
+
+> Inverse Kinematics (IK) is a technique used in animation and game development to simulate the motion of articulated objects, such as characters with joints. It calculates the joint movements needed to achieve a desired end-effector position or goal, allowing for more natural and realistic animations.
+
+</p></details>
+
+<details><summary><strong>Finite State Machines (FSM)</strong></summary><p>
+
+> Finite State Machines (FSM) are a modeling technique used in game development to represent the behavior and logic of characters, objects, or systems with a finite number of states and transitions between them. FSMs are commonly used to implement character AI, game mechanics, and interactive systems.
 
 </p></details>
 
