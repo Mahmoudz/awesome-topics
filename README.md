@@ -715,6 +715,30 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Mainframe</strong></summary><p>
+
+> A Mainframe is a high-performance, large-scale computer typically used by enterprises for critical and resource-intensive applications. Mainframes are known for their reliability, security, and ability to handle massive workloads.
+
+</p></details>
+
+<details><summary><strong>Grid Computing</strong></summary><p>
+
+> Grid Computing is a distributed computing model that connects and harnesses the computational power of multiple networked computers to solve complex problems or perform tasks that require significant processing capacity. It's often used in scientific research and simulations.
+
+</p></details>
+
+<details><summary><strong>Storage Area Network (SAN)</strong></summary><p>
+
+> A Storage Area Network (SAN) is a specialized high-speed network that connects storage devices (such as disk arrays or tape libraries) to servers. It enables centralized storage management, data sharing, and improved data availability.
+
+</p></details>
+
+<details><summary><strong>Network Function Virtualization (NFV)</strong></summary><p>
+
+> Network Function Virtualization (NFV) is a technology that virtualizes network functions, such as routing, firewalling, and load balancing, to run them on standard hardware. It offers flexibility and scalability in network management and services.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1145,6 +1169,12 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Zero Trust Architecture</strong></summary><p>
+
+> Zero Trust Architecture is a security framework that operates on the principle of "never trust, always verify." It assumes that threats exist both inside and outside the network and requires continuous authentication and strict access controls for all users and devices.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1365,6 +1395,85 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>BASE</strong></summary><p>
+
+> BASE, which stands for Basically Available, Soft state, Eventually consistent, is a set of principles often contrasted with ACID in database systems. BASE systems prioritize high availability and partition tolerance over strict consistency, making them suitable for distributed databases.
+
+</p></details>
+
+<details><summary><strong>Row (Record)</strong></summary><p>
+
+> A Row, also known as a Record, in a database represents a single data entry within a table. It contains a collection of related field values that define a specific instance of an entity or data entity.
+
+</p></details>
+
+<details><summary><strong>Column (Field)</strong></summary><p>
+
+> A Column, also known as a Field, is a vertical data structure within a database table. It represents a specific attribute or property of the data entity and holds values of the same data type for all rows in the table.
+
+</p></details>
+
+<details><summary><strong>Primary Key</strong></summary><p>
+
+> A Primary Key is a unique identifier within a database table that ensures each row can be uniquely identified. It enforces data integrity and allows for efficient data retrieval and referencing.
+
+</p></details>
+
+<details><summary><strong>Foreign Key</strong></summary><p>
+
+> A Foreign Key is a field in a database table that establishes a link or relationship between that table and another table. It enforces referential integrity and ensures that data in one table corresponds to data in another.
+
+</p></details>
+ 
+ <details><summary><strong>Index</strong></summary><p>
+
+> An Index is a database structure that enhances data retrieval speed by providing a quick lookup of data based on specific columns. It acts like a table of contents, enabling efficient searching and sorting of data.
+
+</p></details>
+
+<details><summary><strong>Query</strong></summary><p>
+
+> A Query is a request or command made to a database management system (DBMS) to retrieve, manipulate, or process data. It can be written in SQL or other query languages to interact with the database.
+
+</p></details>
+
+<details><summary><strong>Transaction</strong></summary><p>
+
+> A Transaction is a sequence of one or more database operations that are treated as a single unit of work. Transactions ensure data consistency and integrity by either committing all changes or rolling them back in case of an error.
+
+</p></details>
+
+<details><summary><strong>Query Optimization</strong></summary><p>
+
+> Query Optimization is the process of improving the efficiency and performance of database queries. It involves optimizing query execution plans, indexing, and other techniques to minimize resource usage and response time.
+
+</p></details>
+
+<details><summary><strong>Stored Procedures</strong></summary><p>
+
+> Stored Procedures are precompiled and reusable database programs that encapsulate a set of SQL statements. They are stored in the database and can be called with parameters, providing a way to execute complex tasks and business logic.
+
+</p></details>
+
+<details><summary><strong>Triggers</strong></summary><p>
+
+> Triggers are database objects that automatically execute in response to specific events or actions, such as data modifications (inserts, updates, deletes). They are used to enforce data integrity, audit changes, or initiate actions.
+
+</p></details>
+
+<details><summary><strong>Views</strong></summary><p>
+
+> Views are virtual database tables created as result sets of SQL queries. They provide a simplified and controlled way to access and present data from one or more underlying tables, hiding complex database structures.
+
+</p></details>
+
+<details><summary><strong>Polyglot Persistence</strong></summary><p>
+
+> Polyglot Persistence is an approach in database design where multiple data storage technologies (e.g., relational, NoSQL) are used within a single application to meet diverse data storage and retrieval needs. It's about choosing the right database for each specific use case or data type.
+
+</p></details>
+
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1487,6 +1596,36 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>CRUD Operations</strong></summary><p>
+
+> CRUD Operations stand for Create, Read, Update, and Delete. They represent the basic functions used in database and API operations to manage data: creating records, reading (retrieving) data, updating data, and deleting records.
+
+</p></details>
+
+<details><summary><strong>Middleware</strong></summary><p>
+
+> Middleware is software that acts as an intermediary between different software components in a system or application. In the context of backend development, middleware handles tasks like request/response processing, authentication, and logging.
+
+</p></details>
+
+<details><summary><strong>Routing</strong></summary><p>
+
+> Routing, in the context of backend development, refers to the process of directing incoming requests to the appropriate endpoint or function in a web application. It determines how URLs are mapped to specific code handlers.
+
+</p></details>
+
+<details><summary><strong>Content Management Systems (CMS)</strong></summary><p>
+
+> Content Management Systems (CMS) are software platforms that allow users to create, manage, and publish digital content, such as websites and web applications, without requiring in-depth technical knowledge. They provide tools for content editing, organization, and presentation.
+
+</p></details>
+
+<details><summary><strong>Error Handling</strong></summary><p>
+
+> Error Handling in backend development involves managing and responding to errors or exceptions that occur during the execution of code. Proper error handling ensures that applications can gracefully handle unexpected situations and provide meaningful feedback to users.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1588,6 +1727,12 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Hashing</strong></summary><p>
 
 > Hashing transforms data into a unique, fixed-size hash code. It enables quick data retrieval, crucial in databases and cybersecurity for efficient storage and secure data handling.
+
+</p></details>
+
+<details><summary><strong>Single Sign-On (SSO)</strong></summary><p>
+
+> Single Sign-On (SSO) is an authentication method that allows users to access multiple applications or services with a single set of login credentials. It enhances user convenience and security by reducing the need for multiple logins.
 
 </p></details>
 
@@ -1775,6 +1920,126 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Sessions</strong></summary><p>
+
+> Sessions, in web development, are a way to store and manage user-specific data temporarily on the server. They help maintain user state and track interactions between a user and a web application during a visit.
+
+</p></details>
+
+<details><summary><strong>Cookies</strong></summary><p>
+
+> Cookies are small pieces of data stored on a user's device (usually in the web browser) to track and store information about their interactions with websites. They are commonly used for user authentication, personalization, and tracking.
+
+</p></details>
+
+<details><summary><strong>Memory Profiling</strong></summary><p>
+
+> Memory Profiling is the process of analyzing a web application's memory usage to identify and optimize memory-related issues. It helps developers find and resolve memory leaks or excessive memory consumption.
+
+</p></details>
+
+<details><summary><strong>Single-Page Applications (SPAs)</strong></summary><p>
+
+> Single-Page Applications (SPAs) are web applications that load a single HTML page and dynamically update content as users interact with the application. They often use JavaScript frameworks like React or Angular to provide a smooth, app-like user experience.
+
+</p></details>
+
+<details><summary><strong>Web Accessibility (a11y)</strong></summary><p>
+
+> Web Accessibility (a11y) refers to the practice of designing and developing web content and applications that can be used by people with disabilities. It ensures that web content is perceivable, operable, and understandable for all users, including those with disabilities.
+
+</p></details>
+
+<details><summary><strong>Component-Based Architecture</strong></summary><p>
+
+> Component-Based Architecture is an approach to frontend development where the user interface is divided into reusable and self-contained components. These components can be composed together to build complex user interfaces efficiently.
+
+</p></details>
+
+<details><summary><strong>Typography</strong></summary><p>
+
+> Typography in web design involves the selection and styling of fonts, typefaces, and text elements to improve readability and enhance the visual appeal of a website. It plays a crucial role in shaping the overall design and user experience.
+
+</p></details>
+
+<details><summary><strong>Assets</strong></summary><p>
+
+> Assets in frontend development refer to files and resources such as images, stylesheets, JavaScript files, and multimedia content used to build and enhance the visual and interactive aspects of a website or web application.
+
+</p></details>
+
+<details><summary><strong>Lazy Loading</strong></summary><p>
+
+> Lazy Loading is a technique in web development where resources (typically images or components) are loaded only when they are needed, rather than loading everything upfront. It helps improve page load performance and reduces initial loading times.
+
+</p></details>
+
+<details><summary><strong>Web Workers</strong></summary><p>
+
+> Web Workers are JavaScript scripts that run in the background, separate from the main browser thread. They are used for performing tasks in parallel, such as complex calculations or data processing, without affecting the user interface's responsiveness.
+
+</p></details>
+
+<details><summary><strong>Service Workers</strong></summary><p>
+
+> Service Workers are scripts that run in the background of a web application and act as a proxy between the web page and the network. They enable features like offline access, push notifications, and caching to improve the web app's performance and user experience.
+
+</p></details>
+
+<details><summary><strong>Web Storage</strong></summary><p>
+
+> Web Storage is a web API that allows web applications to store data in a user's web browser. It includes two storage mechanisms: localStorage (for persistent data with no expiration) and sessionStorage (for temporary session-based data).
+
+</p></details>
+
+<details><summary><strong>Server-Side Rendering (SSR)</strong></summary><p>
+
+> Server-Side Rendering (SSR) is a technique in web development where web pages are rendered on the server and sent to the client as fully-formed HTML documents. It can improve initial page load performance and is often used in combination with Client-Side Rendering (CSR) for dynamic web applications.
+
+</p></details>
+
+<details><summary><strong>Client-Side Rendering (CSR)</strong></summary><p>
+
+> Client-Side Rendering (CSR) is an approach in web development where web pages are initially loaded with minimal content, and additional content is fetched and rendered on the client's side using JavaScript. CSR is often used for single-page applications (SPAs) and can provide a more interactive user experience.
+
+</p></details>
+
+<details><summary><strong>WebRTC (Web Real-Time Communication)</strong></summary><p>
+
+> WebRTC (Web Real-Time Communication) is an open-source technology that enables real-time audio, video, and data communication directly between web browsers and mobile applications. It is commonly used for video conferencing, voice calling, and peer-to-peer data sharing.
+
+</p></details>
+
+<details><summary><strong>Canvas API</strong></summary><p>
+
+> Canvas API is a web technology that allows developers to draw graphics and create interactive animations directly in a web browser using JavaScript. It provides a programmable drawing surface for rendering 2D graphics.
+
+</p></details>
+
+<details><summary><strong>WebSocket</strong></summary><p>
+
+> WebSocket is a communication protocol that provides full-duplex, bidirectional communication channels over a single TCP connection. It enables real-time, low-latency data exchange between a web browser and a server, making it suitable for applications like chat and online gaming.
+
+</p></details>
+
+<details><summary><strong>WebGL</strong></summary><p>
+
+> WebGL is a JavaScript API that allows developers to render 3D graphics within a web browser. It provides access to the graphics hardware, enabling the creation of immersive 3D experiences, games, and simulations on the web.
+
+</p></details>
+
+<details><summary><strong>CSS Grid</strong></summary><p>
+
+> CSS Grid is a layout system in CSS that provides a two-dimensional grid for organizing and aligning web page content. It allows for precise control over the placement and alignment of elements, making complex layouts easier to design and implement.
+
+</p></details>
+
+<details><summary><strong>CSS Media Queries</strong></summary><p>
+
+> CSS Media Queries are CSS rules that allow developers to apply styles based on the characteristics of the user's device or viewport, such as screen size, resolution, or orientation. They are commonly used for creating responsive web designs that adapt to different devices and screen sizes.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1822,6 +2087,66 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>In-App Purchases</strong></summary><p>
 
 > In-App Purchases are transactions made within a mobile app or software that enable users to buy additional features, content, or digital goods. They often contribute to the monetization of free or freemium apps and enhance user experiences.
+
+</p></details>
+
+<details><summary><strong>Navigation Patterns</strong></summary><p>
+
+> Navigation Patterns in mobile app design refer to the user interface and flow that guide users through different sections or screens of an app. Common navigation patterns include tab bars, navigation drawers, and bottom navigation tabs.
+
+</p></details>
+
+<details><summary><strong>Crash Reporting</strong></summary><p>
+
+> Crash Reporting is the process of collecting and analyzing data about app crashes and errors. It helps developers identify and diagnose issues in mobile apps, allowing for prompt bug fixes and improvements in app stability.
+
+</p></details>
+
+<details><summary><strong>Ad Integration</strong></summary><p>
+
+> Ad Integration involves incorporating advertisements, such as banner ads, interstitial ads, or rewarded ads, into a mobile app. It is a common monetization strategy for app developers to generate revenue.
+
+</p></details>
+
+<details><summary><strong>Battery Optimization</strong></summary><p>
+
+> Battery Optimization in mobile app development focuses on reducing an app's power consumption to extend a mobile device's battery life. It includes optimizing code, minimizing background processes, and managing device resources efficiently.
+
+</p></details>
+
+<details><summary><strong>WebViews</strong></summary><p>
+
+> WebViews are components in mobile app development that display web content within a native app. They enable developers to embed web pages or web-based functionality seamlessly into mobile apps.
+
+</p></details>
+
+<details><summary><strong>Voice Commands</strong></summary><p>
+
+> Voice Commands allow users to interact with a mobile app using voice recognition. Apps can incorporate voice-based functionality, such as voice search or voice-activated commands, to enhance user convenience.
+
+</p></details>
+
+<details><summary><strong>Screen Rotation</strong></summary><p>
+
+> Screen Rotation refers to the ability of a mobile app to adapt its user interface and content layout when a user rotates their device from portrait to landscape mode or vice versa. It provides a better user experience on devices with varying orientations.
+
+</p></details>
+
+<details><summary><strong>Touch Gestures</strong></summary><p>
+
+> Touch Gestures involve user interactions with a mobile device's touchscreen, such as tapping, swiping, pinching, and dragging. Mobile apps use these gestures to provide intuitive and interactive user interfaces.
+
+</p></details>
+
+<details><summary><strong>Geofencing</strong></summary><p>
+
+> Geofencing is a location-based technology in mobile apps that defines virtual boundaries or geographic areas. Apps can trigger actions or notifications when a user enters or exits a defined geofence, enabling location-aware functionality.
+
+</p></details>
+
+<details><summary><strong>GPS (Global Positioning System)</strong></summary><p>
+
+> GPS is a satellite-based navigation system used in mobile devices to determine the device's precise location and provide accurate real-time positioning information. It is essential for location-based apps, such as mapping and navigation services.
 
 </p></details>
 
@@ -1879,6 +2204,42 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Installer</strong></summary><p>
 
 > An Installer is a software application or package used to install or set up another software program on a computer. It often includes options for customization, configuration, and dependencies to ensure the correct installation of the desired software.
+
+</p></details>
+
+<details><summary><strong>Hardware Abstraction Layer (HAL)</strong></summary><p>
+
+> Hardware Abstraction Layer (HAL) is a software layer that provides a consistent interface between hardware components and the operating system. It abstracts hardware-specific details, allowing applications and the OS to interact with hardware in a standardized manner.
+
+</p></details>
+
+<details><summary><strong>Interrupt Handling</strong></summary><p>
+
+> Interrupt Handling is a mechanism in desktop operating systems that allows the CPU to respond to hardware or software events known as interrupts. When an interrupt occurs, the CPU temporarily suspends its current tasks to handle the interrupt request.
+
+</p></details>
+
+<details><summary><strong>Drivers</strong></summary><p>
+
+> Drivers are software components that enable communication between an operating system and hardware devices, such as printers, graphics cards, or network adapters. They act as intermediaries, translating high-level OS commands into instructions that hardware can understand.
+
+</p></details>
+
+<details><summary><strong>System Calls</strong></summary><p>
+
+> System Calls are functions provided by the operating system that allow applications to request services or perform privileged operations, such as file I/O, process management, and network communication. They serve as an interface between user-level applications and the kernel.
+
+</p></details>
+
+<details><summary><strong>Kernel-Level Programming</strong></summary><p>
+
+> Kernel-Level Programming involves writing code that runs in the kernel of an operating system. It is typically reserved for low-level tasks, such as device drivers, system services, and security-related functions, requiring a deep understanding of the OS internals.
+
+</p></details>
+
+<details><summary><strong>Shared Memory IPC (Inter-Process Communication)</strong></summary><p>
+
+> Shared Memory IPC (Inter-Process Communication) is a method for processes or applications running on the same computer to exchange data by mapping a portion of their memory to a shared location. It allows for efficient and high-speed communication between processes.
 
 </p></details>
 
@@ -2104,21 +2465,15 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Data Lake</strong></summary><p>
+
+> A Data Lake is a centralized repository that stores vast amounts of raw, unstructured, or structured data at scale. It enables organizations to store, manage, and analyze diverse data sources, making it valuable for big data analytics and data-driven decision-making.
+
+</p></details>
+
 <details><summary><strong>Data Cleaning</strong></summary><p>
 
 > Data Cleaning is the process of identifying and correcting errors, inconsistencies, and missing values in datasets to ensure data accuracy and reliability.
-
-</p></details>
-
-<details><summary><strong>A/B Testing</strong></summary><p>
-
-> A/B Testing is a method used to compare two versions of a web page or product to determine which performs better in terms of user engagement or conversion rates.
-
-</p></details>
-
-<details><summary><strong>SQL (Structured Query Language)</strong></summary><p>
-
-> SQL is a programming language used for managing and querying relational databases. It allows users to retrieve, manipulate, and analyze data stored in databases.
 
 </p></details>
 
@@ -2133,6 +2488,8 @@ A curated list of awesome technical topics from the software world, explained co
 > Data Governance is a set of policies, processes, and practices that ensure data quality, integrity, and security throughout its lifecycle within an organization.
 
 </p></details>
+
+
 
 ![Divider](assets/images/divider-1.png)
 
