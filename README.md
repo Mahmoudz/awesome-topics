@@ -216,6 +216,31 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Code Analysis</strong></summary><p>
+
+> Code Analysis is the process of examining source code or binaries to identify programming errors, security vulnerabilities, and adherence to coding standards. It helps developers improve code quality, identify bugs, and enhance software security.
+
+</p></details>
+
+<details><summary><strong>JSON (JavaScript Object Notation)</strong></summary><p>
+
+> JSON, which stands for JavaScript Object Notation, is a lightweight data interchange format. It is easy for humans to read and write and easy for machines to parse and generate. JSON is widely used for representing structured data in web applications and APIs.
+
+</p></details>
+
+<details><summary><strong>JSON Web Tokens (JWT)</strong></summary><p>
+
+> JSON Web Tokens (JWT) are a compact, URL-safe means of representing claims to be transferred between two parties. They are often used for authentication and authorization purposes in web applications and APIs. JWTs consist of three parts: a header, a payload, and a signature.
+
+</p></details>
+
+<details><summary><strong>Package Managers</strong></summary><p>
+
+> Package Managers are software tools that automate the process of installing, upgrading, configuring, and removing software packages on a computer. They help manage dependencies, making it easier for developers to work with libraries and frameworks in their projects. Popular package managers include npm for JavaScript, pip for Python, and apt for Linux.
+
+</p></details>
+
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -430,6 +455,12 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>CAP Theorem</strong></summary><p>
+
+> CAP Theorem, also known as Brewer's Theorem, is a concept in distributed computing that states that it's impossible for a distributed system to simultaneously provide all three of the following guarantees: Consistency (all nodes see the same data at the same time), Availability (every request receives a response without guarantee of the data being the most recent), and Partition tolerance (the system continues to operate despite network partitions or message loss). In distributed systems, you can typically choose two out of the three guarantees, but not all three.
+
+</p></details>
+
 <details><summary><strong>Coupling</strong></summary><p>
 
 > Coupling in software design refers to the degree of interdependence between modules or components within a system. Low coupling indicates that modules are loosely connected and can be modified independently. High coupling suggests strong dependencies and can lead to reduced flexibility and maintainability.
@@ -590,7 +621,19 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Infrastructure as Code (IaC)</strong></summary><p>
 
-> Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, etc.) in a descriptive model, using code. This allows for automatic management and provisioning, improving infrastructure deployment speed and reliability.
+> Infrastructure as Code (IaC) is a practice of managing and provisioning infrastructure using code and automation. It allows for the creation and management of infrastructure resources, such as servers and networks, through code, enabling consistent and repeatable deployments.
+
+</p></details>
+
+<details><summary><strong>Infrastructure as a Service (IaaS)</strong></summary><p>
+
+> Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. It offers on-demand access to virtual machines, storage, and networking, allowing users to manage and scale their infrastructure without the need for physical hardware.
+
+</p></details>
+
+<details><summary><strong>Platform as a Service (PaaS)</strong></summary><p>
+
+> Platform as a Service (PaaS) is a cloud computing service that provides a platform for developing, deploying, and managing applications. It abstracts the underlying infrastructure, offering developers a ready-to-use environment for building and hosting their software applications.
 
 </p></details>
 
@@ -788,6 +831,12 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Zero Downtime Deployment</strong></summary><p>
+
+> Zero Downtime Deployment aims to maintain uninterrupted service while implementing updates or changes to a system. It utilizes techniques like rolling releases and load balancing to prevent service disruptions.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -889,6 +938,210 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Vulnerability Assessment</strong></summary><p>
 
 > Vulnerability Assessment is the process of systematically identifying, evaluating, and prioritizing security vulnerabilities in a system or network to reduce potential risks.
+
+</p></details>
+
+<details><summary><strong>Secure Shell (SSH)</strong></summary><p>
+
+> Secure Shell (SSH) is a cryptographic network protocol used to securely access and manage network devices, servers, and computers over a potentially unsecured network. It provides secure authentication and encrypted communication, protecting against eavesdropping and unauthorized access.
+
+</p></details>
+
+<details><summary><strong>Access Control Lists (ACLs)</strong></summary><p>
+
+> Access Control Lists (ACLs) are a set of rules or configurations that define what actions are allowed or denied for users or network traffic on a network device or system. ACLs are used to enforce security policies and control access to resources.
+
+</p></details>
+
+<details><summary><strong>Security Information Exchange (SIE)</strong></summary><p>
+
+> Security Information Exchange (SIE) is a system or platform that allows organizations to share and exchange security-related information, such as threat intelligence, vulnerabilities, and incident data, to enhance their collective cybersecurity defenses.
+
+</p></details>
+
+<details><summary><strong>Security Operations Center (SOC)</strong></summary><p>
+
+> Security Operations Center (SOC) is a centralized facility or team responsible for monitoring, detecting, and responding to cybersecurity threats and incidents. It plays a crucial role in maintaining the security of an organization's IT infrastructure.
+
+</p></details>
+
+<details><summary><strong>Security Token Service (STS)</strong></summary><p>
+
+> Security Token Service (STS) is a service that issues security tokens to users, applications, or services, enabling secure authentication and access to protected resources. It is commonly used in identity and access management (IAM) systems.
+
+</p></details>
+
+<details><summary><strong>Cross-Site Scripting (XSS)</strong></summary><p>
+
+> Cross-Site Scripting (XSS) is a type of web security vulnerability where malicious scripts are injected into web pages viewed by other users. This can lead to unauthorized access, data theft, and other security issues.
+
+</p></details>
+
+<details><summary><strong>Cross-Site Request Forgery (CSRF)</strong></summary><p>
+
+> Cross-Site Request Forgery (CSRF) is a web security vulnerability that occurs when an attacker tricks a user into unknowingly performing actions on a web application without their consent. This can lead to unintended actions being taken on behalf of the victim.
+
+</p></details>
+
+<details><summary><strong>SQL Injection</strong></summary><p>
+
+> SQL Injection is a type of cyberattack where malicious SQL queries are injected into input fields of a web application, exploiting vulnerabilities in the application's code to gain unauthorized access to a database. It can result in data theft, data manipulation, or even full system compromise.
+
+</p></details>
+
+<details><summary><strong>Man-in-the-Middle (MitM) Attack</strong></summary><p>
+
+> Man-in-the-Middle (MitM) Attack is a cybersecurity attack where an attacker intercepts and possibly alters communications between two parties without their knowledge. This can lead to data interception, eavesdropping, and unauthorized access to sensitive information.
+
+</p></details>
+
+<details><summary><strong>Phishing</strong></summary><p>
+
+> Phishing is a cyberattack method where attackers trick individuals into revealing sensitive information, often through deceptive emails or websites that mimic legitimate sources.
+
+</p></details>
+
+<details><summary><strong>Denial of Service (DoS) Attack</strong></summary><p>
+
+> Denial of Service (DoS) Attack is a cyberattack where an attacker floods a target system or network with a high volume of traffic or requests, causing it to become overwhelmed and unavailable to users. The goal is to disrupt normal operations and deny access to legitimate users.
+
+</p></details>
+
+<details><summary><strong>Distributed Denial of Service (DDoS) Attack</strong></summary><p>
+
+> Distributed Denial of Service (DDoS) Attack is a more advanced form of DoS attack where multiple compromised computers, known as botnets, are used to simultaneously flood a target with traffic. DDoS attacks are harder to mitigate due to their distributed nature.
+
+</p></details>
+
+<details><summary><strong>Brute Force Attack</strong></summary><p>
+
+> Brute Force Attack is a method of trying all possible combinations of passwords or encryption keys until the correct one is found. It is a time-consuming and resource-intensive approach used to gain unauthorized access to systems or data.
+
+</p></details>
+
+<details><summary><strong>Social Engineering</strong></summary><p>
+
+> Social Engineering is a psychological manipulation technique used by attackers to deceive individuals into divulging confidential information or performing actions that compromise security. It relies on exploiting human psychology rather than technical vulnerabilities.
+
+</p></details>
+
+<details><summary><strong>Malware</strong></summary><p>
+
+> Malware, short for malicious software, is any software specifically designed to harm, exploit, or gain unauthorized access to computer systems or data. Types of malware include viruses, worms, Trojans, and spyware.
+
+</p></details>
+
+<details><summary><strong>Ransomware</strong></summary><p>
+
+> Ransomware is a type of malware that encrypts a victim's files or entire system, rendering it inaccessible. Attackers demand a ransom from the victim in exchange for a decryption key to restore access.
+
+</p></details>
+
+<details><summary><strong>Zero-Day Vulnerability</strong></summary><p>
+
+> Zero-Day Vulnerability is a security flaw in software or hardware that is not yet known to the vendor or public. Attackers can exploit these vulnerabilities before a fix or patch is available, posing a significant threat to systems and data.
+
+</p></details>
+
+<details><summary><strong>Firewall Rules</strong></summary><p>
+
+> Firewall Rules are predefined policies or configurations that dictate how a firewall should filter and control network traffic. They specify which traffic is allowed or blocked based on criteria such as source, destination, port, and protocol.
+
+</p></details>
+
+<details><summary><strong>Network Intrusion Detection System (NIDS)</strong></summary><p>
+
+> Network Intrusion Detection System (NIDS) is a security tool or device that monitors network traffic for suspicious or malicious activity. It detects and alerts on potential security breaches but does not actively prevent them.
+
+</p></details>
+
+<details><summary><strong>Network Intrusion Prevention System (NIPS)</strong></summary><p>
+
+> Network Intrusion Prevention System (NIPS) is a security tool or device that not only detects but also actively blocks or mitigates threats in real-time. It can automatically respond to security incidents by blocking malicious traffic.
+
+</p></details>
+
+<details><summary><strong>Packet Sniffing</strong></summary><p>
+
+> Packet Sniffing is the process of capturing and analyzing data packets as they traverse a network. It is often used for network troubleshooting but can also be employed for malicious purposes, such as eavesdropping on sensitive information.
+
+</p></details>
+
+<details><summary><strong>Port Scanning</strong></summary><p>
+
+> Port Scanning is the act of systematically scanning a network or system for open ports. It is used by security professionals to assess network security and by attackers to identify potential vulnerabilities.
+
+</p></details>
+
+<details><summary><strong>Security Tokens</strong></summary><p>
+
+> Security Tokens are physical or digital devices that generate one-time passwords or cryptographic keys to enhance authentication security. They are often used in multi-factor authentication (MFA) to verify the identity of users.
+
+</p></details>
+
+<details><summary><strong>Security Certificates</strong></summary><p>
+
+> Security Certificates, also known as SSL/TLS certificates, are digital documents that verify the authenticity and identity of websites. They enable secure, encrypted communication between web browsers and web servers, protecting against data interception.
+
+</p></details>
+
+<details><summary><strong>Network Authentication</strong></summary><p>
+
+> Network Authentication is the process of verifying the identity of users or devices trying to access a network. It ensures that only authorized entities gain network access, enhancing security and control.
+
+</p></details>
+
+<details><summary><strong>WPA (Wi-Fi Protected Access)</strong></summary><p>
+
+> WPA (Wi-Fi Protected Access) is a security protocol used to secure wireless networks. It replaced the older WEP (Wired Equivalent Privacy) and offers stronger encryption and improved security features to protect Wi-Fi communications.
+
+</p></details>
+
+<details><summary><strong>Network Segmentation</strong></summary><p>
+
+> Network Segmentation is the practice of dividing a network into smaller, isolated segments or subnetworks to enhance security and control. It helps contain and isolate potential threats, limiting their impact on the entire network.
+
+</p></details>
+
+<details><summary><strong>Data Encryption</strong></summary><p>
+
+> Data Encryption is the process of converting data into a code to prevent unauthorized access. It ensures that only authorized parties can decipher and access the information.
+
+</p></details>
+
+<details><summary><strong>VPN Tunneling</strong></summary><p>
+
+> VPN Tunneling is the technique used in Virtual Private Networks (VPNs) to create a secure, encrypted connection over a public network (usually the internet). It ensures that data transmitted between two endpoints remains confidential and protected from eavesdropping.
+
+</p></details>
+
+<details><summary><strong>Packet Sniffing</strong></summary><p>
+
+> Packet Sniffing is the process of capturing and analyzing data packets as they traverse a network. It is often used for network troubleshooting but can also be employed for malicious purposes, such as eavesdropping on sensitive information.
+
+</p></details>
+
+<details><summary><strong>Port Scanning</strong></summary><p>
+
+> Port Scanning is the act of systematically scanning a network or system for open ports. It is used by security professionals to assess network security and by attackers to identify potential vulnerabilities.
+
+</p></details>
+
+<details><summary><strong>Secure Socket Layer (SSL)</strong></summary><p>
+
+> Secure Socket Layer (SSL) is a deprecated cryptographic protocol that provided secure communication over a network, typically used for securing websites. It has been succeeded by Transport Layer Security (TLS) for improved security.
+
+</p></details>
+
+<details><summary><strong>Transport Layer Security (TLS)</strong></summary><p>
+
+> Transport Layer Security (TLS) is a cryptographic protocol used to secure communication over a network, such as the internet. It ensures data confidentiality and integrity between endpoints, commonly used for securing web traffic.
+
+</p></details>
+
+<details><summary><strong>Public Key Infrastructure (PKI)</strong></summary><p>
+
+> Public Key Infrastructure (PKI) is a framework that manages digital keys and certificates to secure communications and verify the identities of users or devices in a network. It provides the foundation for technologies like SSL/TLS and digital signatures.
 
 </p></details>
 
@@ -1257,12 +1510,6 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Access Control</strong></summary><p>
 
 > Access Control is the practice of regulating who can access specific resources or data in a system or network. It includes authentication and authorization mechanisms.
-
-</p></details>
-
-<details><summary><strong>Malware Protection</strong></summary><p>
-
-> Malware Protection involves the use of software and security measures to detect, prevent, and remove malicious software (malware) such as viruses, spyware, and ransomware.
 
 </p></details>
 
