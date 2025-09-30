@@ -2707,6 +2707,234 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Exploratory Data Analysis (EDA)</strong></summary><p>
+
+> Exploratory Data Analysis (EDA) is the investigative process of summarizing dataset characteristics through statistics and visualizations to uncover patterns, detect anomalies, and inform modeling decisions.
+
+</p></details>
+
+<details><summary><strong>Data Engineering</strong></summary><p>
+
+> Data Engineering focuses on designing, building, and maintaining the data pipelines and infrastructure that move, transform, and store data for analytics and machine learning initiatives.
+
+</p></details>
+
+<details><summary><strong>Data Ethics</strong></summary><p>
+
+> Data Ethics encompasses the principles and guidelines that ensure data is collected, processed, and used responsibly, respecting privacy, fairness, transparency, and societal impact.
+
+</p></details>
+
+<details><summary><strong>Data Storytelling</strong></summary><p>
+
+> Data Storytelling blends analysis with narrative techniques to communicate insights clearly and persuasively to stakeholders, driving informed decisions and action.
+
+</p></details>
+
+<details><summary><strong>Time Series Analysis</strong></summary><p>
+
+> Time Series Analysis studies data points collected over time to identify trends, seasonality, and cycles, enabling forecasting and anomaly detection for temporal phenomena.
+
+</p></details>
+
+<details><summary><strong>Experiment Design</strong></summary><p>
+
+> Experiment Design structures tests, such as A/B or multivariate experiments, to measure the causal impact of changes while minimizing bias and maximizing statistical power.
+
+</p></details>
+
+<details><summary><strong>Data Lineage</strong></summary><p>
+
+> Data Lineage traces the origin, transformations, and movement of data through systems, providing transparency and compliance support for analytics workflows.
+
+</p></details>
+
+<details><summary><strong>Data Observability</strong></summary><p>
+
+> Data Observability applies monitoring, logging, and alerting practices to data pipelines so teams can detect quality issues, outages, or drift in near real time.
+
+</p></details>
+
+<details><summary><strong>DataOps</strong></summary><p>
+
+> DataOps adapts DevOps principles to data analytics by fostering collaboration, automation, and continuous delivery of reliable data products across teams.
+
+</p></details>
+
+<details><summary><strong>Synthetic Data</strong></summary><p>
+
+> Synthetic Data consists of artificially generated datasets that mimic real-world data distributions, enabling experimentation, privacy preservation, and model training when real data is scarce or sensitive.
+
+</p></details>
+
+<details><summary><strong>Data Cataloging</strong></summary><p>
+
+> Data Cataloging creates centralized inventories of data assets, documenting lineage, ownership, and usage context so teams can rapidly discover trusted resources.
+
+</p></details>
+
+<details><summary><strong>Causal Inference</strong></summary><p>
+
+> Causal Inference uses statistical modeling and experimentation to uncover cause-and-effect relationships, providing evidence that supports confident strategic decisions.
+
+</p></details>
+
+<details><summary><strong>Data Contracts</strong></summary><p>
+
+> Data Contracts formalize agreements on schema, quality, and delivery guarantees between producers and consumers, preventing breaking changes in analytics pipelines.
+
+</p></details>
+
+<details><summary><strong>Master Data Management (MDM)</strong></summary><p>
+
+> Master Data Management (MDM) consolidates core business entities into authoritative records, synchronizing consistent information across operational and analytical systems.
+
+</p></details>
+
+<details><summary><strong>Data Privacy Compliance</strong></summary><p>
+
+> Data Privacy Compliance embeds regulatory requirements like GDPR or CCPA into data practices, safeguarding personal information through governance, minimization, and auditing.
+
+</p></details>
+
+<details><summary><strong>Data Literacy</strong></summary><p>
+
+> Data Literacy programs equip stakeholders with the skills to interpret, question, and communicate insights responsibly, enabling organization-wide data-driven culture.
+
+</p></details>
+
+<details><summary><strong>Data Monetization</strong></summary><p>
+
+> Data Monetization develops repeatable methods to convert data assets into revenue or measurable value via products, partnerships, or optimized operations.
+
+</p></details>
+
+<details><summary><strong>Feature Stores</strong></summary><p>
+
+> Feature Stores manage curated machine learning features with governance, versioning, and online serving, ensuring consistency between training datasets and production inference.
+
+</p></details>
+
+<details><summary><strong>Data Mesh</strong></summary><p>
+
+> Data Mesh decentralizes data ownership to domain teams that publish interoperable data products, enabling scalable analytics without bottlenecking on a centralized platform group.
+
+</p></details>
+
+<details><summary><strong>Data Fabric</strong></summary><p>
+
+> Data Fabric unifies metadata, integration, and governance services across hybrid environments so analysts can discover and access trusted data through a consistent semantic layer.
+
+</p></details>
+
+<details><summary><strong>Reverse ETL</strong></summary><p>
+
+> Reverse ETL pipelines operationalize analytics by syncing warehouse insights back into SaaS tools and applications, closing the loop between analysis and frontline execution.
+
+</p></details>
+
+<details><summary><strong>Geospatial Analytics</strong></summary><p>
+
+> Geospatial Analytics enriches datasets with location intelligence to reveal spatial patterns, proximity relationships, and regional trends for urban planning, logistics, and retail.
+
+</p></details>
+
+<details><summary><strong>Real-Time Analytics</strong></summary><p>
+
+> Real-Time Analytics processes streaming events with low latency to power dashboards, anomaly detection, and automated responses while data is still in motion.
+
+</p></details>
+
+<details><summary><strong>Data Quality Monitoring</strong></summary><p>
+
+> Data Quality Monitoring continuously checks freshness, completeness, and accuracy thresholds so teams can remediate issues before they degrade downstream models and decisions.
+
+</p></details>
+
+<details><summary><strong>Data Stewardship</strong></summary><p>
+
+> Data Stewardship assigns accountable owners to critical datasets, ensuring policies, documentation, and change management keep information trustworthy for consumers.
+
+</p></details>
+
+<details><summary><strong>Data Product Management</strong></summary><p>
+
+> Data Product Management applies product thinking to analytics assets, defining roadmaps, user feedback loops, and success metrics that maximize adoption and business value.
+
+</p></details>
+
+<details><summary><strong>Data Virtualization</strong></summary><p>
+
+> Data Virtualization exposes disparate sources through a single logical layer, allowing teams to query and join data on demand without copying it into new storage systems.
+
+</p></details>
+
+<details><summary><strong>Privacy-Enhancing Technologies (PETs)</strong></summary><p>
+
+> Privacy-Enhancing Technologies (PETs) such as differential privacy, secure multiparty computation, and homomorphic encryption enable analytics on sensitive data while preserving confidentiality.
+
+</p></details>
+
+<details><summary><strong>Active Metadata Management</strong></summary><p>
+
+> Active Metadata Management continuously harvests operational metadata from tools and pipelines to surface lineage, ownership, and usage context that keeps analytics ecosystems searchable and governed.
+
+</p></details>
+
+<details><summary><strong>Metrics Layer</strong></summary><p>
+
+> A Metrics Layer standardizes business calculations into reusable semantic definitions so teams can deliver consistent dashboards, experiments, and alerts across analytics platforms.
+
+</p></details>
+
+<details><summary><strong>Data Reliability Engineering</strong></summary><p>
+
+> Data Reliability Engineering applies SRE-inspired practices like incident response, error budgets, and service-level objectives to critical datasets to minimize downtime and trust gaps.
+
+</p></details>
+
+<details><summary><strong>Change Data Capture (CDC)</strong></summary><p>
+
+> Change Data Capture (CDC) streams inserts, updates, and deletes from source systems in near real time, powering downstream micro-batch analytics and event-driven applications.
+
+</p></details>
+
+<details><summary><strong>Data Privacy Impact Assessments (DPIAs)</strong></summary><p>
+
+> Data Privacy Impact Assessments (DPIAs) evaluate how analytics initiatives handle personal data, documenting risks and mitigations required for regulatory compliance.
+
+</p></details>
+
+<details><summary><strong>Data Residency and Sovereignty</strong></summary><p>
+
+> Data Residency and Sovereignty policies ensure information remains within mandated geographic boundaries and legal jurisdictions, shaping cloud region choices and access controls.
+
+</p></details>
+
+<details><summary><strong>Unstructured Data Processing</strong></summary><p>
+
+> Unstructured Data Processing equips teams to extract signals from documents, images, audio, and sensor feeds using NLP, computer vision, and embedding pipelines.
+
+</p></details>
+
+<details><summary><strong>Anomaly Detection</strong></summary><p>
+
+> Anomaly Detection algorithms flag unusual trends or outliers across metrics, pipelines, and business KPIs so analysts can investigate potential issues quickly.
+
+</p></details>
+
+<details><summary><strong>Self-Service Analytics</strong></summary><p>
+
+> Self-Service Analytics platforms let domain experts explore curated datasets with minimal engineering support, accelerating decision-making while maintaining governance guardrails.
+
+</p></details>
+
+<details><summary><strong>Data Marketplaces</strong></summary><p>
+
+> Data Marketplaces provide governed exchanges where organizations can discover, license, and monetize internal or external datasets to augment analytics initiatives.
+
+</p></details>
+
 
 
 ![Divider](assets/images/divider-1.png)
@@ -2783,6 +3011,233 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Knowledge Representation and Reasoning</strong></summary><p>
+
+> Knowledge Representation and Reasoning focuses on encoding real-world information into structured formats and applying logical inference so AI systems can draw conclusions and solve problems.
+
+</p></details>
+
+<details><summary><strong>Planning and Scheduling</strong></summary><p>
+
+> Planning and Scheduling enable AI agents to sequence actions over time to achieve goals under resource constraints, powering applications like robotics, logistics, and automated assistants.
+
+</p></details>
+
+<details><summary><strong>Explainable AI (XAI)</strong></summary><p>
+
+> Explainable AI (XAI) develops methods that make AI decisions understandable to humans, improving transparency, trust, and regulatory compliance for complex models.
+
+</p></details>
+
+<details><summary><strong>AI Ethics</strong></summary><p>
+
+> AI Ethics examines the moral implications of artificial intelligence, addressing fairness, accountability, bias mitigation, and respect for human rights in AI-driven systems.
+
+</p></details>
+
+<details><summary><strong>Responsible AI</strong></summary><p>
+
+> Responsible AI encompasses frameworks and practices that ensure AI solutions are developed and deployed safely, inclusively, and in alignment with organizational and societal values.
+
+</p></details>
+
+<details><summary><strong>AI Safety</strong></summary><p>
+
+> AI Safety investigates techniques to prevent unintended behavior in intelligent systems, focusing on robustness, alignment with human intent, and fail-safe mechanisms.
+
+</p></details>
+
+<details><summary><strong>Edge AI</strong></summary><p>
+
+> Edge AI brings machine intelligence to edge devices, enabling low-latency inference, reduced bandwidth usage, and enhanced privacy by processing data closer to its source.
+
+</p></details>
+
+<details><summary><strong>Multi-Agent Systems</strong></summary><p>
+
+> Multi-Agent Systems involve multiple interacting AI agents that collaborate or compete to accomplish complex tasks, modeling decentralized decision-making environments.
+
+</p></details>
+
+<details><summary><strong>Swarm Intelligence</strong></summary><p>
+
+> Swarm Intelligence draws inspiration from collective behaviors in nature to coordinate large groups of simple agents, achieving emergent problem-solving capabilities.
+
+</p></details>
+
+<details><summary><strong>Affective Computing</strong></summary><p>
+
+> Affective Computing enables AI systems to recognize, interpret, and respond to human emotions, enhancing user experiences in domains like education, healthcare, and entertainment.
+
+</p></details>
+
+<details><summary><strong>Foundation Models</strong></summary><p>
+
+> Foundation Models are large-scale pre-trained systems that learn broad representations from vast data corpora and can be adapted to many downstream tasks with minimal fine-tuning.
+
+</p></details>
+
+<details><summary><strong>Neuro-Symbolic AI</strong></summary><p>
+
+> Neuro-Symbolic AI combines neural networks with symbolic reasoning to blend pattern recognition and logical inference, enabling more interpretable and generalizable intelligent systems.
+
+</p></details>
+
+<details><summary><strong>AI Alignment</strong></summary><p>
+
+> AI Alignment studies methods for ensuring advanced AI systems pursue objectives that remain faithful to human intent and ethical boundaries, even as capabilities grow.
+
+</p></details>
+
+<details><summary><strong>AI Policy and Regulation</strong></summary><p>
+
+> AI Policy and Regulation encompass laws, standards, and governance frameworks that guide responsible development and deployment of artificial intelligence across industries and governments.
+
+</p></details>
+
+<details><summary><strong>Human-in-the-Loop AI</strong></summary><p>
+
+> Human-in-the-Loop AI integrates human expertise into model training, validation, or decision steps to improve accuracy, accountability, and user trust.
+
+</p></details>
+
+<details><summary><strong>AI Assurance and Auditing</strong></summary><p>
+
+> AI Assurance and Auditing provide independent evaluations of model performance, robustness, and compliance, offering stakeholders verifiable evidence of trustworthy behavior.
+
+</p></details>
+
+<details><summary><strong>Embodied AI</strong></summary><p>
+
+> Embodied AI focuses on intelligent agents with physical or simulated bodies that perceive, act, and learn through interaction with their environments.
+
+</p></details>
+
+<details><summary><strong>AI for Social Good</strong></summary><p>
+
+> AI for Social Good applies artificial intelligence to humanitarian, environmental, and societal challenges, prioritizing equitable impact and ethical considerations.
+
+</p></details>
+
+<details><summary><strong>Retrieval-Augmented Generation (RAG)</strong></summary><p>
+
+> Retrieval-Augmented Generation (RAG) combines large language models with search over curated knowledge bases so responses can reference up-to-date, verifiable context.
+
+</p></details>
+
+<details><summary><strong>Multimodal AI</strong></summary><p>
+
+> Multimodal AI unifies text, audio, vision, and sensor inputs within shared representations, enabling richer perception and more natural user experiences.
+
+</p></details>
+
+<details><summary><strong>Constitutional AI</strong></summary><p>
+
+> Constitutional AI steers model behavior with explicit principle sets that guide self-critique and revision, producing safer outputs aligned with human values.
+
+</p></details>
+
+<details><summary><strong>AI Red Teaming</strong></summary><p>
+
+> AI Red Teaming subjects systems to adversarial probing and misuse simulations to uncover safety gaps before deployment to end users.
+
+</p></details>
+
+<details><summary><strong>Frontier Model Governance</strong></summary><p>
+
+> Frontier Model Governance establishes escalation paths, kill switches, and oversight boards tailored to highly capable foundation models with systemic impact.
+
+</p></details>
+
+<details><summary><strong>AI Risk Management</strong></summary><p>
+
+> AI Risk Management frameworks inventory model use cases, rate their potential harms, and implement controls spanning design, testing, and operations.
+
+</p></details>
+
+<details><summary><strong>AI Supply Chain Security</strong></summary><p>
+
+> AI Supply Chain Security traces datasets, model weights, and third-party components to prevent tampering, embedded bias, or intellectual property leakage.
+
+</p></details>
+
+<details><summary><strong>AI Model Registries</strong></summary><p>
+
+> AI Model Registries catalog models, versions, owners, and approvals, giving organizations a single source of truth for compliance and lifecycle tracking.
+
+</p></details>
+
+<details><summary><strong>AI System Cards</strong></summary><p>
+
+> AI System Cards summarize capabilities, limitations, and appropriate use cases in human-readable documentation that supports responsible adoption.
+
+</p></details>
+
+<details><summary><strong>Synthetic Media Detection</strong></summary><p>
+
+> Synthetic Media Detection uses forensic models to spot AI-generated images, audio, and video, helping platforms and regulators combat misinformation.
+
+</p></details>
+
+<details><summary><strong>Large Language Models (LLMs)</strong></summary><p>
+
+> Large Language Models (LLMs) learn from trillions of tokens to perform open-ended reasoning, coding, and content generation tasks with minimal task-specific tuning.
+
+</p></details>
+
+<details><summary><strong>Prompt Engineering</strong></summary><p>
+
+> Prompt Engineering crafts instructions, exemplars, and constraints that steer generative models toward relevant, safe, and high-quality outputs.
+
+</p></details>
+
+<details><summary><strong>Prompt Evaluation</strong></summary><p>
+
+> Prompt Evaluation frameworks benchmark prompts and model responses using automated metrics and human review to ensure reliability before deployment.
+
+</p></details>
+
+<details><summary><strong>Conversational AI Platforms</strong></summary><p>
+
+> Conversational AI Platforms orchestrate natural-language understanding, dialogue management, and integrations to deliver virtual assistants across chat, voice, and multimodal channels.
+
+</p></details>
+
+<details><summary><strong>Tool-Augmented AI</strong></summary><p>
+
+> Tool-Augmented AI agents invoke external APIs, databases, or code execution environments to extend reasoning with real-world actions and verified information.
+
+</p></details>
+
+<details><summary><strong>AI Orchestration</strong></summary><p>
+
+> AI Orchestration coordinates pipelines of models, prompts, and retrieval steps with routing logic that selects optimal components per request or user segment.
+
+</p></details>
+
+<details><summary><strong>Vector Databases</strong></summary><p>
+
+> Vector Databases store dense embeddings with similarity search, enabling semantic retrieval that enriches chatbots, recommendation systems, and generative AI workflows.
+
+</p></details>
+
+<details><summary><strong>AI Benchmarking</strong></summary><p>
+
+> AI Benchmarking establishes standardized evaluation suites, leaderboards, and challenge tasks that compare model performance across domains and difficulty levels.
+
+</p></details>
+
+<details><summary><strong>AI Guardrails</strong></summary><p>
+
+> AI Guardrails enforce policy filters, toxicity checks, and usage constraints around generative systems to prevent harmful or non-compliant outputs.
+
+</p></details>
+
+<details><summary><strong>AI Content Moderation</strong></summary><p>
+
+> AI Content Moderation blends machine judgments with human review to detect spam, abuse, and policy violations at scale across social and communication platforms.
+
+</p></details>
 
 ![Divider](assets/images/divider-1.png)
 
@@ -2858,6 +3313,228 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Semi-Supervised Learning</strong></summary><p>
+
+> Semi-Supervised Learning leverages small amounts of labeled data alongside abundant unlabeled data to improve model accuracy while reducing annotation costs.
+
+</p></details>
+
+<details><summary><strong>Self-Supervised Learning</strong></summary><p>
+
+> Self-Supervised Learning creates predictive tasks from unlabeled data itself, enabling models to learn useful representations without manual labeling.
+
+</p></details>
+
+<details><summary><strong>Active Learning</strong></summary><p>
+
+> Active Learning iteratively selects the most informative data points for labeling, optimizing annotation effort and improving model performance with fewer examples.
+
+</p></details>
+
+<details><summary><strong>Hyperparameter Optimization</strong></summary><p>
+
+> Hyperparameter Optimization systematically searches for the best configuration of model parameters that are not learned during training, using methods like grid search, random search, or Bayesian optimization.
+
+</p></details>
+
+<details><summary><strong>Model Interpretability</strong></summary><p>
+
+> Model Interpretability encompasses techniques that explain how machine learning models make predictions, helping stakeholders trust and validate model behavior.
+
+</p></details>
+
+<details><summary><strong>Dimensionality Reduction</strong></summary><p>
+
+> Dimensionality Reduction reduces the number of input features while preserving essential structure, simplifying models and mitigating the curse of dimensionality.
+
+</p></details>
+
+<details><summary><strong>Model Deployment (MLOps)</strong></summary><p>
+
+> Model Deployment (MLOps) integrates machine learning models into production environments using automated pipelines, monitoring, and governance to ensure reliable, scalable delivery.
+
+</p></details>
+
+<details><summary><strong>Cross-Validation</strong></summary><p>
+
+> Cross-Validation evaluates model performance by training and testing on multiple data splits, providing robust estimates of generalization and helping prevent overfitting.
+
+</p></details>
+
+<details><summary><strong>Gradient Boosting Machines</strong></summary><p>
+
+> Gradient Boosting Machines build ensembles by sequentially training weak learners to correct predecessors' errors, delivering high accuracy on structured data tasks.
+
+</p></details>
+
+<details><summary><strong>Online Learning</strong></summary><p>
+
+> Online Learning updates models incrementally as new data arrives, enabling real-time adaptation without retraining from scratch.
+
+</p></details>
+
+<details><summary><strong>Imbalanced Learning Techniques</strong></summary><p>
+
+> Imbalanced Learning Techniques address skewed class distributions using resampling, synthetic data, or cost-sensitive methods to maintain predictive performance on minority classes.
+
+</p></details>
+
+<details><summary><strong>Federated Learning</strong></summary><p>
+
+> Federated Learning trains shared models across decentralized data sources while keeping raw data local, preserving privacy and meeting regulatory constraints.
+
+</p></details>
+
+<details><summary><strong>Few-Shot Learning</strong></summary><p>
+
+> Few-Shot Learning enables models to generalize from only a handful of labeled examples, leveraging meta-learning or transfer techniques to reduce data requirements.
+
+</p></details>
+
+<details><summary><strong>Data Augmentation</strong></summary><p>
+
+> Data Augmentation expands training datasets by applying transformations or synthesizing new samples, improving model robustness and mitigating overfitting.
+
+</p></details>
+
+<details><summary><strong>Automated Machine Learning (AutoML)</strong></summary><p>
+
+> Automated Machine Learning (AutoML) automates model selection, feature processing, and tuning, allowing practitioners to rapidly build performant pipelines with minimal manual intervention.
+
+</p></details>
+
+<details><summary><strong>Model Drift Detection</strong></summary><p>
+
+> Model Drift Detection monitors prediction data for distribution shifts or performance decay, triggering retraining or investigation before business impact occurs.
+
+</p></details>
+
+<details><summary><strong>Model Monitoring</strong></summary><p>
+
+> Model Monitoring tracks operational metrics, data quality, and outcomes for deployed models to ensure sustained accuracy, fairness, and reliability.
+
+</p></details>
+
+<details><summary><strong>Bayesian Optimization</strong></summary><p>
+
+> Bayesian Optimization tunes expensive black-box models by building surrogate functions that balance exploration and exploitation for faster convergence on optimal settings.
+
+</p></details>
+
+<details><summary><strong>Curriculum Learning</strong></summary><p>
+
+> Curriculum Learning orders training data from easy to hard examples so models stabilize faster and reach higher accuracy on complex tasks.
+
+</p></details>
+
+<details><summary><strong>Conformal Prediction</strong></summary><p>
+
+> Conformal Prediction wraps around any predictor to produce calibrated confidence sets, giving probabilistic guarantees on coverage for individual predictions.
+
+</p></details>
+
+<details><summary><strong>Causal Discovery</strong></summary><p>
+
+> Causal Discovery algorithms infer directional relationships among variables from observational data, supporting interventions and policy decisions.
+
+</p></details>
+
+<details><summary><strong>Model-Based Reinforcement Learning</strong></summary><p>
+
+> Model-Based Reinforcement Learning learns simulators of the environment to plan actions efficiently, reducing the samples needed for policy optimization.
+
+</p></details>
+
+<details><summary><strong>Probabilistic Programming</strong></summary><p>
+
+> Probabilistic Programming languages express complex Bayesian models with concise code and automate inference, enabling uncertainty-aware machine learning.
+
+</p></details>
+
+<details><summary><strong>Graph Machine Learning</strong></summary><p>
+
+> Graph Machine Learning generalizes predictive modeling to relational data structures, powering recommendations, fraud detection, and scientific discovery.
+
+</p></details>
+
+<details><summary><strong>Data Valuation</strong></summary><p>
+
+> Data Valuation techniques such as Shapley value estimation quantify each training example's contribution to model performance, guiding labeling and procurement priorities.
+
+</p></details>
+
+<details><summary><strong>Label Noise Robustness</strong></summary><p>
+
+> Label Noise Robustness methods detect and downweight corrupted annotations so models stay accurate when training data quality is imperfect.
+
+</p></details>
+
+<details><summary><strong>Responsible ML Tooling</strong></summary><p>
+
+> Responsible ML Tooling integrates fairness metrics, explainability widgets, and bias mitigations into pipelines, making ethical checks part of standard workflows.
+
+</p></details>
+
+<details><summary><strong>Bayesian Networks</strong></summary><p>
+
+> Bayesian Networks represent probabilistic dependencies among variables with directed graphs, supporting inference and decision-making under uncertainty.
+
+</p></details>
+
+<details><summary><strong>Gaussian Processes</strong></summary><p>
+
+> Gaussian Processes provide non-parametric regression and classification with calibrated uncertainty estimates, ideal for modeling smooth functions with limited data.
+
+</p></details>
+
+<details><summary><strong>Recommender Systems</strong></summary><p>
+
+> Recommender Systems leverage collaborative filtering, content signals, and contextual cues to personalize product, content, or connection suggestions.
+
+</p></details>
+
+<details><summary><strong>Time Series Forecasting</strong></summary><p>
+
+> Time Series Forecasting applies statistical and machine learning models to predict future values from sequential data, powering demand planning and capacity management.
+
+</p></details>
+
+<details><summary><strong>Feature Selection</strong></summary><p>
+
+> Feature Selection techniques rank or prune input variables using filters, wrappers, or embedded methods to improve generalization and interpretability.
+
+</p></details>
+
+<details><summary><strong>Model Stacking</strong></summary><p>
+
+> Model Stacking trains meta-learners on predictions from diverse base models, capturing complementary strengths to boost accuracy.
+
+</p></details>
+
+<details><summary><strong>Fairness Metrics</strong></summary><p>
+
+> Fairness Metrics quantify disparate impact, equalized odds, and other equity criteria so practitioners can detect and mitigate bias in model outcomes.
+
+</p></details>
+
+<details><summary><strong>Out-of-Distribution Detection</strong></summary><p>
+
+> Out-of-Distribution Detection methods flag inputs that diverge from training data manifolds, safeguarding models from unreliable predictions.
+
+</p></details>
+
+<details><summary><strong>Survival Analysis</strong></summary><p>
+
+> Survival Analysis algorithms estimate time-to-event outcomes with censored data, supporting applications like churn prediction and reliability engineering.
+
+</p></details>
+
+<details><summary><strong>Representation Learning</strong></summary><p>
+
+> Representation Learning uncovers latent feature spaces where downstream tasks become easier, using approaches such as autoencoders, contrastive objectives, or manifold learning.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -2926,9 +3603,225 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Attention Mechanisms</strong></summary><p>
+
+> Attention Mechanisms allow neural networks to focus on the most relevant parts of input sequences, enhancing performance in tasks like translation, summarization, and vision-language modeling.
+
+</p></details>
+
+<details><summary><strong>Transformer Models</strong></summary><p>
+
+> Transformer Models rely on self-attention layers to process sequence data in parallel, powering state-of-the-art systems in language understanding, generation, and beyond.
+
+</p></details>
+
+<details><summary><strong>Autoencoders</strong></summary><p>
+
+> Autoencoders learn compressed representations of data by training networks to reconstruct their inputs, supporting tasks like dimensionality reduction, denoising, and anomaly detection.
+
+</p></details>
+
+<details><summary><strong>Graph Neural Networks (GNN)</strong></summary><p>
+
+> Graph Neural Networks (GNNs) generalize deep learning to graph-structured data, enabling reasoning over relationships in applications such as social networks, chemistry, and recommendation systems.
+
+</p></details>
+
+<details><summary><strong>Capsule Networks</strong></summary><p>
+
+> Capsule Networks group neurons into capsules that encode spatial relationships, aiming to improve robustness to viewpoint changes compared to traditional convolutional networks.
+
+</p></details>
+
+<details><summary><strong>Batch Normalization</strong></summary><p>
+
+> Batch Normalization normalizes activations within a mini-batch to stabilize training, accelerate convergence, and improve generalization of deep neural networks.
+
+</p></details>
+
+<details><summary><strong>Dropout</strong></summary><p>
+
+> Dropout randomly deactivates neurons during training to reduce overfitting, encouraging neural networks to learn more robust, distributed representations.
+
+</p></details>
+
+<details><summary><strong>Neural Architecture Search (NAS)</strong></summary><p>
+
+> Neural Architecture Search (NAS) automates the design of neural network structures using optimization strategies, discovering architectures tailored to specific tasks and constraints.
+
+</p></details>
+
 <details><summary><strong>Deep Reinforcement Learning</strong></summary><p>
 
 > Deep Reinforcement Learning combines deep learning and reinforcement learning to train agents to make decisions in complex environments, making it suitable for applications like game playing and robotics.
+
+</p></details>
+
+<details><summary><strong>Vision Transformers</strong></summary><p>
+
+> Vision Transformers adapt transformer architectures to image data by treating patches as tokens, achieving state-of-the-art results in recognition and detection tasks.
+
+</p></details>
+
+<details><summary><strong>Diffusion Models</strong></summary><p>
+
+> Diffusion Models generate high-fidelity data by iteratively denoising random noise, powering cutting-edge synthesis of images, audio, and 3D content.
+
+</p></details>
+
+<details><summary><strong>Contrastive Learning</strong></summary><p>
+
+> Contrastive Learning trains models to distinguish between similar and dissimilar samples, producing rich representations for downstream tasks without extensive labels.
+
+</p></details>
+
+<details><summary><strong>Sequence-to-Sequence Models</strong></summary><p>
+
+> Sequence-to-Sequence Models encode input sequences and decode outputs, enabling translation, summarization, and conversational agents.
+
+</p></details>
+
+<details><summary><strong>Meta-Learning</strong></summary><p>
+
+> Meta-Learning teaches models to learn new tasks rapidly by leveraging experience across tasks, supporting personalization and few-shot adaptation.
+
+</p></details>
+
+<details><summary><strong>Continual Learning</strong></summary><p>
+
+> Continual Learning develops strategies for neural networks to acquire new knowledge over time without forgetting previously learned tasks.
+
+</p></details>
+
+<details><summary><strong>Model Compression</strong></summary><p>
+
+> Model Compression reduces network size and latency through pruning, quantization, or distillation so deep models can deploy on resource-constrained hardware.
+
+</p></details>
+
+<details><summary><strong>Knowledge Distillation</strong></summary><p>
+
+> Knowledge Distillation transfers capabilities from large teacher models to smaller students by training on softened outputs, retaining accuracy while cutting compute costs.
+
+</p></details>
+
+<details><summary><strong>Mixture of Experts</strong></summary><p>
+
+> Mixture of Experts architectures route inputs to specialized subnetworks, scaling model capacity efficiently by activating only a subset of parameters per request.
+
+</p></details>
+
+<details><summary><strong>Spiking Neural Networks</strong></summary><p>
+
+> Spiking Neural Networks model neuron firing patterns with discrete spikes, enabling energy-efficient inference on neuromorphic hardware.
+
+</p></details>
+
+<details><summary><strong>Neural Radiance Fields (NeRFs)</strong></summary><p>
+
+> Neural Radiance Fields (NeRFs) synthesize photorealistic 3D scenes from sparse images by learning continuous volumetric representations.
+
+</p></details>
+
+<details><summary><strong>Parameter-Efficient Fine-Tuning (PEFT)</strong></summary><p>
+
+> Parameter-Efficient Fine-Tuning (PEFT) adapts large models by learning lightweight adapters instead of updating full weights, reducing compute and memory costs.
+
+</p></details>
+
+<details><summary><strong>Low-Rank Adaptation (LoRA)</strong></summary><p>
+
+> Low-Rank Adaptation (LoRA) factors weight updates into small matrices that can be merged into base models at inference time, enabling rapid specialization.
+
+</p></details>
+
+<details><summary><strong>Prompt Tuning</strong></summary><p>
+
+> Prompt Tuning learns task-specific input prompts for frozen language models, delivering competitive performance with minimal parameter updates.
+
+</p></details>
+
+<details><summary><strong>Sparse Neural Networks</strong></summary><p>
+
+> Sparse Neural Networks prune weights or enforce sparsity patterns to cut computation while maintaining accuracy, benefiting deployment on edge devices.
+
+</p></details>
+
+<details><summary><strong>Neural Ordinary Differential Equations (Neural ODEs)</strong></summary><p>
+
+> Neural Ordinary Differential Equations parameterize continuous-time dynamics with neural networks, providing memory-efficient models for sequential and physical systems.
+
+</p></details>
+
+<details><summary><strong>Temporal Convolutional Networks (TCNs)</strong></summary><p>
+
+> Temporal Convolutional Networks (TCNs) use causal, dilated convolutions to capture long-range dependencies in sequential data without recurrence.
+
+</p></details>
+
+<details><summary><strong>Graph Attention Networks (GATs)</strong></summary><p>
+
+> Graph Attention Networks (GATs) leverage attention mechanisms on graph neighborhoods to learn adaptive importance weights for connected nodes.
+
+</p></details>
+
+<details><summary><strong>Residual Networks (ResNets)</strong></summary><p>
+
+> Residual Networks (ResNets) introduce skip connections that let gradients flow through identity paths, enabling the training of very deep architectures without vanishing gradients.
+
+</p></details>
+
+<details><summary><strong>DenseNets</strong></summary><p>
+
+> DenseNets connect each layer to every subsequent layer, reusing features efficiently and reducing the number of parameters required for strong performance.
+
+</p></details>
+
+<details><summary><strong>U-Net Architectures</strong></summary><p>
+
+> U-Net Architectures pair contracting and expanding paths with skip connections, delivering high-resolution predictions for segmentation and medical imaging tasks.
+
+</p></details>
+
+<details><summary><strong>Siamese Networks</strong></summary><p>
+
+> Siamese Networks process paired inputs through shared weights to learn similarity metrics, powering face verification, signature matching, and metric learning.
+
+</p></details>
+
+<details><summary><strong>Normalizing Flow Models</strong></summary><p>
+
+> Normalizing Flow Models transform simple base distributions through invertible layers to yield expressive generative models with exact likelihoods.
+
+</p></details>
+
+<details><summary><strong>Layer Normalization</strong></summary><p>
+
+> Layer Normalization stabilizes training by normalizing activations across features within each sample, benefiting transformer and recurrent architectures.
+
+</p></details>
+
+<details><summary><strong>Mixed Precision Training</strong></summary><p>
+
+> Mixed Precision Training combines 16-bit and 32-bit floating point operations to accelerate training and reduce memory usage while preserving model accuracy.
+
+</p></details>
+
+<details><summary><strong>Gradient Checkpointing</strong></summary><p>
+
+> Gradient Checkpointing recomputes intermediate activations during backpropagation to trade additional compute for drastically lower memory consumption on large models.
+
+</p></details>
+
+<details><summary><strong>Model Parallelism</strong></summary><p>
+
+> Model Parallelism splits giant neural networks across multiple devices or machines, coordinating execution so models that exceed single-GPU memory can train efficiently.
+
+</p></details>
+
+<details><summary><strong>Neural Style Transfer</strong></summary><p>
+
+> Neural Style Transfer blends the content of one image with the artistic style of another by optimizing deep feature representations from convolutional networks.
 
 </p></details>
 
@@ -2988,13 +3881,241 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Proof of Work (PoW)</strong></summary><p>
+
+> Proof of Work (PoW) is a consensus mechanism where miners solve computational puzzles to validate blocks, securing the network through expended energy.
+
+</p></details>
+
+<details><summary><strong>Proof of Stake (PoS)</strong></summary><p>
+
+> Proof of Stake (PoS) selects validators based on staked assets, reducing energy consumption while incentivizing honest participation in block production.
+
+</p></details>
+
+<details><summary><strong>Layer 2 Scaling</strong></summary><p>
+
+> Layer 2 Scaling solutions process transactions off the main blockchain to increase throughput and lower fees, later settling batched results back on-chain.
+
+</p></details>
+
+<details><summary><strong>Sidechains</strong></summary><p>
+
+> Sidechains are independent blockchains that run in parallel to a main chain, enabling asset transfers and experimentation with new features without impacting the primary network.
+
+</p></details>
+
+<details><summary><strong>Decentralized Finance (DeFi)</strong></summary><p>
+
+> Decentralized Finance (DeFi) comprises financial services built on blockchain networks, offering lending, trading, and yield opportunities without traditional intermediaries.
+
+</p></details>
+
+<details><summary><strong>Non-Fungible Tokens (NFTs)</strong></summary><p>
+
+> Non-Fungible Tokens (NFTs) represent unique digital items on a blockchain, enabling verifiable ownership of assets like art, collectibles, and in-game items.
+
+</p></details>
+
+<details><summary><strong>Decentralized Autonomous Organizations (DAOs)</strong></summary><p>
+
+> Decentralized Autonomous Organizations (DAOs) are member-governed entities that use smart contracts and token-based voting to make collective decisions transparently.
+
+</p></details>
+
+<details><summary><strong>Oracles</strong></summary><p>
+
+> Oracles provide smart contracts with trusted external data, bridging on-chain logic with real-world information such as prices, events, or sensor readings.
+
+</p></details>
+
+<details><summary><strong>Blockchain Interoperability</strong></summary><p>
+
+> Blockchain Interoperability focuses on protocols that enable different blockchain networks to communicate and exchange assets or data securely.
+
+</p></details>
+
+<details><summary><strong>Zero-Knowledge Proofs</strong></summary><p>
+
+> Zero-Knowledge Proofs allow one party to prove knowledge of information without revealing the information itself, enhancing privacy and scalability in blockchain applications.
+
+</p></details>
+
+<details><summary><strong>Permissioned Blockchains</strong></summary><p>
+
+> Permissioned Blockchains restrict participation to vetted entities, offering fine-grained access control and compliance features for enterprise and consortium use cases.
+
+</p></details>
+
+<details><summary><strong>Stablecoins</strong></summary><p>
+
+> Stablecoins are cryptocurrencies pegged to external assets like fiat currencies or commodities, providing price stability for payments, remittances, and DeFi liquidity.
+
+</p></details>
+
+<details><summary><strong>Cross-Chain Bridges</strong></summary><p>
+
+> Cross-Chain Bridges enable asset and data transfers between separate blockchain networks, expanding liquidity and interoperability across ecosystems.
+
+</p></details>
+
+<details><summary><strong>Rollups</strong></summary><p>
+
+> Rollups bundle large numbers of transactions off-chain and submit succinct proofs back to the base layer, boosting throughput while inheriting mainnet security.
+
+</p></details>
+
+<details><summary><strong>Decentralized Identity (DID)</strong></summary><p>
+
+> Decentralized Identity (DID) frameworks give users cryptographic control over portable identifiers and credentials without relying on centralized issuers.
+
+</p></details>
+
+<details><summary><strong>Tokenomics</strong></summary><p>
+
+> Tokenomics designs the economic incentives, supply mechanics, and governance rights of blockchain tokens to align participant behavior with network goals.
+
+</p></details>
+
+<details><summary><strong>Decentralized Storage</strong></summary><p>
+
+> Decentralized Storage networks distribute data across peer nodes using cryptographic guarantees, reducing reliance on centralized clouds and improving resilience.
+
+</p></details>
+
+<details><summary><strong>MEV Mitigation</strong></summary><p>
+
+> MEV Mitigation develops protocols and marketplaces that limit miner or validator extractable value, protecting users from front-running and unfair transaction ordering.
+
+</p></details>
+
+<details><summary><strong>State Channels</strong></summary><p>
+
+> State Channels enable participants to transact off-chain with instant finality and settle aggregated results on-chain, dramatically reducing fees.
+
+</p></details>
+
+<details><summary><strong>Layer 0 Networks</strong></summary><p>
+
+> Layer 0 Networks provide shared consensus and messaging layers that coordinate multiple blockchains, powering modular ecosystems like Cosmos and Polkadot.
+
+</p></details>
+
+<details><summary><strong>Blockchain Analytics</strong></summary><p>
+
+> Blockchain Analytics platforms trace addresses, flows, and smart contract activity to support compliance, investigations, and market intelligence.
+
+</p></details>
+
+<details><summary><strong>Decentralized Physical Infrastructure Networks (DePIN)</strong></summary><p>
+
+> Decentralized Physical Infrastructure Networks (DePIN) tokenize incentives for deploying hardware like sensors or wireless hotspots, building community-owned infrastructure.
+
+</p></details>
+
+<details><summary><strong>Soulbound Tokens (SBTs)</strong></summary><p>
+
+> Soulbound Tokens (SBTs) are non-transferable credentials that attest to achievements or memberships, anchoring identity and reputation on-chain.
+
+</p></details>
+
+<details><summary><strong>Modular Blockchain Architectures</strong></summary><p>
+
+> Modular Blockchain Architectures separate execution, settlement, and data availability layers so networks can specialize and scale independently.
+
+</p></details>
+
+<details><summary><strong>Account Abstraction</strong></summary><p>
+
+> Account Abstraction standardizes smart contract wallets with programmable validation logic, improving user experience and security for everyday transactions.
+
+</p></details>
+
+<details><summary><strong>Restaking</strong></summary><p>
+
+> Restaking allows staked assets to secure additional networks or services, rewarding validators while expanding the security footprint of emerging protocols.
+
+</p></details>
+
+<details><summary><strong>Light Clients</strong></summary><p>
+
+> Light Clients verify blockchain state with minimal resources by downloading only block headers, enabling secure participation from mobile and embedded devices.
+
+</p></details>
+
+<details><summary><strong>On-Chain Governance</strong></summary><p>
+
+> On-Chain Governance encodes proposal submission and voting directly into smart contracts, ensuring transparent, tamper-resistant community decision-making.
+
+</p></details>
+
+<details><summary><strong>zkEVMs</strong></summary><p>
+
+> zkEVMs implement Ethereum-compatible execution within zero-knowledge rollups so developers can deploy existing smart contracts while inheriting succinct validity proofs.
+
+</p></details>
+
+<details><summary><strong>Verifiable Random Functions (VRFs)</strong></summary><p>
+
+> Verifiable Random Functions (VRFs) generate provably fair randomness for leader election, lotteries, and gaming without trusting centralized coordinators.
+
+</p></details>
+
+<details><summary><strong>Threshold Cryptography</strong></summary><p>
+
+> Threshold Cryptography splits private keys across multiple parties who must collaborate to sign transactions, hardening wallets and custodial services against compromise.
+
+</p></details>
+
+<details><summary><strong>Inter-Blockchain Communication (IBC)</strong></summary><p>
+
+> Inter-Blockchain Communication (IBC) is a standardized protocol that relays packets between sovereign chains, enabling secure cross-chain asset and data transfers.
+
+</p></details>
+
+<details><summary><strong>Liquid Staking Tokens (LSTs)</strong></summary><p>
+
+> Liquid Staking Tokens (LSTs) represent deposited stake while remaining transferable, unlocking DeFi utility without forfeiting validator rewards.
+
+</p></details>
+
+<details><summary><strong>Intent-Based Architecture</strong></summary><p>
+
+> Intent-Based Architecture lets users express desired outcomes that specialized solvers or builders fulfill, improving execution quality and user experience across DeFi.
+
+</p></details>
+
+<details><summary><strong>Decentralized Sequencers</strong></summary><p>
+
+> Decentralized Sequencers distribute the ordering of rollup transactions across multiple operators, reducing censorship risk and single points of failure.
+
+</p></details>
+
+<details><summary><strong>Data Availability Sampling</strong></summary><p>
+
+> Data Availability Sampling allows light clients to probabilistically verify that block data is accessible, enabling scalable modular chains without trusting full nodes.
+
+</p></details>
+
+<details><summary><strong>Proposer-Builder Separation (PBS)</strong></summary><p>
+
+> Proposer-Builder Separation (PBS) divides block construction from proposal duties to curb MEV exploitation and encourage competitive block-building markets.
+
+</p></details>
+
+<details><summary><strong>Programmable Privacy Pools</strong></summary><p>
+
+> Programmable Privacy Pools combine mixers with compliance-friendly controls, letting users prove funds come from legitimate sources while shielding transaction history.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 ---
 
 # Stay Updated
 
-For more tech insights, follow me on Twitter X [@Mahmoud_Zalt](https://twitter.com/Mahmoud_Zalt).
+Explore my latest tech deep dives at [zalt.me/blog.html](https://zalt.me/blog.html) and follow me on Twitter X [@Mahmoud_Zalt](https://twitter.com/Mahmoud_Zalt).
 
 # Contributing
 
