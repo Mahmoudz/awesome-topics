@@ -4113,14 +4113,18 @@ A curated list of awesome technical topics from the software world, explained co
 
 ---
 
-# Stay Updated
+## 📢 Stay Updated  
 
-Explore my latest tech deep dives at [zalt.me/blog.html](https://zalt.me/blog.html) and follow me on Twitter X [@Mahmoud_Zalt](https://twitter.com/Mahmoud_Zalt).
+✨ For more tech insights, visit **[zalt.me/blog](https://zalt.me/blog)**  
+🐦 Follow me on X: [@Mahmoud_Zalt](https://x.com/Mahmoud_Zalt)  
 
-# Contributing
 
-We need your contribution. Plesse check our [Contributing Guide](.github/CONTRIBUTING.md).
+## 🤝 Contributing  
 
-# License
+Contributions are what make this project thrive!  
+Check out the [Contributing Guide](.github/CONTRIBUTING.md) to get started.  
 
-This repository is licensed under a [CC BY-NC-SA 4.0](LICENSE).
+## 📜 License  
+
+Distributed under the [CC BY-NC-SA 4.0](LICENSE) License.  
+Feel free to use, share, and adapt with attribution.  
