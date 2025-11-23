@@ -11,7 +11,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> **Disclaimer:**  This collection thrives on your contributions. ❤️ It's a starting point, and I can't do it alone. Your input is vital to make it more comprehensive. If you have a favorite topic missing here, please [join in](#Contributing) shaping this resource together for the community's benefit. 
+> **Disclaimer:**  This collection thrives on your contributions. ❤️ It's a starting point, and I can't do it alone. Your input is vital to make it more comprehensive. If you have a favorite topic missing here, please [join in](.github/CONTRIBUTING.md) shaping this resource together for the community's benefit. 
 
 ## Contents
 
