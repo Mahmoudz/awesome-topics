@@ -1,23 +1,20 @@
-# Pull Request Template for Awesome Topics
+<!-- Use this template for adding or updating resources -->
 
-## PR Type
-- New Topic
-- Edit Topic
-- New Subject
-- Design Enhancement
+## Type of change
+- [ ] Add a resource
+- [ ] Update a resource
+- [ ] Fix a broken link
+- [ ] Reorganize categories
 
 ## Description
-Please provide a concise summary of your changes or the new topic you are introducing.
+- Category:
+- Resource name:
+- URL:
+- One-line description (20–120 chars):
+- Tags (format: category, language, difficulty, license):
 
 ## Checklist
-- [ ] I have read the project's [Contributing Guide](CONTRIBUTING.md).
-- [ ] I have adhered to the project's quality standards.
-- [ ] I have ensured there is no duplicate content in my submission.
-- [ ] I have reviewed all open PRs to confirm no similar contributions are pending.
-- [ ] I have updated the Table of Contents (if necessary).
-
-## Related Issue
-Link any related issues or discussions here.
-
-## Additional Notes
-Add any other context or screenshots about the PR here.
+- [ ] I checked for duplicates.
+- [ ] Description and tags included.
+- [ ] Links tested and working (or note provided).
+- [ ] I followed the project contribution format.
