@@ -5387,19 +5387,19 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Consensus Algorithms</strong></summary><p>
 
-> Consensus Algorithms are protocols used in blockchain networks to achieve agreement among nodes regarding the validity and ordering of transactions, ensuring network security and integrity.
+> Consensus Algorithms are protocols used in Blockchain networks to achieve agreement among nodes regarding the validity and ordering of transactions, ensuring network security and integrity.
 
 </p></details>
 
 <details><summary><strong>Mining</strong></summary><p>
 
-> Mining is the process by which new cryptocurrency tokens are created and transactions are verified on a blockchain. Miners use computational power to solve complex mathematical problems.
+> Mining is the process by which new cryptocurrency tokens are created and transactions are verified on a Blockchain. Miners use computational power to solve complex mathematical problems.
 
 </p></details>
 
 <details><summary><strong>Tokens</strong></summary><p>
 
-> Tokens are digital assets or representations of value that can be created, transferred, or exchanged within a blockchain ecosystem, serving various purposes, such as access, ownership, or utility.
+> Tokens are digital assets or representations of value that can be created, transferred, or exchanged within a Blockchain ecosystem, serving various purposes, such as access, ownership, or utility.
 
 </p></details>
 
@@ -5417,7 +5417,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Layer 2 Scaling</strong></summary><p>
 
-> Layer 2 Scaling solutions process transactions off the main blockchain to increase throughput and lower fees, later settling batched results back on-chain.
+> Layer 2 Scaling solutions process transactions off the main Blockchain to increase throughput and lower fees, later settling batched results back on-chain.
 
 </p></details>
 
@@ -5429,13 +5429,13 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Decentralized Finance (DeFi)</strong></summary><p>
 
-> Decentralized Finance (DeFi) comprises financial services built on blockchain networks, offering lending, trading, and yield opportunities without traditional intermediaries.
+> Decentralized Finance (DeFi) comprises financial services built on Blockchain networks, offering lending, trading, and yield opportunities without traditional intermediaries.
 
 </p></details>
 
 <details><summary><strong>Non-Fungible Tokens (NFTs)</strong></summary><p>
 
-> Non-Fungible Tokens (NFTs) represent unique digital items on a blockchain, enabling verifiable ownership of assets like art, collectibles, and in-game items.
+> Non-Fungible Tokens (NFTs) represent unique digital items on a Blockchain, enabling verifiable ownership of assets like art, collectibles, and in-game items.
 
 </p></details>
 
@@ -5453,13 +5453,13 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Blockchain Interoperability</strong></summary><p>
 
-> Blockchain Interoperability focuses on protocols that enable different blockchain networks to communicate and exchange assets or data securely.
+> Blockchain Interoperability focuses on protocols that enable different Blockchain networks to communicate and exchange assets or data securely.
 
 </p></details>
 
 <details><summary><strong>Zero-Knowledge Proofs</strong></summary><p>
 
-> Zero-Knowledge Proofs allow one party to prove knowledge of information without revealing the information itself, enhancing privacy and scalability in blockchain applications.
+> Zero-Knowledge Proofs allow one party to prove knowledge of information without revealing the information itself, enhancing privacy and scalability in Blockchain applications.
 
 </p></details>
 
@@ -5477,7 +5477,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Cross-Chain Bridges</strong></summary><p>
 
-> Cross-Chain Bridges enable asset and data transfers between separate blockchain networks, expanding liquidity and interoperability across ecosystems.
+> Cross-Chain Bridges enable asset and data transfers between separate Blockchain networks, expanding liquidity and interoperability across ecosystems.
 
 </p></details>
 
@@ -5495,7 +5495,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Tokenomics</strong></summary><p>
 
-> Tokenomics designs the economic incentives, supply mechanics, and governance rights of blockchain tokens to align participant behavior with network goals.
+> Tokenomics designs the economic incentives, supply mechanics, and governance rights of Blockchain tokens to align participant behavior with network goals.
 
 </p></details>
 
@@ -5519,7 +5519,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Layer 0 Networks</strong></summary><p>
 
-> Layer 0 Networks provide shared consensus and messaging layers that coordinate multiple blockchains, powering modular ecosystems like Cosmos and Polkadot.
+> Layer 0 Networks provide shared consensus and messaging layers that coordinate multiple Blockchains, powering modular ecosystems like Cosmos and Polkadot.
 
 </p></details>
 
@@ -5561,7 +5561,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Light Clients</strong></summary><p>
 
-> Light Clients verify blockchain state with minimal resources by downloading only block headers, enabling secure participation from mobile and embedded devices.
+> Light Clients verify Blockchain state with minimal resources by downloading only block headers, enabling secure participation from mobile and embedded devices.
 
 </p></details>
 
@@ -5609,7 +5609,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Decentralized Sequencers</strong></summary><p>
 
-> Decentralized Sequencers distribute the ordering of rollup transactions across multiple operators, reducing censorship risk and single points of failure.
+> Decentralized Sequencers distribute the ordering of Rollup transactions across multiple operators, reducing censorship risk and single points of failure.
 
 </p></details>
 
@@ -5633,19 +5633,19 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Account Abstraction</strong></summary><p>
 
-> Account Abstraction treats all accounts as smart contracts, enabling flexible authentication, gas sponsorship, and improved user experience in blockchain interactions.
+> Account Abstraction treats all accounts as smart contracts, enabling flexible authentication, gas sponsorship, and improved user experience in Blockchain interactions.
 
 </p></details>
 
 <details><summary><strong>Layer 2 Scaling</strong></summary><p>
 
-> Layer 2 Scaling solutions like rollups, state channels, and sidechains process transactions off the main blockchain while inheriting its security, dramatically increasing throughput.
+> Layer 2 Scaling solutions like Rollups, state channels, and sidechains process transactions off the main Blockchain while inheriting its security, dramatically increasing throughput.
 
 </p></details>
 
 <details><summary><strong>Cross-Chain Bridges</strong></summary><p>
 
-> Cross-Chain Bridges enable asset and data transfer between different blockchain networks, facilitating interoperability in the multi-chain ecosystem.
+> Cross-Chain Bridges enable asset and data transfer between different Blockchain networks, facilitating interoperability in the multi-chain ecosystem.
 
 </p></details>
 
@@ -5669,7 +5669,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>MEV (Maximal Extractable Value)</strong></summary><p>
 
-> MEV refers to profit opportunities for validators by reordering, inserting, or censoring transactions within blocks, impacting blockchain fairness and user costs.
+> MEV refers to profit opportunities for validators by reordering, inserting, or censoring transactions within blocks, impacting Blockchain fairness and user costs.
 
 </p></details>
 
@@ -5681,7 +5681,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Blockchain Interoperability</strong></summary><p>
 
-> Blockchain Interoperability enables different blockchain networks to communicate and exchange data, creating a connected ecosystem of specialized chains.
+> Blockchain Interoperability enables different Blockchain networks to communicate and exchange data, creating a connected ecosystem of specialized chains.
 
 </p></details>
 
