@@ -1571,6 +1571,66 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Network Traffic Analysis</strong></summary><p>
+
+> Network Traffic Analysis examines data flows to detect anomalies, security threats, and performance issues by monitoring patterns, protocols, and bandwidth usage.
+
+</p></details>
+
+<details><summary><strong>DDoS Protection</strong></summary><p>
+
+> DDoS Protection defends against Distributed Denial of Service attacks that overwhelm systems with traffic, using techniques like rate limiting, traffic filtering, and content delivery networks.
+
+</p></details>
+
+<details><summary><strong>Secure Network Architecture</strong></summary><p>
+
+> Secure Network Architecture designs network topology with security zones, defense-in-depth principles, and isolation strategies to minimize attack surfaces and contain breaches.
+
+</p></details>
+
+<details><summary><strong>Network Access Control (NAC)</strong></summary><p>
+
+> Network Access Control enforces security policies for devices connecting to networks, ensuring compliance with security standards before granting access.
+
+</p></details>
+
+<details><summary><strong>Security Information Management</strong></summary><p>
+
+> Security Information Management collects, analyzes, and correlates security logs and events from multiple sources to provide comprehensive visibility into network security posture.
+
+</p></details>
+
+<details><summary><strong>Microsegmentation</strong></summary><p>
+
+> Microsegmentation divides networks into small, isolated segments with granular security controls, limiting lateral movement of threats and containing potential breaches.
+
+</p></details>
+
+<details><summary><strong>Threat Hunting</strong></summary><p>
+
+> Threat Hunting proactively searches for hidden threats and advanced persistent threats (APTs) that evade automated detection systems through manual investigation and analysis.
+
+</p></details>
+
+<details><summary><strong>Network Forensics</strong></summary><p>
+
+> Network Forensics captures and analyzes network traffic to investigate security incidents, reconstruct events, and gather evidence for legal or remediation purposes.
+
+</p></details>
+
+<details><summary><strong>Secure Sockets</strong></summary><p>
+
+> Secure Sockets provide encrypted communication channels for network applications, protecting data in transit from eavesdropping and tampering.
+
+</p></details>
+
+<details><summary><strong>Network Monitoring</strong></summary><p>
+
+> Network Monitoring continuously observes network performance, availability, and security, providing real-time alerts and historical analysis for operational and security teams.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -3619,6 +3679,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Behavior Trees</strong></summary><p>
+
+> Behavior Trees are hierarchical structures used to model AI behavior in games, providing more flexibility than FSMs for complex decision-making and character actions.
+
+</p></details>
+
+<details><summary><strong>Procedural Generation</strong></summary><p>
+
+> Procedural Generation creates game content algorithmically rather than manually, generating levels, textures, or worlds dynamically to increase variety and replayability.
+
+</p></details>
+
+<details><summary><strong>Game Loop</strong></summary><p>
+
+> The Game Loop is the core cycle of a game that continuously processes input, updates game state, and renders frames, running at a consistent rate to ensure smooth gameplay.
+
+</p></details>
+
+<details><summary><strong>Audio Middleware</strong></summary><p>
+
+> Audio Middleware provides tools and engines like FMOD and Wwise for implementing adaptive music, sound effects, and spatial audio in games.
+
+</p></details>
+
+<details><summary><strong>Save Systems</strong></summary><p>
+
+> Save Systems manage game progress persistence, storing player data, game state, and configurations to disk, enabling players to resume gameplay later.
+
+</p></details>
+
+<details><summary><strong>Input Handling</strong></summary><p>
+
+> Input Handling processes player interactions from various devices (keyboard, mouse, gamepad, touch) and maps them to game actions with support for rebinding and multiple input methods.
+
+</p></details>
+
+<details><summary><strong>Game Balancing</strong></summary><p>
+
+> Game Balancing adjusts gameplay elements to ensure fair, challenging, and enjoyable experiences, tuning difficulty, character abilities, and game economy.
+
+</p></details>
+
+<details><summary><strong>Asset Streaming</strong></summary><p>
+
+> Asset Streaming loads game assets dynamically during gameplay rather than all at once, reducing memory usage and enabling larger, more detailed game worlds.
+
+</p></details>
+
+<details><summary><strong>Scripting Languages</strong></summary><p>
+
+> Scripting Languages like Lua, Python, or engine-specific languages enable rapid iteration and customization of game logic without recompiling the entire game.
+
+</p></details>
+
+<details><summary><strong>Entity Component System (ECS)</strong></summary><p>
+
+> Entity Component System is an architectural pattern that separates data (components) from behavior (systems), improving performance and code organization in complex games.
+
+</p></details>
+
+<details><summary><strong>Network Synchronization</strong></summary><p>
+
+> Network Synchronization keeps game state consistent across multiple clients in multiplayer games, handling latency, prediction, and conflict resolution.
+
+</p></details>
+
+<details><summary><strong>Anti-Aliasing</strong></summary><p>
+
+> Anti-Aliasing techniques like MSAA, FXAA, and TAA smooth jagged edges in rendered images, improving visual quality by reducing pixelation artifacts.
+
+</p></details>
+
+<details><summary><strong>Game Analytics</strong></summary><p>
+
+> Game Analytics tracks player behavior, engagement metrics, and performance data to inform design decisions and improve player retention.
+
+</p></details>
+
+<details><summary><strong>Cross-Platform Development</strong></summary><p>
+
+> Cross-Platform Development enables games to run on multiple platforms (PC, consoles, mobile) from a single codebase, using engines like Unity or Unreal Engine.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -3714,6 +3858,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Room Scaling</strong></summary><p>
 
 > Room Scaling allows users to move and interact within physical spaces that match the digital environment's dimensions, offering a more immersive experience.
+
+</p></details>
+
+<details><summary><strong>Mixed Reality (MR)</strong></summary><p>
+
+> Mixed Reality blends physical and digital worlds, allowing real and virtual objects to interact in real-time. It extends beyond AR by enabling deeper integration between physical and digital elements.
+
+</p></details>
+
+<details><summary><strong>6DOF (Six Degrees of Freedom)</strong></summary><p>
+
+> Six Degrees of Freedom tracking captures movement in all directions (forward/back, up/down, left/right) and rotation (pitch, yaw, roll), enabling natural movement in VR/AR environments.
+
+</p></details>
+
+<details><summary><strong>Hand Tracking</strong></summary><p>
+
+> Hand Tracking detects and interprets hand movements and gestures without controllers, providing more natural and intuitive interaction in VR/AR experiences.
+
+</p></details>
+
+<details><summary><strong>Foveated Rendering</strong></summary><p>
+
+> Foveated Rendering reduces rendering quality in peripheral vision while maintaining high quality where the user is looking, improving performance with eye tracking.
+
+</p></details>
+
+<details><summary><strong>Passthrough</strong></summary><p>
+
+> Passthrough uses cameras on VR headsets to display the real world, enabling mixed reality experiences and safe navigation without removing the headset.
+
+</p></details>
+
+<details><summary><strong>Motion Sickness Mitigation</strong></summary><p>
+
+> Motion Sickness Mitigation techniques reduce discomfort in VR through careful design of movement, frame rate optimization, and visual stabilization.
+
+</p></details>
+
+<details><summary><strong>Spatial Mapping</strong></summary><p>
+
+> Spatial Mapping creates 3D representations of physical environments, enabling AR applications to understand and interact with real-world surfaces and objects.
+
+</p></details>
+
+<details><summary><strong>Occlusion</strong></summary><p>
+
+> Occlusion in AR ensures virtual objects appear behind real-world objects when appropriate, enhancing realism by respecting physical depth relationships.
+
+</p></details>
+
+<details><summary><strong>Marker-Based AR</strong></summary><p>
+
+> Marker-Based AR uses visual markers or QR codes as reference points to anchor and trigger virtual content in specific physical locations.
+
+</p></details>
+
+<details><summary><strong>Markerless AR</strong></summary><p>
+
+> Markerless AR uses computer vision to recognize natural features in the environment, enabling AR experiences without predefined markers.
+
+</p></details>
+
+<details><summary><strong>Social VR</strong></summary><p>
+
+> Social VR platforms enable multiple users to meet, interact, and collaborate in shared virtual spaces through avatars and voice communication.
+
+</p></details>
+
+<details><summary><strong>VR Locomotion</strong></summary><p>
+
+> VR Locomotion techniques enable movement in virtual spaces, including teleportation, continuous movement, and physical walking, balancing immersion with comfort.
+
+</p></details>
+
+<details><summary><strong>WebXR</strong></summary><p>
+
+> WebXR is a web API standard that enables VR and AR experiences directly in web browsers without requiring app installations or plugins.
+
+</p></details>
+
+<details><summary><strong>Holographic Displays</strong></summary><p>
+
+> Holographic Displays project 3D images that can be viewed from multiple angles without special glasses, advancing toward more natural mixed reality experiences.
 
 </p></details>
 
@@ -4010,6 +4238,60 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Data Marketplaces</strong></summary><p>
 
 > Data Marketplaces provide governed exchanges where organizations can discover, license, and monetize internal or external datasets to augment analytics initiatives.
+
+</p></details>
+
+<details><summary><strong>Feature Engineering</strong></summary><p>
+
+> Feature Engineering transforms raw data into meaningful features that better represent underlying patterns, significantly improving model performance and predictive accuracy.
+
+</p></details>
+
+<details><summary><strong>Data Pipelines</strong></summary><p>
+
+> Data Pipelines automate the flow of data from sources through transformation and validation stages to destinations, ensuring reliable and timely data availability.
+
+</p></details>
+
+<details><summary><strong>A/B Testing</strong></summary><p>
+
+> A/B Testing compares two variants to determine which performs better using statistical analysis, enabling data-driven decisions in product development and optimization.
+
+</p></details>
+
+<details><summary><strong>Time Series Analysis</strong></summary><p>
+
+> Time Series Analysis examines data points collected over time to identify trends, seasonal patterns, and forecasts, essential for financial, weather, and IoT applications.
+
+</p></details>
+
+<details><summary><strong>Anomaly Detection</strong></summary><p>
+
+> Anomaly Detection identifies unusual patterns or outliers in data that deviate from expected behavior, critical for fraud detection, system monitoring, and quality control.
+
+</p></details>
+
+<details><summary><strong>Cohort Analysis</strong></summary><p>
+
+> Cohort Analysis groups users by shared characteristics or experiences to understand behavior patterns over time, helping improve retention and product strategies.
+
+</p></details>
+
+<details><summary><strong>Data Storytelling</strong></summary><p>
+
+> Data Storytelling combines data analysis with narrative techniques and visualizations to communicate insights effectively and drive action in business contexts.
+
+</p></details>
+
+<details><summary><strong>Statistical Significance</strong></summary><p>
+
+> Statistical Significance measures whether observed differences in data are likely real or due to chance, providing confidence in experimental results and decisions.
+
+</p></details>
+
+<details><summary><strong>Data Ethics</strong></summary><p>
+
+> Data Ethics addresses moral obligations in collecting, using, and sharing data, including privacy, consent, fairness, and transparency in data-driven decisions.
 
 </p></details>
 
@@ -4317,6 +4599,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>AI Agents</strong></summary><p>
+
+> AI Agents are autonomous software entities that perceive their environment, make decisions, and take actions to achieve specific goals, used in robotics, gaming, and automation.
+
+</p></details>
+
+<details><summary><strong>Multi-Agent Systems</strong></summary><p>
+
+> Multi-Agent Systems coordinate multiple AI agents working together or competing to solve complex problems, modeling social dynamics and distributed intelligence.
+
+</p></details>
+
+<details><summary><strong>Intelligent Assistants</strong></summary><p>
+
+> Intelligent Assistants like Siri, Alexa, and Google Assistant use AI to understand natural language, answer questions, and perform tasks through voice or text interaction.
+
+</p></details>
+
+<details><summary><strong>AI Governance</strong></summary><p>
+
+> AI Governance establishes policies, frameworks, and oversight mechanisms to ensure responsible development and deployment of AI systems aligned with ethical principles.
+
+</p></details>
+
+<details><summary><strong>AI Safety</strong></summary><p>
+
+> AI Safety research focuses on ensuring AI systems behave reliably and beneficially, addressing risks like misalignment, unintended consequences, and potential harm.
+
+</p></details>
+
+<details><summary><strong>Symbolic AI</strong></summary><p>
+
+> Symbolic AI uses logic, rules, and knowledge representation to model human reasoning, contrasting with statistical approaches and enabling explainable decision-making.
+
+</p></details>
+
+<details><summary><strong>Hybrid AI</strong></summary><p>
+
+> Hybrid AI combines symbolic reasoning with machine learning approaches, leveraging strengths of both to create more robust and interpretable AI systems.
+
+</p></details>
+
+<details><summary><strong>AI Transparency</strong></summary><p>
+
+> AI Transparency ensures stakeholders can understand how AI systems make decisions, including model logic, data sources, and performance characteristics.
+
+</p></details>
+
+<details><summary><strong>AI Alignment</strong></summary><p>
+
+> AI Alignment ensures AI systems pursue goals consistent with human values and intentions, addressing challenges in specifying and maintaining desired behavior.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -4613,6 +4949,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Online Learning</strong></summary><p>
+
+> Online Learning updates models incrementally as new data arrives, adapting to changing patterns without retraining from scratch, ideal for streaming data applications.
+
+</p></details>
+
+<details><summary><strong>Active Learning</strong></summary><p>
+
+> Active Learning strategically selects the most informative samples for labeling, reducing annotation costs while maintaining model performance.
+
+</p></details>
+
+<details><summary><strong>Multi-Task Learning</strong></summary><p>
+
+> Multi-Task Learning trains models on multiple related tasks simultaneously, leveraging shared representations to improve generalization and efficiency.
+
+</p></details>
+
+<details><summary><strong>Meta-Learning</strong></summary><p>
+
+> Meta-Learning, or "learning to learn," trains models that can quickly adapt to new tasks with minimal data, enabling few-shot and zero-shot learning.
+
+</p></details>
+
+<details><summary><strong>Imbalanced Learning</strong></summary><p>
+
+> Imbalanced Learning addresses datasets where classes are unevenly distributed, using techniques like resampling, cost-sensitive learning, or specialized algorithms.
+
+</p></details>
+
+<details><summary><strong>Gradient Boosting</strong></summary><p>
+
+> Gradient Boosting builds ensemble models by iteratively training weak learners to correct predecessors' errors, producing highly accurate models for tabular data.
+
+</p></details>
+
+<details><summary><strong>Bayesian Optimization</strong></summary><p>
+
+> Bayesian Optimization efficiently tunes hyperparameters by modeling the objective function and strategically sampling promising configurations.
+
+</p></details>
+
+<details><summary><strong>Quantization</strong></summary><p>
+
+> Quantization reduces model precision from floating-point to lower bit representations, decreasing memory and computation requirements while maintaining acceptable accuracy.
+
+</p></details>
+
+<details><summary><strong>Model Serving</strong></summary><p>
+
+> Model Serving deploys trained models as production services with APIs, handling scaling, versioning, and monitoring for real-time or batch predictions.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -4903,6 +5293,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Self-Supervised Learning</strong></summary><p>
+
+> Self-Supervised Learning trains models on unlabeled data by creating pretext tasks from the data itself, learning useful representations without manual annotations.
+
+</p></details>
+
+<details><summary><strong>Vision Transformers</strong></summary><p>
+
+> Vision Transformers apply transformer architectures to computer vision tasks, treating images as sequences of patches and achieving state-of-the-art performance.
+
+</p></details>
+
+<details><summary><strong>Neural Architecture Search (NAS)</strong></summary><p>
+
+> Neural Architecture Search automates the design of neural network architectures using optimization or reinforcement learning to discover optimal model structures.
+
+</p></details>
+
+<details><summary><strong>Knowledge Distillation</strong></summary><p>
+
+> Knowledge Distillation transfers knowledge from large teacher models to smaller student models, maintaining performance while reducing computational requirements.
+
+</p></details>
+
+<details><summary><strong>Contrastive Learning</strong></summary><p>
+
+> Contrastive Learning trains models by distinguishing similar samples from dissimilar ones, learning representations that capture semantic similarities.
+
+</p></details>
+
+<details><summary><strong>Graph Neural Networks (GNN)</strong></summary><p>
+
+> Graph Neural Networks process graph-structured data by propagating and aggregating information across nodes, enabling tasks like node classification and link prediction.
+
+</p></details>
+
+<details><summary><strong>Mixture of Experts (MoE)</strong></summary><p>
+
+> Mixture of Experts uses multiple specialized sub-networks with a gating mechanism that routes inputs to relevant experts, enabling efficient scaling of model capacity.
+
+</p></details>
+
+<details><summary><strong>Diffusion Models</strong></summary><p>
+
+> Diffusion Models generate data by learning to reverse a gradual noising process, achieving high-quality image and audio generation with stable training.
+
+</p></details>
+
+<details><summary><strong>Neural Radiance Fields (NeRF)</strong></summary><p>
+
+> Neural Radiance Fields represent 3D scenes as continuous functions optimized from 2D images, enabling novel view synthesis and 3D reconstruction.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -5184,6 +5628,60 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Programmable Privacy Pools</strong></summary><p>
 
 > Programmable Privacy Pools combine mixers with compliance-friendly controls, letting users prove funds come from legitimate sources while shielding transaction history.
+
+</p></details>
+
+<details><summary><strong>Account Abstraction</strong></summary><p>
+
+> Account Abstraction treats all accounts as smart contracts, enabling flexible authentication, gas sponsorship, and improved user experience in blockchain interactions.
+
+</p></details>
+
+<details><summary><strong>Layer 2 Scaling</strong></summary><p>
+
+> Layer 2 Scaling solutions like rollups, state channels, and sidechains process transactions off the main blockchain while inheriting its security, dramatically increasing throughput.
+
+</p></details>
+
+<details><summary><strong>Cross-Chain Bridges</strong></summary><p>
+
+> Cross-Chain Bridges enable asset and data transfer between different blockchain networks, facilitating interoperability in the multi-chain ecosystem.
+
+</p></details>
+
+<details><summary><strong>Tokenomics</strong></summary><p>
+
+> Tokenomics designs the economic system around cryptocurrency tokens, including supply, distribution, incentives, and governance mechanisms.
+
+</p></details>
+
+<details><summary><strong>Decentralized Identity (DID)</strong></summary><p>
+
+> Decentralized Identity gives users control over their digital identities through blockchain-based credentials, reducing reliance on centralized identity providers.
+
+</p></details>
+
+<details><summary><strong>Blockchain Oracles</strong></summary><p>
+
+> Blockchain Oracles provide smart contracts with external data from real-world sources, bridging on-chain and off-chain systems securely.
+
+</p></details>
+
+<details><summary><strong>MEV (Maximal Extractable Value)</strong></summary><p>
+
+> MEV refers to profit opportunities for validators by reordering, inserting, or censoring transactions within blocks, impacting blockchain fairness and user costs.
+
+</p></details>
+
+<details><summary><strong>DAOs (Decentralized Autonomous Organizations)</strong></summary><p>
+
+> DAOs are blockchain-based organizations governed by smart contracts and token holders, enabling transparent, democratic decision-making without centralized control.
+
+</p></details>
+
+<details><summary><strong>Blockchain Interoperability</strong></summary><p>
+
+> Blockchain Interoperability enables different blockchain networks to communicate and exchange data, creating a connected ecosystem of specialized chains.
 
 </p></details>
 
