@@ -240,6 +240,96 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Bytecode</strong></summary><p>
+
+> Bytecode is an intermediate representation of code that sits between source code and machine code. It is platform-independent and is executed by a virtual machine or interpreter, commonly used in languages like Java and Python.
+
+</p></details>
+
+<details><summary><strong>Virtual Machine (VM)</strong></summary><p>
+
+> A Virtual Machine is software that emulates a computer system, allowing programs to run in an isolated environment. VMs enable running multiple operating systems on one physical machine and are fundamental to languages like Java (JVM) and .NET (CLR).
+
+</p></details>
+
+<details><summary><strong>Debugging</strong></summary><p>
+
+> Debugging is the process of identifying, analyzing, and fixing errors or bugs in software code. It involves using debugging tools, breakpoints, and step-through execution to understand program behavior and resolve issues.
+
+</p></details>
+
+<details><summary><strong>Garbage Collection</strong></summary><p>
+
+> Garbage Collection is an automatic memory management process that identifies and frees memory occupied by objects that are no longer needed by a program, preventing memory leaks and optimizing resource usage.
+
+</p></details>
+
+<details><summary><strong>Concurrency</strong></summary><p>
+
+> Concurrency is the ability of a program to execute multiple tasks simultaneously or in overlapping time periods. It improves performance and responsiveness, especially in multi-core processor systems.
+
+</p></details>
+
+<details><summary><strong>Parallelism</strong></summary><p>
+
+> Parallelism involves executing multiple computations simultaneously on different processors or cores. It differs from concurrency by focusing on true simultaneous execution to improve computational speed.
+
+</p></details>
+
+<details><summary><strong>Asynchronous Programming</strong></summary><p>
+
+> Asynchronous Programming is a programming paradigm that allows operations to run independently of the main program flow, enabling non-blocking execution and improved application responsiveness.
+
+</p></details>
+
+<details><summary><strong>Type System</strong></summary><p>
+
+> A Type System is a set of rules that assigns types to variables, expressions, and functions in a programming language. It helps catch errors at compile-time or runtime and ensures data is used consistently.
+
+</p></details>
+
+<details><summary><strong>Static Typing</strong></summary><p>
+
+> Static Typing is a type system where variable types are explicitly declared and checked at compile-time. It helps catch type errors early and can improve performance, used in languages like Java, C++, and TypeScript.
+
+</p></details>
+
+<details><summary><strong>Dynamic Typing</strong></summary><p>
+
+> Dynamic Typing is a type system where variable types are determined at runtime rather than compile-time. It offers more flexibility but may catch type errors later, used in languages like Python, JavaScript, and Ruby.
+
+</p></details>
+
+<details><summary><strong>Code Refactoring</strong></summary><p>
+
+> Code Refactoring is the process of restructuring existing code without changing its external behavior to improve readability, reduce complexity, and enhance maintainability.
+
+</p></details>
+
+<details><summary><strong>Comments and Documentation</strong></summary><p>
+
+> Comments and Documentation are annotations in code that explain what the code does, why it exists, and how to use it. Good documentation improves code maintainability and helps other developers understand the codebase.
+
+</p></details>
+
+<details><summary><strong>Regular Expressions (Regex)</strong></summary><p>
+
+> Regular Expressions are patterns used to match character combinations in strings. They are powerful tools for text searching, validation, and manipulation across many programming languages.
+
+</p></details>
+
+<details><summary><strong>Runtime Environment</strong></summary><p>
+
+> A Runtime Environment provides the necessary infrastructure for executing programs, including libraries, memory management, and system resources. Examples include Node.js for JavaScript and JRE for Java.
+
+</p></details>
+
+<details><summary><strong>Build Tools</strong></summary><p>
+
+> Build Tools are software utilities that automate the process of compiling source code into executable programs, managing dependencies, and running tests. Examples include Make, Maven, Gradle, and Webpack.
+
+</p></details>
+
 
 ![Divider](assets/images/divider-1.png)
 
@@ -366,6 +456,96 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Searching</strong></summary><p>
 
 > Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
+
+</p></details>
+
+<details><summary><strong>Binary Search</strong></summary><p>
+
+> Binary Search is an efficient algorithm for finding an item in a sorted array by repeatedly dividing the search interval in half. It has O(log n) time complexity.
+
+</p></details>
+
+<details><summary><strong>Binary Tree</strong></summary><p>
+
+> A Binary Tree is a tree data structure where each node has at most two children, referred to as left and right child. It forms the basis for more specialized trees like BSTs and heaps.
+
+</p></details>
+
+<details><summary><strong>Binary Search Tree (BST)</strong></summary><p>
+
+> A Binary Search Tree is a binary tree where each node's left subtree contains only values less than the node, and the right subtree contains only values greater than the node, enabling efficient searching, insertion, and deletion.
+
+</p></details>
+
+<details><summary><strong>Balanced Trees (AVL, Red-Black)</strong></summary><p>
+
+> Balanced Trees are self-adjusting binary search trees that maintain balance to ensure O(log n) operations. AVL and Red-Black trees are common implementations used in databases and memory management.
+
+</p></details>
+
+<details><summary><strong>B-Trees</strong></summary><p>
+
+> B-Trees are self-balancing tree data structures that maintain sorted data and allow searches, insertions, and deletions in logarithmic time. They are widely used in databases and file systems for efficient disk access.
+
+</p></details>
+
+<details><summary><strong>Priority Queue</strong></summary><p>
+
+> A Priority Queue is an abstract data type where each element has a priority, and elements with higher priority are served before elements with lower priority. Often implemented using heaps.
+
+</p></details>
+
+<details><summary><strong>Deque (Double-Ended Queue)</strong></summary><p>
+
+> A Deque is a generalized queue that allows insertion and deletion at both ends. It combines the functionality of stacks and queues, useful in algorithms requiring flexible access patterns.
+
+</p></details>
+
+<details><summary><strong>Backtracking</strong></summary><p>
+
+> Backtracking is an algorithmic technique for solving problems by exploring all possible solutions and abandoning paths that fail to satisfy constraints. Used in puzzles, constraint satisfaction, and combinatorial problems.
+
+</p></details>
+
+<details><summary><strong>Greedy Algorithms</strong></summary><p>
+
+> Greedy Algorithms make locally optimal choices at each step with the hope of finding a global optimum. They are efficient but don't always produce optimal solutions, used in optimization problems.
+
+</p></details>
+
+<details><summary><strong>Divide and Conquer</strong></summary><p>
+
+> Divide and Conquer is an algorithm design paradigm that breaks a problem into smaller subproblems, solves them recursively, and combines their solutions. Examples include merge sort and quicksort.
+
+</p></details>
+
+<details><summary><strong>Time Complexity</strong></summary><p>
+
+> Time Complexity measures the amount of time an algorithm takes to complete as a function of input size. It helps evaluate algorithm efficiency and scalability.
+
+</p></details>
+
+<details><summary><strong>Space Complexity</strong></summary><p>
+
+> Space Complexity measures the amount of memory an algorithm uses as a function of input size. It's crucial for understanding resource requirements and optimizing memory usage.
+
+</p></details>
+
+<details><summary><strong>Dijkstra's Algorithm</strong></summary><p>
+
+> Dijkstra's Algorithm finds the shortest path between nodes in a weighted graph. It's fundamental in routing and navigation systems, ensuring optimal path selection.
+
+</p></details>
+
+<details><summary><strong>Breadth-First Search (BFS)</strong></summary><p>
+
+> Breadth-First Search is a graph traversal algorithm that explores nodes level by level, starting from a source node. It's used for finding shortest paths in unweighted graphs and level-order traversals.
+
+</p></details>
+
+<details><summary><strong>Depth-First Search (DFS)</strong></summary><p>
+
+> Depth-First Search is a graph traversal algorithm that explores as far as possible along each branch before backtracking. It's used for topological sorting, cycle detection, and path finding.
 
 </p></details>
 
@@ -575,6 +755,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Functional Programming</strong></summary><p>
+
+> Functional Programming is a programming paradigm that treats computation as the evaluation of mathematical functions, avoiding changing state and mutable data. It emphasizes immutability, pure functions, and declarative code.
+
+</p></details>
+
+<details><summary><strong>Template Method Pattern</strong></summary><p>
+
+> The Template Method Pattern defines the skeleton of an algorithm in a base class, allowing subclasses to override specific steps without changing the algorithm's structure. It promotes code reuse and consistent behavior.
+
+</p></details>
+
+<details><summary><strong>State Pattern</strong></summary><p>
+
+> The State Pattern allows an object to alter its behavior when its internal state changes. The object appears to change its class, enabling cleaner state management in complex systems.
+
+</p></details>
+
+<details><summary><strong>Facade Pattern</strong></summary><p>
+
+> The Facade Pattern provides a simplified interface to a complex subsystem, making it easier to use. It reduces dependencies between client code and complex implementation details.
+
+</p></details>
+
+<details><summary><strong>Dependency Injection (DI)</strong></summary><p>
+
+> Dependency Injection is a design pattern where dependencies are provided to a class from the outside rather than created internally. It promotes loose coupling, testability, and flexibility in software design.
+
+</p></details>
+
+<details><summary><strong>Inversion of Control (IoC)</strong></summary><p>
+
+> Inversion of Control is a principle where the control flow of a program is inverted compared to traditional programming. The framework or container controls the flow, calling application code rather than the application calling libraries.
+
+</p></details>
+
+<details><summary><strong>Clean Architecture</strong></summary><p>
+
+> Clean Architecture is a software design philosophy that separates concerns into layers with clear dependencies flowing inward. It promotes independence from frameworks, UI, databases, and external agencies.
+
+</p></details>
+
+<details><summary><strong>Hexagonal Architecture (Ports and Adapters)</strong></summary><p>
+
+> Hexagonal Architecture, also known as Ports and Adapters, isolates the core business logic from external concerns like UI, databases, and APIs through well-defined interfaces, enabling flexibility and testability.
+
+</p></details>
+
+<details><summary><strong>Repository Pattern</strong></summary><p>
+
+> The Repository Pattern mediates between the domain and data mapping layers, acting like an in-memory collection of domain objects. It encapsulates data access logic and promotes separation of concerns.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -733,6 +967,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Content Delivery Network (CDN)</strong></summary><p>
+
+> A Content Delivery Network is a geographically distributed network of servers that deliver web content and media to users based on their location, improving load times and reducing latency.
+
+</p></details>
+
+<details><summary><strong>High Availability (HA)</strong></summary><p>
+
+> High Availability refers to systems designed to be operational and accessible for a very high percentage of time, minimizing downtime through redundancy, failover mechanisms, and fault tolerance.
+
+</p></details>
+
+<details><summary><strong>Scalability</strong></summary><p>
+
+> Scalability is the ability of a system to handle increased load by adding resources. It can be vertical (adding more power to existing machines) or horizontal (adding more machines).
+
+</p></details>
+
+<details><summary><strong>Edge Computing</strong></summary><p>
+
+> Edge Computing processes data closer to where it is generated rather than in centralized data centers. It reduces latency, saves bandwidth, and enables real-time processing for IoT and mobile applications.
+
+</p></details>
+
+<details><summary><strong>Software-Defined Networking (SDN)</strong></summary><p>
+
+> Software-Defined Networking separates the network control plane from the data plane, enabling centralized network management and programmable network behavior through software.
+
+</p></details>
+
+<details><summary><strong>DNS (Domain Name System)</strong></summary><p>
+
+> DNS is a hierarchical naming system that translates human-readable domain names into IP addresses, enabling users to access websites and services using memorable names instead of numeric addresses.
+
+</p></details>
+
+<details><summary><strong>Firewall</strong></summary><p>
+
+> A Firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules, protecting networks from unauthorized access.
+
+</p></details>
+
+<details><summary><strong>Proxy Server</strong></summary><p>
+
+> A Proxy Server acts as an intermediary between clients and servers, forwarding requests and responses. It provides benefits like caching, anonymity, and access control.
+
+</p></details>
+
+<details><summary><strong>Gateway</strong></summary><p>
+
+> A Gateway is a network node that serves as an access point to another network, often translating between different protocols or network architectures.
+
+</p></details>
+
+<details><summary><strong>Network Latency</strong></summary><p>
+
+> Network Latency is the time delay in data transmission across a network, typically measured in milliseconds. Lower latency results in faster, more responsive network communications.
+
+</p></details>
+
+<details><summary><strong>Throughput</strong></summary><p>
+
+> Throughput measures the actual amount of data successfully transferred over a network in a given time period, indicating network performance and capacity.
+
+</p></details>
+
+<details><summary><strong>Colocation</strong></summary><p>
+
+> Colocation is a data center facility where businesses can rent space for servers and computing hardware, providing power, cooling, and network connectivity while maintaining control over their equipment.
+
+</p></details>
+
+<details><summary><strong>Bare Metal Server</strong></summary><p>
+
+> A Bare Metal Server is a physical server dedicated to a single tenant, without virtualization. It offers maximum performance and control, ideal for high-performance computing workloads.
+
+</p></details>
+
+<details><summary><strong>Hybrid Cloud</strong></summary><p>
+
+> Hybrid Cloud combines private and public cloud environments, allowing data and applications to be shared between them. It provides flexibility, optimization of existing infrastructure, and greater deployment options.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -852,6 +1170,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Zero Downtime Deployment</strong></summary><p>
 
 > Zero Downtime Deployment aims to maintain uninterrupted service while implementing updates or changes to a system. It utilizes techniques like rolling releases and load balancing to prevent service disruptions.
+
+</p></details>
+
+<details><summary><strong>Blue-Green Deployment</strong></summary><p>
+
+> Blue-Green Deployment is a release strategy that maintains two identical production environments. Traffic is switched from the current (blue) to the new (green) environment, enabling instant rollback if issues arise.
+
+</p></details>
+
+<details><summary><strong>Canary Deployment</strong></summary><p>
+
+> Canary Deployment gradually rolls out changes to a small subset of users before full deployment. It allows teams to test new releases in production with minimal risk.
+
+</p></details>
+
+<details><summary><strong>GitOps</strong></summary><p>
+
+> GitOps is a DevOps practice that uses Git as the single source of truth for declarative infrastructure and applications. Changes are made through pull requests, enabling versioning, auditing, and automated deployments.
+
+</p></details>
+
+<details><summary><strong>Configuration Management</strong></summary><p>
+
+> Configuration Management involves systematically managing and tracking system configurations throughout their lifecycle. Tools like Ansible, Chef, and Puppet automate configuration consistency across environments.
+
+</p></details>
+
+<details><summary><strong>Container Orchestration</strong></summary><p>
+
+> Container Orchestration automates the deployment, scaling, and management of containerized applications. Kubernetes is the most popular orchestration platform for managing container lifecycles.
+
+</p></details>
+
+<details><summary><strong>Microservices</strong></summary><p>
+
+> Microservices is an architectural style that structures applications as collections of loosely coupled, independently deployable services. Each service focuses on a specific business capability.
+
+</p></details>
+
+<details><summary><strong>Service Mesh</strong></summary><p>
+
+> A Service Mesh is an infrastructure layer that manages service-to-service communication in microservices architectures. It handles load balancing, service discovery, encryption, and observability.
+
+</p></details>
+
+<details><summary><strong>Observability</strong></summary><p>
+
+> Observability is the ability to understand a system's internal state from its external outputs. It combines metrics, logs, and traces to provide comprehensive insights into system behavior.
+
+</p></details>
+
+<details><summary><strong>Chaos Engineering</strong></summary><p>
+
+> Chaos Engineering is the practice of intentionally introducing failures into systems to test their resilience and identify weaknesses before they cause real outages.
+
+</p></details>
+
+<details><summary><strong>Error Budget</strong></summary><p>
+
+> An Error Budget is the allowable amount of downtime or errors within a service's SLO. It balances reliability with innovation, determining how much risk teams can take when releasing new features.
+
+</p></details>
+
+<details><summary><strong>Artifact Repository</strong></summary><p>
+
+> An Artifact Repository stores and manages binary artifacts and dependencies used in software builds and deployments. Examples include JFrog Artifactory, Nexus, and Docker Registry.
+
+</p></details>
+
+<details><summary><strong>Immutable Infrastructure</strong></summary><p>
+
+> Immutable Infrastructure is an approach where servers are never modified after deployment. Instead, new servers are deployed with updates, ensuring consistency and reducing configuration drift.
+
+</p></details>
+
+<details><summary><strong>Pipeline as Code</strong></summary><p>
+
+> Pipeline as Code defines CI/CD pipelines in version-controlled code files. It enables automated, reproducible build and deployment processes that can be reviewed and tracked like application code.
+
+</p></details>
+
+<details><summary><strong>Feature Flags</strong></summary><p>
+
+> Feature Flags (or toggles) allow teams to enable or disable features in production without deploying new code. They enable progressive rollouts, A/B testing, and quick rollback of problematic features.
 
 </p></details>
 
@@ -1169,6 +1571,66 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Network Traffic Analysis</strong></summary><p>
+
+> Network Traffic Analysis examines data flows to detect anomalies, security threats, and performance issues by monitoring patterns, protocols, and bandwidth usage.
+
+</p></details>
+
+<details><summary><strong>DDoS Protection</strong></summary><p>
+
+> DDoS Protection defends against Distributed Denial of Service attacks that overwhelm systems with traffic, using techniques like rate limiting, traffic filtering, and content delivery networks.
+
+</p></details>
+
+<details><summary><strong>Secure Network Architecture</strong></summary><p>
+
+> Secure Network Architecture designs network topology with security zones, defense-in-depth principles, and isolation strategies to minimize attack surfaces and contain breaches.
+
+</p></details>
+
+<details><summary><strong>Network Access Control (NAC)</strong></summary><p>
+
+> Network Access Control enforces security policies for devices connecting to networks, ensuring compliance with security standards before granting access.
+
+</p></details>
+
+<details><summary><strong>Security Information Management</strong></summary><p>
+
+> Security Information Management collects, analyzes, and correlates security logs and events from multiple sources to provide comprehensive visibility into network security posture.
+
+</p></details>
+
+<details><summary><strong>Microsegmentation</strong></summary><p>
+
+> Microsegmentation divides networks into small, isolated segments with granular security controls, limiting lateral movement of threats and containing potential breaches.
+
+</p></details>
+
+<details><summary><strong>Threat Hunting</strong></summary><p>
+
+> Threat Hunting proactively searches for hidden threats and advanced persistent threats (APTs) that evade automated detection systems through manual investigation and analysis.
+
+</p></details>
+
+<details><summary><strong>Network Forensics</strong></summary><p>
+
+> Network Forensics captures and analyzes network traffic to investigate security incidents, reconstruct events, and gather evidence for legal or remediation purposes.
+
+</p></details>
+
+<details><summary><strong>Secure Sockets</strong></summary><p>
+
+> Secure Sockets provide encrypted communication channels for network applications, protecting data in transit from eavesdropping and tampering.
+
+</p></details>
+
+<details><summary><strong>Network Monitoring</strong></summary><p>
+
+> Network Monitoring continuously observes network performance, availability, and security, providing real-time alerts and historical analysis for operational and security teams.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1360,6 +1822,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Multi-tenancy</strong></summary><p>
 
 > Multi-tenant architecture refers to a system's ability to serve multiple clients, users, or tenants while maintaining isolation and customization for each. It allows shared resources and infrastructure to accommodate various users or organizations within the same software instance.
+
+</p></details>
+
+<details><summary><strong>API-First Architecture</strong></summary><p>
+
+> API-First Architecture prioritizes designing APIs before implementing the application, ensuring consistent interfaces, better integration, and parallel development across teams.
+
+</p></details>
+
+<details><summary><strong>Backend for Frontend (BFF)</strong></summary><p>
+
+> Backend for Frontend is an architecture pattern where separate backend services are created for each frontend application, optimizing API responses for specific client needs.
+
+</p></details>
+
+<details><summary><strong>Circuit Breaker Pattern</strong></summary><p>
+
+> Circuit Breaker Pattern prevents cascading failures in distributed systems by detecting failures and temporarily blocking requests to failing services, allowing them time to recover.
+
+</p></details>
+
+<details><summary><strong>Bulkhead Pattern</strong></summary><p>
+
+> Bulkhead Pattern isolates system resources into separate pools to prevent failure in one part from affecting others, similar to watertight compartments in ships.
+
+</p></details>
+
+<details><summary><strong>Strangler Fig Pattern</strong></summary><p>
+
+> Strangler Fig Pattern gradually replaces legacy systems by incrementally building new functionality around the old system, eventually "strangling" and retiring the legacy code.
+
+</p></details>
+
+<details><summary><strong>Saga Pattern</strong></summary><p>
+
+> Saga Pattern manages distributed transactions across microservices through a sequence of local transactions, with compensating transactions to handle failures.
+
+</p></details>
+
+<details><summary><strong>API Versioning</strong></summary><p>
+
+> API Versioning manages changes to APIs over time while maintaining backward compatibility, using strategies like URL versioning, header versioning, or content negotiation.
+
+</p></details>
+
+<details><summary><strong>Rate Limiting and Throttling</strong></summary><p>
+
+> Rate Limiting and Throttling control the number of requests clients can make to prevent system overload, ensure fair usage, and protect against abuse or DDoS attacks.
+
+</p></details>
+
+<details><summary><strong>Distributed Tracing</strong></summary><p>
+
+> Distributed Tracing tracks requests as they flow through distributed systems, helping identify performance bottlenecks and debug issues across microservices.
+
+</p></details>
+
+<details><summary><strong>Service Discovery</strong></summary><p>
+
+> Service Discovery enables microservices to find and communicate with each other dynamically, using tools like Consul, Eureka, or Kubernetes service discovery.
+
+</p></details>
+
+<details><summary><strong>Data Consistency Patterns</strong></summary><p>
+
+> Data Consistency Patterns define how data remains consistent across distributed systems, including strong consistency, eventual consistency, and causal consistency models.
+
+</p></details>
+
+<details><summary><strong>Idempotent Operations</strong></summary><p>
+
+> Idempotent Operations produce the same result when executed multiple times, crucial for reliable distributed systems where requests may be retried due to network issues.
+
+</p></details>
+
+<details><summary><strong>Horizontal vs Vertical Scaling</strong></summary><p>
+
+> Horizontal Scaling adds more machines to distribute load, while Vertical Scaling increases resources on existing machines. Each approach has trade-offs in cost, complexity, and scalability limits.
+
+</p></details>
+
+<details><summary><strong>Stateless vs Stateful Architecture</strong></summary><p>
+
+> Stateless Architecture stores no client state between requests, improving scalability. Stateful Architecture maintains session state, offering simplicity but complicating horizontal scaling.
 
 </p></details>
 
@@ -1559,6 +2105,95 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Document Database</strong></summary><p>
+
+> A Document Database stores data in document formats like JSON or BSON, allowing flexible schemas and nested data structures. Examples include MongoDB and CouchDB.
+
+</p></details>
+
+<details><summary><strong>Key-Value Store</strong></summary><p>
+
+> A Key-Value Store is a simple NoSQL database that stores data as key-value pairs, providing fast lookups and high performance. Examples include Redis and DynamoDB.
+
+</p></details>
+
+<details><summary><strong>Column-Family Store</strong></summary><p>
+
+> A Column-Family Store organizes data into columns rather than rows, optimized for queries over large datasets. Examples include Cassandra and HBase.
+
+</p></details>
+
+<details><summary><strong>Graph Database</strong></summary><p>
+
+> A Graph Database uses graph structures with nodes, edges, and properties to represent and store data. It excels at managing highly connected data and complex relationships. Examples include Neo4j and Amazon Neptune.
+
+</p></details>
+
+<details><summary><strong>Time-Series Database</strong></summary><p>
+
+> A Time-Series Database is optimized for storing and querying time-stamped data, commonly used for monitoring, IoT, and financial applications. Examples include InfluxDB and TimescaleDB.
+
+</p></details>
+
+<details><summary><strong>In-Memory Database</strong></summary><p>
+
+> An In-Memory Database stores data primarily in RAM rather than on disk, providing extremely fast data access and processing. Examples include Redis and Memcached.
+
+</p></details>
+
+<details><summary><strong>Database Connection Pool</strong></summary><p>
+
+> A Database Connection Pool maintains a cache of database connections that can be reused, reducing the overhead of establishing new connections and improving application performance.
+
+</p></details>
+
+<details><summary><strong>Schema Migration</strong></summary><p>
+
+> Schema Migration is the process of evolving database schemas over time through versioned changes, ensuring database structure stays synchronized with application requirements.
+
+</p></details>
+
+<details><summary><strong>Database Locking</strong></summary><p>
+
+> Database Locking is a mechanism to control concurrent access to data, preventing conflicts when multiple transactions attempt to modify the same data simultaneously.
+
+</p></details>
+
+<details><summary><strong>Deadlock</strong></summary><p>
+
+> A Deadlock occurs when two or more transactions are waiting for each other to release locks, creating a circular dependency that prevents any of them from proceeding.
+
+</p></details>
+
+<details><summary><strong>Write-Ahead Log (WAL)</strong></summary><p>
+
+> A Write-Ahead Log is a technique where changes are first written to a log before being applied to the database, ensuring durability and enabling crash recovery.
+
+</p></details>
+
+<details><summary><strong>Database Cursor</strong></summary><p>
+
+> A Database Cursor is a control structure that enables traversal over database records, allowing row-by-row processing of query results.
+
+</p></details>
+
+<details><summary><strong>Data Warehouse</strong></summary><p>
+
+> A Data Warehouse is a centralized repository that stores integrated data from multiple sources, optimized for analysis and reporting rather than transaction processing.
+
+</p></details>
+
+<details><summary><strong>Data Lake</strong></summary><p>
+
+> A Data Lake is a storage repository that holds vast amounts of raw data in its native format until needed, supporting big data analytics and machine learning use cases.
+
+</p></details>
+
+<details><summary><strong>ETL (Extract, Transform, Load)</strong></summary><p>
+
+> ETL is a data integration process that extracts data from source systems, transforms it into a suitable format, and loads it into a target database or data warehouse.
+
+</p></details>
 
 ![Divider](assets/images/divider-1.png)
 
@@ -1712,6 +2347,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>WebSockets</strong></summary><p>
+
+> WebSockets provide full-duplex communication channels over a single TCP connection, enabling real-time, bidirectional data exchange between clients and servers. Useful for chat applications, live updates, and gaming.
+
+</p></details>
+
+<details><summary><strong>GraphQL</strong></summary><p>
+
+> GraphQL is a query language and runtime for APIs that allows clients to request exactly the data they need. It provides a more efficient and flexible alternative to REST APIs.
+
+</p></details>
+
+<details><summary><strong>gRPC</strong></summary><p>
+
+> gRPC is a high-performance, open-source RPC framework that uses Protocol Buffers for serialization. It enables efficient communication between microservices with support for multiple languages.
+
+</p></details>
+
+<details><summary><strong>Message Queue</strong></summary><p>
+
+> A Message Queue is a form of asynchronous service-to-service communication that temporarily stores messages until they can be processed. Examples include RabbitMQ, Apache Kafka, and AWS SQS.
+
+</p></details>
+
+<details><summary><strong>Caching Strategies</strong></summary><p>
+
+> Caching Strategies involve storing frequently accessed data in memory to reduce latency and improve performance. Common patterns include cache-aside, write-through, and write-behind caching.
+
+</p></details>
+
+<details><summary><strong>Session Management</strong></summary><p>
+
+> Session Management tracks user state across multiple requests in stateless protocols like HTTP. It involves creating, storing, and validating session tokens or cookies.
+
+</p></details>
+
+<details><summary><strong>Authentication</strong></summary><p>
+
+> Authentication is the process of verifying the identity of a user or system. Common methods include username/password, OAuth, JWT tokens, and multi-factor authentication.
+
+</p></details>
+
+<details><summary><strong>Authorization</strong></summary><p>
+
+> Authorization determines what resources and actions an authenticated user is allowed to access. It involves implementing role-based access control (RBAC) or permission-based systems.
+
+</p></details>
+
+<details><summary><strong>CORS (Cross-Origin Resource Sharing)</strong></summary><p>
+
+> CORS is a security feature that allows or restricts web applications running on one domain to access resources from another domain, controlling cross-origin HTTP requests.
+
+</p></details>
+
+<details><summary><strong>Serverless Functions</strong></summary><p>
+
+> Serverless Functions (Functions-as-a-Service) are event-driven, stateless compute services that execute code in response to triggers without managing server infrastructure. Examples include AWS Lambda and Azure Functions.
+
+</p></details>
+
+<details><summary><strong>API Gateway</strong></summary><p>
+
+> An API Gateway is a server that acts as a single entry point for multiple backend services, handling request routing, composition, authentication, rate limiting, and protocol translation.
+
+</p></details>
+
+<details><summary><strong>Serialization</strong></summary><p>
+
+> Serialization is the process of converting data structures or objects into a format that can be stored or transmitted, and later reconstructed. Common formats include JSON, XML, and Protocol Buffers.
+
+</p></details>
+
+<details><summary><strong>Logging and Monitoring</strong></summary><p>
+
+> Logging and Monitoring involve tracking application behavior, errors, and performance metrics to diagnose issues and ensure system health. Tools include ELK Stack, Prometheus, and Grafana.
+
+</p></details>
+
+<details><summary><strong>Background Jobs</strong></summary><p>
+
+> Background Jobs are tasks executed asynchronously outside the main request-response cycle, handling time-consuming operations like email sending, data processing, or scheduled tasks.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1840,6 +2559,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Zero Trust Architecture</strong></summary><p>
+
+> Zero Trust Architecture is a security model that requires verification of every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter.
+
+</p></details>
+
+<details><summary><strong>Penetration Testing</strong></summary><p>
+
+> Penetration Testing (or ethical hacking) is the practice of simulating cyberattacks on systems to identify vulnerabilities before malicious actors can exploit them.
+
+</p></details>
+
+<details><summary><strong>Security Information and Event Management (SIEM)</strong></summary><p>
+
+> SIEM systems collect, analyze, and correlate security event data from multiple sources to provide real-time monitoring, threat detection, and incident response capabilities.
+
+</p></details>
+
+<details><summary><strong>Multi-Factor Authentication (MFA)</strong></summary><p>
+
+> Multi-Factor Authentication requires users to provide two or more verification factors to gain access, significantly enhancing security beyond password-only authentication.
+
+</p></details>
+
+<details><summary><strong>Vulnerability Assessment</strong></summary><p>
+
+> Vulnerability Assessment is a systematic process of identifying, quantifying, and prioritizing security vulnerabilities in systems and applications.
+
+</p></details>
+
+<details><summary><strong>Security Hardening</strong></summary><p>
+
+> Security Hardening involves reducing the attack surface of systems by disabling unnecessary services, applying security patches, and implementing strict configurations.
+
+</p></details>
+
+<details><summary><strong>Cryptography</strong></summary><p>
+
+> Cryptography is the practice of securing communications and data through encoding and decoding techniques, including symmetric and asymmetric encryption algorithms.
+
+</p></details>
+
+<details><summary><strong>Digital Certificates</strong></summary><p>
+
+> Digital Certificates are electronic documents that use digital signatures to bind public keys with identities, enabling secure communications and authentication in PKI systems.
+
+</p></details>
+
+<details><summary><strong>Security Tokens</strong></summary><p>
+
+> Security Tokens are cryptographic keys or hardware devices used for authentication and authorization, providing an additional layer of security for accessing systems and data.
+
+</p></details>
+
+<details><summary><strong>Malware</strong></summary><p>
+
+> Malware is malicious software designed to harm, exploit, or compromise computer systems, including viruses, worms, trojans, ransomware, and spyware.
+
+</p></details>
+
+<details><summary><strong>Intrusion Detection and Prevention</strong></summary><p>
+
+> Intrusion Detection and Prevention systems monitor network traffic for suspicious activities and can automatically block or alert on potential security threats.
+
+</p></details>
+
+<details><summary><strong>Data Masking</strong></summary><p>
+
+> Data Masking is a technique that obscures sensitive data by replacing it with fictitious but realistic data, protecting privacy in non-production environments.
+
+</p></details>
+
+<details><summary><strong>Security Orchestration, Automation and Response (SOAR)</strong></summary><p>
+
+> SOAR platforms integrate security tools and automate incident response workflows, improving the efficiency and effectiveness of security operations teams.
+
+</p></details>
+
+<details><summary><strong>Least Privilege Principle</strong></summary><p>
+
+> The Least Privilege Principle states that users and systems should be granted only the minimum access rights necessary to perform their functions, reducing security risks.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1941,6 +2744,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Microinteractions</strong></summary><p>
 
 > Microinteractions are subtle, momentary animations or feedback in a user interface. They enhance user engagement and provide immediate visual or audio cues in response to user actions, contributing to a more interactive and enjoyable user experience.
+
+</p></details>
+
+<details><summary><strong>Prototyping</strong></summary><p>
+
+> Prototyping is the creation of interactive models of a product to test and validate design concepts before full development. It helps identify issues early and gather user feedback.
+
+</p></details>
+
+<details><summary><strong>Usability Testing</strong></summary><p>
+
+> Usability Testing involves evaluating a product by testing it with real users to identify usability problems, gather qualitative and quantitative data, and improve the user experience.
+
+</p></details>
+
+<details><summary><strong>Accessibility Standards (WCAG)</strong></summary><p>
+
+> Web Content Accessibility Guidelines (WCAG) provide standards for making web content accessible to people with disabilities, ensuring inclusive design for all users.
+
+</p></details>
+
+<details><summary><strong>Visual Hierarchy</strong></summary><p>
+
+> Visual Hierarchy is the arrangement of design elements to guide users' attention and communicate importance through size, color, contrast, and positioning.
+
+</p></details>
+
+<details><summary><strong>Typography</strong></summary><p>
+
+> Typography is the art and technique of arranging type to make written language readable and appealing. It plays a crucial role in establishing tone and improving user experience.
+
+</p></details>
+
+<details><summary><strong>Design Systems</strong></summary><p>
+
+> Design Systems are collections of reusable components, guidelines, and standards that ensure consistency across products and streamline the design and development process.
+
+</p></details>
+
+<details><summary><strong>A/B Testing</strong></summary><p>
+
+> A/B Testing compares two versions of a design to determine which performs better based on user behavior and metrics, enabling data-driven design decisions.
+
+</p></details>
+
+<details><summary><strong>User Journey Mapping</strong></summary><p>
+
+> User Journey Mapping visualizes the path users take when interacting with a product, identifying pain points, opportunities, and emotional states throughout their experience.
+
+</p></details>
+
+<details><summary><strong>Card Sorting</strong></summary><p>
+
+> Card Sorting is a user research technique used to understand how users organize information, helping designers create intuitive information architectures and navigation structures.
+
+</p></details>
+
+<details><summary><strong>Gestalt Principles</strong></summary><p>
+
+> Gestalt Principles describe how humans perceive visual elements as unified wholes, including proximity, similarity, closure, and continuity, guiding effective UI design.
+
+</p></details>
+
+<details><summary><strong>Dark Patterns</strong></summary><p>
+
+> Dark Patterns are deceptive design practices that trick users into taking actions they didn't intend. Ethical designers avoid these manipulative techniques.
+
+</p></details>
+
+<details><summary><strong>Responsive vs Adaptive Design</strong></summary><p>
+
+> Responsive Design uses flexible layouts that adapt fluidly to screen sizes, while Adaptive Design uses distinct layouts for specific breakpoints. Both ensure optimal experiences across devices.
+
+</p></details>
+
+<details><summary><strong>Haptic Feedback</strong></summary><p>
+
+> Haptic Feedback uses touch sensations like vibrations to provide tactile responses to user interactions, enhancing the sense of physical engagement with digital interfaces.
+
+</p></details>
+
+<details><summary><strong>Voice User Interface (VUI)</strong></summary><p>
+
+> Voice User Interface enables users to interact with systems through voice commands, requiring careful design of conversation flows, error handling, and natural language understanding.
 
 </p></details>
 
@@ -2144,6 +3031,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Static Site Generators (SSG)</strong></summary><p>
+
+> Static Site Generators build websites by pre-rendering pages at build time rather than runtime, resulting in fast, secure, and easily deployable sites. Examples include Next.js, Gatsby, and Hugo.
+
+</p></details>
+
+<details><summary><strong>Incremental Static Regeneration (ISR)</strong></summary><p>
+
+> Incremental Static Regeneration allows updating static content after build time without rebuilding the entire site, combining benefits of static and dynamic rendering.
+
+</p></details>
+
+<details><summary><strong>CSS Preprocessors</strong></summary><p>
+
+> CSS Preprocessors like Sass, Less, and Stylus extend CSS with features like variables, nesting, and mixins, making stylesheets more maintainable and powerful.
+
+</p></details>
+
+<details><summary><strong>CSS-in-JS</strong></summary><p>
+
+> CSS-in-JS is a styling approach where CSS is written within JavaScript files, enabling dynamic styling, component-scoped styles, and better integration with JavaScript frameworks.
+
+</p></details>
+
+<details><summary><strong>Virtual DOM</strong></summary><p>
+
+> Virtual DOM is an in-memory representation of the real DOM used by libraries like React to efficiently update the UI by comparing changes and applying minimal updates.
+
+</p></details>
+
+<details><summary><strong>Frontend Build Tools</strong></summary><p>
+
+> Frontend Build Tools like Webpack, Vite, and Parcel bundle, optimize, and transform source code for production, handling tasks like minification, transpilation, and asset optimization.
+
+</p></details>
+
+<details><summary><strong>Package Bundlers</strong></summary><p>
+
+> Package Bundlers combine multiple JavaScript modules and dependencies into optimized bundles for browser delivery, reducing load times and managing dependencies.
+
+</p></details>
+
+<details><summary><strong>Tree Shaking</strong></summary><p>
+
+> Tree Shaking is a dead-code elimination technique that removes unused code from JavaScript bundles, reducing file sizes and improving load performance.
+
+</p></details>
+
+<details><summary><strong>Code Splitting</strong></summary><p>
+
+> Code Splitting divides application code into smaller chunks that can be loaded on demand, reducing initial bundle size and improving page load times.
+
+</p></details>
+
+<details><summary><strong>Module Federation</strong></summary><p>
+
+> Module Federation enables multiple applications to share code and dependencies at runtime, supporting micro-frontend architectures and independent deployment.
+
+</p></details>
+
+<details><summary><strong>Browser DevTools</strong></summary><p>
+
+> Browser DevTools are built-in debugging and profiling tools in web browsers that help developers inspect HTML, debug JavaScript, analyze performance, and optimize applications.
+
+</p></details>
+
+<details><summary><strong>State Management</strong></summary><p>
+
+> State Management handles application state in frontend applications using libraries like Redux, MobX, or Vuex, ensuring predictable data flow and easier debugging.
+
+</p></details>
+
+<details><summary><strong>Web Animations API</strong></summary><p>
+
+> Web Animations API provides a way to create and control animations in JavaScript with better performance than CSS transitions, offering fine-grained control over animation timing and sequencing.
+
+</p></details>
+
+<details><summary><strong>Intersection Observer API</strong></summary><p>
+
+> Intersection Observer API efficiently detects when elements enter or leave the viewport, enabling features like lazy loading, infinite scroll, and animation triggers without performance overhead.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -2254,6 +3225,89 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Mobile App Security</strong></summary><p>
+
+> Mobile App Security involves protecting mobile applications from vulnerabilities, data breaches, and unauthorized access through encryption, secure coding practices, and authentication mechanisms.
+
+</p></details>
+
+<details><summary><strong>App Lifecycle Management</strong></summary><p>
+
+> App Lifecycle Management refers to handling various states of a mobile app (launch, background, foreground, termination) and managing resources appropriately during state transitions.
+
+</p></details>
+
+<details><summary><strong>Mobile Backend as a Service (MBaaS)</strong></summary><p>
+
+> MBaaS provides cloud-based backend infrastructure for mobile apps, offering services like data storage, user authentication, push notifications, and APIs without managing servers.
+
+</p></details>
+
+<details><summary><strong>Offline-First Architecture</strong></summary><p>
+
+> Offline-First Architecture prioritizes app functionality without internet connectivity, synchronizing data when connection is available, ensuring better user experience and reliability.
+
+</p></details>
+
+<details><summary><strong>Biometric Authentication</strong></summary><p>
+
+> Biometric Authentication uses fingerprint, face recognition, or other biological characteristics to verify user identity, providing secure and convenient access to mobile apps.
+
+</p></details>
+
+<details><summary><strong>Deep Linking</strong></summary><p>
+
+> Deep Linking allows directing users to specific content within an app rather than just launching the app, improving navigation and user engagement from external sources.
+
+</p></details>
+
+<details><summary><strong>Mobile Analytics</strong></summary><p>
+
+> Mobile Analytics tracks and analyzes user behavior, app performance, and engagement metrics to help developers make data-driven decisions for improvement.
+
+</p></details>
+
+<details><summary><strong>Progressive Web Apps (PWA)</strong></summary><p>
+
+> Progressive Web Apps are web applications that function like native mobile apps, offering offline capabilities, push notifications, and installation on home screens without app store distribution.
+
+</p></details>
+
+<details><summary><strong>React Native</strong></summary><p>
+
+> React Native is a popular cross-platform framework that allows building native mobile apps for iOS and Android using JavaScript and React, sharing code across platforms.
+
+</p></details>
+
+<details><summary><strong>Flutter</strong></summary><p>
+
+> Flutter is Google's UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase using the Dart programming language.
+
+</p></details>
+
+<details><summary><strong>SwiftUI</strong></summary><p>
+
+> SwiftUI is Apple's declarative framework for building user interfaces across all Apple platforms using Swift, featuring automatic updates and modern reactive programming patterns.
+
+</p></details>
+
+<details><summary><strong>Jetpack Compose</strong></summary><p>
+
+> Jetpack Compose is Android's modern declarative UI toolkit that simplifies UI development with Kotlin, replacing XML layouts with composable functions.
+
+</p></details>
+
+<details><summary><strong>Mobile Testing</strong></summary><p>
+
+> Mobile Testing involves validating mobile applications across different devices, operating systems, and network conditions using unit tests, integration tests, and UI automation.
+
+</p></details>
+
+<details><summary><strong>App Permissions</strong></summary><p>
+
+> App Permissions control access to device features and user data, requiring explicit user consent for sensitive operations like camera, location, and contacts.
+
+</p></details>
 
 ![Divider](assets/images/divider-1.png)
 
@@ -2344,6 +3398,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Shared Memory IPC (Inter-Process Communication)</strong></summary><p>
 
 > Shared Memory IPC (Inter-Process Communication) is a method for processes or applications running on the same computer to exchange data by mapping a portion of their memory to a shared location. It allows for efficient and high-speed communication between processes.
+
+</p></details>
+
+<details><summary><strong>Native Desktop Frameworks</strong></summary><p>
+
+> Native Desktop Frameworks provide platform-specific APIs for building desktop applications, including WPF for Windows, Cocoa for macOS, and GTK for Linux.
+
+</p></details>
+
+<details><summary><strong>Cross-Platform Desktop Development</strong></summary><p>
+
+> Cross-Platform Desktop Development uses frameworks like Electron, Qt, or .NET MAUI to build applications that run on multiple operating systems from a single codebase.
+
+</p></details>
+
+<details><summary><strong>Desktop Window Management</strong></summary><p>
+
+> Desktop Window Management handles creating, positioning, resizing, and managing multiple windows in desktop applications, including dialogs, toolbars, and panels.
+
+</p></details>
+
+<details><summary><strong>Menu Systems</strong></summary><p>
+
+> Menu Systems provide structured navigation in desktop applications through menu bars, context menus, and dropdown menus, organizing commands and features hierarchically.
+
+</p></details>
+
+<details><summary><strong>Keyboard Shortcuts</strong></summary><p>
+
+> Keyboard Shortcuts enable power users to perform actions quickly using key combinations, improving productivity and accessibility in desktop applications.
+
+</p></details>
+
+<details><summary><strong>Desktop Notifications</strong></summary><p>
+
+> Desktop Notifications display system alerts and application messages to users, typically appearing in the notification center or system tray area.
+
+</p></details>
+
+<details><summary><strong>File Dialogs</strong></summary><p>
+
+> File Dialogs provide standard interfaces for users to open, save, and browse files in desktop applications, maintaining consistency across the operating system.
+
+</p></details>
+
+<details><summary><strong>Clipboard Operations</strong></summary><p>
+
+> Clipboard Operations enable copying, cutting, and pasting data between applications, supporting various data formats including text, images, and custom formats.
+
+</p></details>
+
+<details><summary><strong>Drag and Drop</strong></summary><p>
+
+> Drag and Drop allows users to transfer data by clicking and dragging elements, providing intuitive interaction patterns for file management and data manipulation.
+
+</p></details>
+
+<details><summary><strong>Desktop Application Packaging</strong></summary><p>
+
+> Desktop Application Packaging involves creating installers and distribution packages for different platforms, including MSI for Windows, DMG for macOS, and AppImage/Snap for Linux.
+
+</p></details>
+
+<details><summary><strong>Auto-Updates</strong></summary><p>
+
+> Auto-Updates automatically download and install application updates, ensuring users have the latest features and security patches without manual intervention.
+
+</p></details>
+
+<details><summary><strong>Desktop Performance Optimization</strong></summary><p>
+
+> Desktop Performance Optimization focuses on reducing memory usage, improving startup time, and ensuring responsive UI through efficient resource management and multithreading.
+
+</p></details>
+
+<details><summary><strong>Application State Persistence</strong></summary><p>
+
+> Application State Persistence saves user preferences, window positions, and application state to disk, restoring them when the application restarts.
+
+</p></details>
+
+<details><summary><strong>System Integration</strong></summary><p>
+
+> System Integration connects desktop applications with OS features like file associations, protocol handlers, search indexing, and accessibility services.
 
 </p></details>
 
@@ -2541,6 +3679,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Behavior Trees</strong></summary><p>
+
+> Behavior Trees are hierarchical structures used to model AI behavior in games, providing more flexibility than FSMs for complex decision-making and character actions.
+
+</p></details>
+
+<details><summary><strong>Procedural Generation</strong></summary><p>
+
+> Procedural Generation creates game content algorithmically rather than manually, generating levels, textures, or worlds dynamically to increase variety and replayability.
+
+</p></details>
+
+<details><summary><strong>Game Loop</strong></summary><p>
+
+> The Game Loop is the core cycle of a game that continuously processes input, updates game state, and renders frames, running at a consistent rate to ensure smooth gameplay.
+
+</p></details>
+
+<details><summary><strong>Audio Middleware</strong></summary><p>
+
+> Audio Middleware provides tools and engines like FMOD and Wwise for implementing adaptive music, sound effects, and spatial audio in games.
+
+</p></details>
+
+<details><summary><strong>Save Systems</strong></summary><p>
+
+> Save Systems manage game progress persistence, storing player data, game state, and configurations to disk, enabling players to resume gameplay later.
+
+</p></details>
+
+<details><summary><strong>Input Handling</strong></summary><p>
+
+> Input Handling processes player interactions from various devices (keyboard, mouse, gamepad, touch) and maps them to game actions with support for rebinding and multiple input methods.
+
+</p></details>
+
+<details><summary><strong>Game Balancing</strong></summary><p>
+
+> Game Balancing adjusts gameplay elements to ensure fair, challenging, and enjoyable experiences, tuning difficulty, character abilities, and game economy.
+
+</p></details>
+
+<details><summary><strong>Asset Streaming</strong></summary><p>
+
+> Asset Streaming loads game assets dynamically during gameplay rather than all at once, reducing memory usage and enabling larger, more detailed game worlds.
+
+</p></details>
+
+<details><summary><strong>Scripting Languages</strong></summary><p>
+
+> Scripting Languages like Lua, Python, or engine-specific languages enable rapid iteration and customization of game logic without recompiling the entire game.
+
+</p></details>
+
+<details><summary><strong>Entity Component System (ECS)</strong></summary><p>
+
+> Entity Component System is an architectural pattern that separates data (components) from behavior (systems), improving performance and code organization in complex games.
+
+</p></details>
+
+<details><summary><strong>Network Synchronization</strong></summary><p>
+
+> Network Synchronization keeps game state consistent across multiple clients in multiplayer games, handling latency, prediction, and conflict resolution.
+
+</p></details>
+
+<details><summary><strong>Anti-Aliasing</strong></summary><p>
+
+> Anti-Aliasing techniques like MSAA, FXAA, and TAA smooth jagged edges in rendered images, improving visual quality by reducing pixelation artifacts.
+
+</p></details>
+
+<details><summary><strong>Game Analytics</strong></summary><p>
+
+> Game Analytics tracks player behavior, engagement metrics, and performance data to inform design decisions and improve player retention.
+
+</p></details>
+
+<details><summary><strong>Cross-Platform Development</strong></summary><p>
+
+> Cross-Platform Development enables games to run on multiple platforms (PC, consoles, mobile) from a single codebase, using engines like Unity or Unreal Engine.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -2636,6 +3858,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Room Scaling</strong></summary><p>
 
 > Room Scaling allows users to move and interact within physical spaces that match the digital environment's dimensions, offering a more immersive experience.
+
+</p></details>
+
+<details><summary><strong>Mixed Reality (MR)</strong></summary><p>
+
+> Mixed Reality blends physical and digital worlds, allowing real and virtual objects to interact in real-time. It extends beyond AR by enabling deeper integration between physical and digital elements.
+
+</p></details>
+
+<details><summary><strong>6DOF (Six Degrees of Freedom)</strong></summary><p>
+
+> Six Degrees of Freedom tracking captures movement in all directions (forward/back, up/down, left/right) and rotation (pitch, yaw, roll), enabling natural movement in VR/AR environments.
+
+</p></details>
+
+<details><summary><strong>Hand Tracking</strong></summary><p>
+
+> Hand Tracking detects and interprets hand movements and gestures without controllers, providing more natural and intuitive interaction in VR/AR experiences.
+
+</p></details>
+
+<details><summary><strong>Foveated Rendering</strong></summary><p>
+
+> Foveated Rendering reduces rendering quality in peripheral vision while maintaining high quality where the user is looking, improving performance with eye tracking.
+
+</p></details>
+
+<details><summary><strong>Passthrough</strong></summary><p>
+
+> Passthrough uses cameras on VR headsets to display the real world, enabling mixed reality experiences and safe navigation without removing the headset.
+
+</p></details>
+
+<details><summary><strong>Motion Sickness Mitigation</strong></summary><p>
+
+> Motion Sickness Mitigation techniques reduce discomfort in VR through careful design of movement, frame rate optimization, and visual stabilization.
+
+</p></details>
+
+<details><summary><strong>Spatial Mapping</strong></summary><p>
+
+> Spatial Mapping creates 3D representations of physical environments, enabling AR applications to understand and interact with real-world surfaces and objects.
+
+</p></details>
+
+<details><summary><strong>Occlusion</strong></summary><p>
+
+> Occlusion in AR ensures virtual objects appear behind real-world objects when appropriate, enhancing realism by respecting physical depth relationships.
+
+</p></details>
+
+<details><summary><strong>Marker-Based AR</strong></summary><p>
+
+> Marker-Based AR uses visual markers or QR codes as reference points to anchor and trigger virtual content in specific physical locations.
+
+</p></details>
+
+<details><summary><strong>Markerless AR</strong></summary><p>
+
+> Markerless AR uses computer vision to recognize natural features in the environment, enabling AR experiences without predefined markers.
+
+</p></details>
+
+<details><summary><strong>Social VR</strong></summary><p>
+
+> Social VR platforms enable multiple users to meet, interact, and collaborate in shared virtual spaces through avatars and voice communication.
+
+</p></details>
+
+<details><summary><strong>VR Locomotion</strong></summary><p>
+
+> VR Locomotion techniques enable movement in virtual spaces, including teleportation, continuous movement, and physical walking, balancing immersion with comfort.
+
+</p></details>
+
+<details><summary><strong>WebXR</strong></summary><p>
+
+> WebXR is a web API standard that enables VR and AR experiences directly in web browsers without requiring app installations or plugins.
+
+</p></details>
+
+<details><summary><strong>Holographic Displays</strong></summary><p>
+
+> Holographic Displays project 3D images that can be viewed from multiple angles without special glasses, advancing toward more natural mixed reality experiences.
 
 </p></details>
 
@@ -2932,6 +4238,60 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Data Marketplaces</strong></summary><p>
 
 > Data Marketplaces provide governed exchanges where organizations can discover, license, and monetize internal or external datasets to augment analytics initiatives.
+
+</p></details>
+
+<details><summary><strong>Feature Engineering</strong></summary><p>
+
+> Feature Engineering transforms raw data into meaningful features that better represent underlying patterns, significantly improving model performance and predictive accuracy.
+
+</p></details>
+
+<details><summary><strong>Data Pipelines</strong></summary><p>
+
+> Data Pipelines automate the flow of data from sources through transformation and validation stages to destinations, ensuring reliable and timely data availability.
+
+</p></details>
+
+<details><summary><strong>A/B Testing</strong></summary><p>
+
+> A/B Testing compares two variants to determine which performs better using statistical analysis, enabling data-driven decisions in product development and optimization.
+
+</p></details>
+
+<details><summary><strong>Time Series Analysis</strong></summary><p>
+
+> Time Series Analysis examines data points collected over time to identify trends, seasonal patterns, and forecasts, essential for financial, weather, and IoT applications.
+
+</p></details>
+
+<details><summary><strong>Anomaly Detection</strong></summary><p>
+
+> Anomaly Detection identifies unusual patterns or outliers in data that deviate from expected behavior, critical for fraud detection, system monitoring, and quality control.
+
+</p></details>
+
+<details><summary><strong>Cohort Analysis</strong></summary><p>
+
+> Cohort Analysis groups users by shared characteristics or experiences to understand behavior patterns over time, helping improve retention and product strategies.
+
+</p></details>
+
+<details><summary><strong>Data Storytelling</strong></summary><p>
+
+> Data Storytelling combines data analysis with narrative techniques and visualizations to communicate insights effectively and drive action in business contexts.
+
+</p></details>
+
+<details><summary><strong>Statistical Significance</strong></summary><p>
+
+> Statistical Significance measures whether observed differences in data are likely real or due to chance, providing confidence in experimental results and decisions.
+
+</p></details>
+
+<details><summary><strong>Data Ethics</strong></summary><p>
+
+> Data Ethics addresses moral obligations in collecting, using, and sharing data, including privacy, consent, fairness, and transparency in data-driven decisions.
 
 </p></details>
 
@@ -3239,6 +4599,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>AI Agents</strong></summary><p>
+
+> AI Agents are autonomous software entities that perceive their environment, make decisions, and take actions to achieve specific goals, used in robotics, gaming, and automation.
+
+</p></details>
+
+<details><summary><strong>Multi-Agent Systems</strong></summary><p>
+
+> Multi-Agent Systems coordinate multiple AI agents working together or competing to solve complex problems, modeling social dynamics and distributed intelligence.
+
+</p></details>
+
+<details><summary><strong>Intelligent Assistants</strong></summary><p>
+
+> Intelligent Assistants like Siri, Alexa, and Google Assistant use AI to understand natural language, answer questions, and perform tasks through voice or text interaction.
+
+</p></details>
+
+<details><summary><strong>AI Governance</strong></summary><p>
+
+> AI Governance establishes policies, frameworks, and oversight mechanisms to ensure responsible development and deployment of AI systems aligned with ethical principles.
+
+</p></details>
+
+<details><summary><strong>AI Safety</strong></summary><p>
+
+> AI Safety research focuses on ensuring AI systems behave reliably and beneficially, addressing risks like misalignment, unintended consequences, and potential harm.
+
+</p></details>
+
+<details><summary><strong>Symbolic AI</strong></summary><p>
+
+> Symbolic AI uses logic, rules, and knowledge representation to model human reasoning, contrasting with statistical approaches and enabling explainable decision-making.
+
+</p></details>
+
+<details><summary><strong>Hybrid AI</strong></summary><p>
+
+> Hybrid AI combines symbolic reasoning with machine learning approaches, leveraging strengths of both to create more robust and interpretable AI systems.
+
+</p></details>
+
+<details><summary><strong>AI Transparency</strong></summary><p>
+
+> AI Transparency ensures stakeholders can understand how AI systems make decisions, including model logic, data sources, and performance characteristics.
+
+</p></details>
+
+<details><summary><strong>AI Alignment</strong></summary><p>
+
+> AI Alignment ensures AI systems pursue goals consistent with human values and intentions, addressing challenges in specifying and maintaining desired behavior.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -3535,6 +4949,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Online Learning</strong></summary><p>
+
+> Online Learning updates models incrementally as new data arrives, adapting to changing patterns without retraining from scratch, ideal for streaming data applications.
+
+</p></details>
+
+<details><summary><strong>Active Learning</strong></summary><p>
+
+> Active Learning strategically selects the most informative samples for labeling, reducing annotation costs while maintaining model performance.
+
+</p></details>
+
+<details><summary><strong>Multi-Task Learning</strong></summary><p>
+
+> Multi-Task Learning trains models on multiple related tasks simultaneously, leveraging shared representations to improve generalization and efficiency.
+
+</p></details>
+
+<details><summary><strong>Meta-Learning</strong></summary><p>
+
+> Meta-Learning, or "learning to learn," trains models that can quickly adapt to new tasks with minimal data, enabling few-shot and zero-shot learning.
+
+</p></details>
+
+<details><summary><strong>Imbalanced Learning</strong></summary><p>
+
+> Imbalanced Learning addresses datasets where classes are unevenly distributed, using techniques like resampling, cost-sensitive learning, or specialized algorithms.
+
+</p></details>
+
+<details><summary><strong>Gradient Boosting</strong></summary><p>
+
+> Gradient Boosting builds ensemble models by iteratively training weak learners to correct predecessors' errors, producing highly accurate models for tabular data.
+
+</p></details>
+
+<details><summary><strong>Bayesian Optimization</strong></summary><p>
+
+> Bayesian Optimization efficiently tunes hyperparameters by modeling the objective function and strategically sampling promising configurations.
+
+</p></details>
+
+<details><summary><strong>Quantization</strong></summary><p>
+
+> Quantization reduces model precision from floating-point to lower bit representations, decreasing memory and computation requirements while maintaining acceptable accuracy.
+
+</p></details>
+
+<details><summary><strong>Model Serving</strong></summary><p>
+
+> Model Serving deploys trained models as production services with APIs, handling scaling, versioning, and monitoring for real-time or batch predictions.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -3825,6 +5293,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Self-Supervised Learning</strong></summary><p>
+
+> Self-Supervised Learning trains models on unlabeled data by creating pretext tasks from the data itself, learning useful representations without manual annotations.
+
+</p></details>
+
+<details><summary><strong>Vision Transformers</strong></summary><p>
+
+> Vision Transformers apply transformer architectures to computer vision tasks, treating images as sequences of patches and achieving state-of-the-art performance.
+
+</p></details>
+
+<details><summary><strong>Neural Architecture Search (NAS)</strong></summary><p>
+
+> Neural Architecture Search automates the design of neural network architectures using optimization or reinforcement learning to discover optimal model structures.
+
+</p></details>
+
+<details><summary><strong>Knowledge Distillation</strong></summary><p>
+
+> Knowledge Distillation transfers knowledge from large teacher models to smaller student models, maintaining performance while reducing computational requirements.
+
+</p></details>
+
+<details><summary><strong>Contrastive Learning</strong></summary><p>
+
+> Contrastive Learning trains models by distinguishing similar samples from dissimilar ones, learning representations that capture semantic similarities.
+
+</p></details>
+
+<details><summary><strong>Graph Neural Networks (GNN)</strong></summary><p>
+
+> Graph Neural Networks process graph-structured data by propagating and aggregating information across nodes, enabling tasks like node classification and link prediction.
+
+</p></details>
+
+<details><summary><strong>Mixture of Experts (MoE)</strong></summary><p>
+
+> Mixture of Experts uses multiple specialized sub-networks with a gating mechanism that routes inputs to relevant experts, enabling efficient scaling of model capacity.
+
+</p></details>
+
+<details><summary><strong>Diffusion Models</strong></summary><p>
+
+> Diffusion Models generate data by learning to reverse a gradual noising process, achieving high-quality image and audio generation with stable training.
+
+</p></details>
+
+<details><summary><strong>Neural Radiance Fields (NeRF)</strong></summary><p>
+
+> Neural Radiance Fields represent 3D scenes as continuous functions optimized from 2D images, enabling novel view synthesis and 3D reconstruction.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -3865,19 +5387,19 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Consensus Algorithms</strong></summary><p>
 
-> Consensus Algorithms are protocols used in blockchain networks to achieve agreement among nodes regarding the validity and ordering of transactions, ensuring network security and integrity.
+> Consensus Algorithms are protocols used in Blockchain networks to achieve agreement among nodes regarding the validity and ordering of transactions, ensuring network security and integrity.
 
 </p></details>
 
 <details><summary><strong>Mining</strong></summary><p>
 
-> Mining is the process by which new cryptocurrency tokens are created and transactions are verified on a blockchain. Miners use computational power to solve complex mathematical problems.
+> Mining is the process by which new cryptocurrency tokens are created and transactions are verified on a Blockchain. Miners use computational power to solve complex mathematical problems.
 
 </p></details>
 
 <details><summary><strong>Tokens</strong></summary><p>
 
-> Tokens are digital assets or representations of value that can be created, transferred, or exchanged within a blockchain ecosystem, serving various purposes, such as access, ownership, or utility.
+> Tokens are digital assets or representations of value that can be created, transferred, or exchanged within a Blockchain ecosystem, serving various purposes, such as access, ownership, or utility.
 
 </p></details>
 
@@ -3895,7 +5417,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Layer 2 Scaling</strong></summary><p>
 
-> Layer 2 Scaling solutions process transactions off the main blockchain to increase throughput and lower fees, later settling batched results back on-chain.
+> Layer 2 Scaling solutions process transactions off the main Blockchain to increase throughput and lower fees, later settling batched results back on-chain.
 
 </p></details>
 
@@ -3907,13 +5429,13 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Decentralized Finance (DeFi)</strong></summary><p>
 
-> Decentralized Finance (DeFi) comprises financial services built on blockchain networks, offering lending, trading, and yield opportunities without traditional intermediaries.
+> Decentralized Finance (DeFi) comprises financial services built on Blockchain networks, offering lending, trading, and yield opportunities without traditional intermediaries.
 
 </p></details>
 
 <details><summary><strong>Non-Fungible Tokens (NFTs)</strong></summary><p>
 
-> Non-Fungible Tokens (NFTs) represent unique digital items on a blockchain, enabling verifiable ownership of assets like art, collectibles, and in-game items.
+> Non-Fungible Tokens (NFTs) represent unique digital items on a Blockchain, enabling verifiable ownership of assets like art, collectibles, and in-game items.
 
 </p></details>
 
@@ -3931,13 +5453,13 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Blockchain Interoperability</strong></summary><p>
 
-> Blockchain Interoperability focuses on protocols that enable different blockchain networks to communicate and exchange assets or data securely.
+> Blockchain Interoperability focuses on protocols that enable different Blockchain networks to communicate and exchange assets or data securely.
 
 </p></details>
 
 <details><summary><strong>Zero-Knowledge Proofs</strong></summary><p>
 
-> Zero-Knowledge Proofs allow one party to prove knowledge of information without revealing the information itself, enhancing privacy and scalability in blockchain applications.
+> Zero-Knowledge Proofs allow one party to prove knowledge of information without revealing the information itself, enhancing privacy and scalability in Blockchain applications.
 
 </p></details>
 
@@ -3955,7 +5477,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Cross-Chain Bridges</strong></summary><p>
 
-> Cross-Chain Bridges enable asset and data transfers between separate blockchain networks, expanding liquidity and interoperability across ecosystems.
+> Cross-Chain Bridges enable asset and data transfers between separate Blockchain networks, expanding liquidity and interoperability across ecosystems.
 
 </p></details>
 
@@ -3973,7 +5495,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Tokenomics</strong></summary><p>
 
-> Tokenomics designs the economic incentives, supply mechanics, and governance rights of blockchain tokens to align participant behavior with network goals.
+> Tokenomics designs the economic incentives, supply mechanics, and governance rights of Blockchain tokens to align participant behavior with network goals.
 
 </p></details>
 
@@ -3997,7 +5519,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Layer 0 Networks</strong></summary><p>
 
-> Layer 0 Networks provide shared consensus and messaging layers that coordinate multiple blockchains, powering modular ecosystems like Cosmos and Polkadot.
+> Layer 0 Networks provide shared consensus and messaging layers that coordinate multiple Blockchains, powering modular ecosystems like Cosmos and Polkadot.
 
 </p></details>
 
@@ -4039,7 +5561,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Light Clients</strong></summary><p>
 
-> Light Clients verify blockchain state with minimal resources by downloading only block headers, enabling secure participation from mobile and embedded devices.
+> Light Clients verify Blockchain state with minimal resources by downloading only block headers, enabling secure participation from mobile and embedded devices.
 
 </p></details>
 
@@ -4087,7 +5609,7 @@ A curated list of awesome technical topics from the software world, explained co
 
 <details><summary><strong>Decentralized Sequencers</strong></summary><p>
 
-> Decentralized Sequencers distribute the ordering of rollup transactions across multiple operators, reducing censorship risk and single points of failure.
+> Decentralized Sequencers distribute the ordering of Rollup transactions across multiple operators, reducing censorship risk and single points of failure.
 
 </p></details>
 
@@ -4106,6 +5628,36 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Programmable Privacy Pools</strong></summary><p>
 
 > Programmable Privacy Pools combine mixers with compliance-friendly controls, letting users prove funds come from legitimate sources while shielding transaction history.
+
+</p></details>
+
+<details><summary><strong>Account Abstraction</strong></summary><p>
+
+> Account Abstraction treats all accounts as smart contracts, enabling flexible authentication, gas sponsorship, and improved user experience in Blockchain interactions.
+
+</p></details>
+
+<details><summary><strong>Decentralized Identity (DID)</strong></summary><p>
+
+> Decentralized Identity gives users control over their digital identities through blockchain-based credentials, reducing reliance on centralized identity providers.
+
+</p></details>
+
+<details><summary><strong>Blockchain Oracles</strong></summary><p>
+
+> Blockchain Oracles provide smart contracts with external data from real-world sources, bridging on-chain and off-chain systems securely.
+
+</p></details>
+
+<details><summary><strong>MEV (Maximal Extractable Value)</strong></summary><p>
+
+> MEV refers to profit opportunities for validators by reordering, inserting, or censoring transactions within blocks, impacting Blockchain fairness and user costs.
+
+</p></details>
+
+<details><summary><strong>DAOs (Decentralized Autonomous Organizations)</strong></summary><p>
+
+> DAOs are blockchain-based organizations governed by smart contracts and token holders, enabling transparent, democratic decision-making without centralized control.
 
 </p></details>
 
