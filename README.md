@@ -5637,24 +5637,6 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
-<details><summary><strong>Layer 2 Scaling</strong></summary><p>
-
-> Layer 2 Scaling solutions like Rollups, state channels, and sidechains process transactions off the main Blockchain while inheriting its security, dramatically increasing throughput.
-
-</p></details>
-
-<details><summary><strong>Cross-Chain Bridges</strong></summary><p>
-
-> Cross-Chain Bridges enable asset and data transfer between different Blockchain networks, facilitating interoperability in the multi-chain ecosystem.
-
-</p></details>
-
-<details><summary><strong>Tokenomics</strong></summary><p>
-
-> Tokenomics designs the economic system around cryptocurrency tokens, including supply, distribution, incentives, and governance mechanisms.
-
-</p></details>
-
 <details><summary><strong>Decentralized Identity (DID)</strong></summary><p>
 
 > Decentralized Identity gives users control over their digital identities through blockchain-based credentials, reducing reliance on centralized identity providers.
@@ -5676,12 +5658,6 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>DAOs (Decentralized Autonomous Organizations)</strong></summary><p>
 
 > DAOs are blockchain-based organizations governed by smart contracts and token holders, enabling transparent, democratic decision-making without centralized control.
-
-</p></details>
-
-<details><summary><strong>Blockchain Interoperability</strong></summary><p>
-
-> Blockchain Interoperability enables different Blockchain networks to communicate and exchange data, creating a connected ecosystem of specialized chains.
 
 </p></details>
 
