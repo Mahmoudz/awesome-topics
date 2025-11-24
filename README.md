@@ -1765,6 +1765,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>API-First Architecture</strong></summary><p>
+
+> API-First Architecture prioritizes designing APIs before implementing the application, ensuring consistent interfaces, better integration, and parallel development across teams.
+
+</p></details>
+
+<details><summary><strong>Backend for Frontend (BFF)</strong></summary><p>
+
+> Backend for Frontend is an architecture pattern where separate backend services are created for each frontend application, optimizing API responses for specific client needs.
+
+</p></details>
+
+<details><summary><strong>Circuit Breaker Pattern</strong></summary><p>
+
+> Circuit Breaker Pattern prevents cascading failures in distributed systems by detecting failures and temporarily blocking requests to failing services, allowing them time to recover.
+
+</p></details>
+
+<details><summary><strong>Bulkhead Pattern</strong></summary><p>
+
+> Bulkhead Pattern isolates system resources into separate pools to prevent failure in one part from affecting others, similar to watertight compartments in ships.
+
+</p></details>
+
+<details><summary><strong>Strangler Fig Pattern</strong></summary><p>
+
+> Strangler Fig Pattern gradually replaces legacy systems by incrementally building new functionality around the old system, eventually "strangling" and retiring the legacy code.
+
+</p></details>
+
+<details><summary><strong>Saga Pattern</strong></summary><p>
+
+> Saga Pattern manages distributed transactions across microservices through a sequence of local transactions, with compensating transactions to handle failures.
+
+</p></details>
+
+<details><summary><strong>API Versioning</strong></summary><p>
+
+> API Versioning manages changes to APIs over time while maintaining backward compatibility, using strategies like URL versioning, header versioning, or content negotiation.
+
+</p></details>
+
+<details><summary><strong>Rate Limiting and Throttling</strong></summary><p>
+
+> Rate Limiting and Throttling control the number of requests clients can make to prevent system overload, ensure fair usage, and protect against abuse or DDoS attacks.
+
+</p></details>
+
+<details><summary><strong>Distributed Tracing</strong></summary><p>
+
+> Distributed Tracing tracks requests as they flow through distributed systems, helping identify performance bottlenecks and debug issues across microservices.
+
+</p></details>
+
+<details><summary><strong>Service Discovery</strong></summary><p>
+
+> Service Discovery enables microservices to find and communicate with each other dynamically, using tools like Consul, Eureka, or Kubernetes service discovery.
+
+</p></details>
+
+<details><summary><strong>Data Consistency Patterns</strong></summary><p>
+
+> Data Consistency Patterns define how data remains consistent across distributed systems, including strong consistency, eventual consistency, and causal consistency models.
+
+</p></details>
+
+<details><summary><strong>Idempotent Operations</strong></summary><p>
+
+> Idempotent Operations produce the same result when executed multiple times, crucial for reliable distributed systems where requests may be retried due to network issues.
+
+</p></details>
+
+<details><summary><strong>Horizontal vs Vertical Scaling</strong></summary><p>
+
+> Horizontal Scaling adds more machines to distribute load, while Vertical Scaling increases resources on existing machines. Each approach has trade-offs in cost, complexity, and scalability limits.
+
+</p></details>
+
+<details><summary><strong>Stateless vs Stateful Architecture</strong></summary><p>
+
+> Stateless Architecture stores no client state between requests, improving scalability. Stateful Architecture maintains session state, offering simplicity but complicating horizontal scaling.
+
+</p></details>
+
 
 
 ![Divider](assets/images/divider-1.png)
@@ -2603,6 +2687,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Prototyping</strong></summary><p>
+
+> Prototyping is the creation of interactive models of a product to test and validate design concepts before full development. It helps identify issues early and gather user feedback.
+
+</p></details>
+
+<details><summary><strong>Usability Testing</strong></summary><p>
+
+> Usability Testing involves evaluating a product by testing it with real users to identify usability problems, gather qualitative and quantitative data, and improve the user experience.
+
+</p></details>
+
+<details><summary><strong>Accessibility Standards (WCAG)</strong></summary><p>
+
+> Web Content Accessibility Guidelines (WCAG) provide standards for making web content accessible to people with disabilities, ensuring inclusive design for all users.
+
+</p></details>
+
+<details><summary><strong>Visual Hierarchy</strong></summary><p>
+
+> Visual Hierarchy is the arrangement of design elements to guide users' attention and communicate importance through size, color, contrast, and positioning.
+
+</p></details>
+
+<details><summary><strong>Typography</strong></summary><p>
+
+> Typography is the art and technique of arranging type to make written language readable and appealing. It plays a crucial role in establishing tone and improving user experience.
+
+</p></details>
+
+<details><summary><strong>Design Systems</strong></summary><p>
+
+> Design Systems are collections of reusable components, guidelines, and standards that ensure consistency across products and streamline the design and development process.
+
+</p></details>
+
+<details><summary><strong>A/B Testing</strong></summary><p>
+
+> A/B Testing compares two versions of a design to determine which performs better based on user behavior and metrics, enabling data-driven design decisions.
+
+</p></details>
+
+<details><summary><strong>User Journey Mapping</strong></summary><p>
+
+> User Journey Mapping visualizes the path users take when interacting with a product, identifying pain points, opportunities, and emotional states throughout their experience.
+
+</p></details>
+
+<details><summary><strong>Card Sorting</strong></summary><p>
+
+> Card Sorting is a user research technique used to understand how users organize information, helping designers create intuitive information architectures and navigation structures.
+
+</p></details>
+
+<details><summary><strong>Gestalt Principles</strong></summary><p>
+
+> Gestalt Principles describe how humans perceive visual elements as unified wholes, including proximity, similarity, closure, and continuity, guiding effective UI design.
+
+</p></details>
+
+<details><summary><strong>Dark Patterns</strong></summary><p>
+
+> Dark Patterns are deceptive design practices that trick users into taking actions they didn't intend. Ethical designers avoid these manipulative techniques.
+
+</p></details>
+
+<details><summary><strong>Responsive vs Adaptive Design</strong></summary><p>
+
+> Responsive Design uses flexible layouts that adapt fluidly to screen sizes, while Adaptive Design uses distinct layouts for specific breakpoints. Both ensure optimal experiences across devices.
+
+</p></details>
+
+<details><summary><strong>Haptic Feedback</strong></summary><p>
+
+> Haptic Feedback uses touch sensations like vibrations to provide tactile responses to user interactions, enhancing the sense of physical engagement with digital interfaces.
+
+</p></details>
+
+<details><summary><strong>Voice User Interface (VUI)</strong></summary><p>
+
+> Voice User Interface enables users to interact with systems through voice commands, requiring careful design of conversation flows, error handling, and natural language understanding.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -2803,6 +2971,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Static Site Generators (SSG)</strong></summary><p>
+
+> Static Site Generators build websites by pre-rendering pages at build time rather than runtime, resulting in fast, secure, and easily deployable sites. Examples include Next.js, Gatsby, and Hugo.
+
+</p></details>
+
+<details><summary><strong>Incremental Static Regeneration (ISR)</strong></summary><p>
+
+> Incremental Static Regeneration allows updating static content after build time without rebuilding the entire site, combining benefits of static and dynamic rendering.
+
+</p></details>
+
+<details><summary><strong>CSS Preprocessors</strong></summary><p>
+
+> CSS Preprocessors like Sass, Less, and Stylus extend CSS with features like variables, nesting, and mixins, making stylesheets more maintainable and powerful.
+
+</p></details>
+
+<details><summary><strong>CSS-in-JS</strong></summary><p>
+
+> CSS-in-JS is a styling approach where CSS is written within JavaScript files, enabling dynamic styling, component-scoped styles, and better integration with JavaScript frameworks.
+
+</p></details>
+
+<details><summary><strong>Virtual DOM</strong></summary><p>
+
+> Virtual DOM is an in-memory representation of the real DOM used by libraries like React to efficiently update the UI by comparing changes and applying minimal updates.
+
+</p></details>
+
+<details><summary><strong>Frontend Build Tools</strong></summary><p>
+
+> Frontend Build Tools like Webpack, Vite, and Parcel bundle, optimize, and transform source code for production, handling tasks like minification, transpilation, and asset optimization.
+
+</p></details>
+
+<details><summary><strong>Package Bundlers</strong></summary><p>
+
+> Package Bundlers combine multiple JavaScript modules and dependencies into optimized bundles for browser delivery, reducing load times and managing dependencies.
+
+</p></details>
+
+<details><summary><strong>Tree Shaking</strong></summary><p>
+
+> Tree Shaking is a dead-code elimination technique that removes unused code from JavaScript bundles, reducing file sizes and improving load performance.
+
+</p></details>
+
+<details><summary><strong>Code Splitting</strong></summary><p>
+
+> Code Splitting divides application code into smaller chunks that can be loaded on demand, reducing initial bundle size and improving page load times.
+
+</p></details>
+
+<details><summary><strong>Module Federation</strong></summary><p>
+
+> Module Federation enables multiple applications to share code and dependencies at runtime, supporting micro-frontend architectures and independent deployment.
+
+</p></details>
+
+<details><summary><strong>Browser DevTools</strong></summary><p>
+
+> Browser DevTools are built-in debugging and profiling tools in web browsers that help developers inspect HTML, debug JavaScript, analyze performance, and optimize applications.
+
+</p></details>
+
+<details><summary><strong>State Management</strong></summary><p>
+
+> State Management handles application state in frontend applications using libraries like Redux, MobX, or Vuex, ensuring predictable data flow and easier debugging.
+
+</p></details>
+
+<details><summary><strong>Web Animations API</strong></summary><p>
+
+> Web Animations API provides a way to create and control animations in JavaScript with better performance than CSS transitions, offering fine-grained control over animation timing and sequencing.
+
+</p></details>
+
+<details><summary><strong>Intersection Observer API</strong></summary><p>
+
+> Intersection Observer API efficiently detects when elements enter or leave the viewport, enabling features like lazy loading, infinite scroll, and animation triggers without performance overhead.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -2913,6 +3165,89 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Mobile App Security</strong></summary><p>
+
+> Mobile App Security involves protecting mobile applications from vulnerabilities, data breaches, and unauthorized access through encryption, secure coding practices, and authentication mechanisms.
+
+</p></details>
+
+<details><summary><strong>App Lifecycle Management</strong></summary><p>
+
+> App Lifecycle Management refers to handling various states of a mobile app (launch, background, foreground, termination) and managing resources appropriately during state transitions.
+
+</p></details>
+
+<details><summary><strong>Mobile Backend as a Service (MBaaS)</strong></summary><p>
+
+> MBaaS provides cloud-based backend infrastructure for mobile apps, offering services like data storage, user authentication, push notifications, and APIs without managing servers.
+
+</p></details>
+
+<details><summary><strong>Offline-First Architecture</strong></summary><p>
+
+> Offline-First Architecture prioritizes app functionality without internet connectivity, synchronizing data when connection is available, ensuring better user experience and reliability.
+
+</p></details>
+
+<details><summary><strong>Biometric Authentication</strong></summary><p>
+
+> Biometric Authentication uses fingerprint, face recognition, or other biological characteristics to verify user identity, providing secure and convenient access to mobile apps.
+
+</p></details>
+
+<details><summary><strong>Deep Linking</strong></summary><p>
+
+> Deep Linking allows directing users to specific content within an app rather than just launching the app, improving navigation and user engagement from external sources.
+
+</p></details>
+
+<details><summary><strong>Mobile Analytics</strong></summary><p>
+
+> Mobile Analytics tracks and analyzes user behavior, app performance, and engagement metrics to help developers make data-driven decisions for improvement.
+
+</p></details>
+
+<details><summary><strong>Progressive Web Apps (PWA)</strong></summary><p>
+
+> Progressive Web Apps are web applications that function like native mobile apps, offering offline capabilities, push notifications, and installation on home screens without app store distribution.
+
+</p></details>
+
+<details><summary><strong>React Native</strong></summary><p>
+
+> React Native is a popular cross-platform framework that allows building native mobile apps for iOS and Android using JavaScript and React, sharing code across platforms.
+
+</p></details>
+
+<details><summary><strong>Flutter</strong></summary><p>
+
+> Flutter is Google's UI framework for building natively compiled applications for mobile, web, and desktop from a single codebase using the Dart programming language.
+
+</p></details>
+
+<details><summary><strong>SwiftUI</strong></summary><p>
+
+> SwiftUI is Apple's declarative framework for building user interfaces across all Apple platforms using Swift, featuring automatic updates and modern reactive programming patterns.
+
+</p></details>
+
+<details><summary><strong>Jetpack Compose</strong></summary><p>
+
+> Jetpack Compose is Android's modern declarative UI toolkit that simplifies UI development with Kotlin, replacing XML layouts with composable functions.
+
+</p></details>
+
+<details><summary><strong>Mobile Testing</strong></summary><p>
+
+> Mobile Testing involves validating mobile applications across different devices, operating systems, and network conditions using unit tests, integration tests, and UI automation.
+
+</p></details>
+
+<details><summary><strong>App Permissions</strong></summary><p>
+
+> App Permissions control access to device features and user data, requiring explicit user consent for sensitive operations like camera, location, and contacts.
+
+</p></details>
 
 ![Divider](assets/images/divider-1.png)
 
@@ -3003,6 +3338,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Shared Memory IPC (Inter-Process Communication)</strong></summary><p>
 
 > Shared Memory IPC (Inter-Process Communication) is a method for processes or applications running on the same computer to exchange data by mapping a portion of their memory to a shared location. It allows for efficient and high-speed communication between processes.
+
+</p></details>
+
+<details><summary><strong>Native Desktop Frameworks</strong></summary><p>
+
+> Native Desktop Frameworks provide platform-specific APIs for building desktop applications, including WPF for Windows, Cocoa for macOS, and GTK for Linux.
+
+</p></details>
+
+<details><summary><strong>Cross-Platform Desktop Development</strong></summary><p>
+
+> Cross-Platform Desktop Development uses frameworks like Electron, Qt, or .NET MAUI to build applications that run on multiple operating systems from a single codebase.
+
+</p></details>
+
+<details><summary><strong>Desktop Window Management</strong></summary><p>
+
+> Desktop Window Management handles creating, positioning, resizing, and managing multiple windows in desktop applications, including dialogs, toolbars, and panels.
+
+</p></details>
+
+<details><summary><strong>Menu Systems</strong></summary><p>
+
+> Menu Systems provide structured navigation in desktop applications through menu bars, context menus, and dropdown menus, organizing commands and features hierarchically.
+
+</p></details>
+
+<details><summary><strong>Keyboard Shortcuts</strong></summary><p>
+
+> Keyboard Shortcuts enable power users to perform actions quickly using key combinations, improving productivity and accessibility in desktop applications.
+
+</p></details>
+
+<details><summary><strong>Desktop Notifications</strong></summary><p>
+
+> Desktop Notifications display system alerts and application messages to users, typically appearing in the notification center or system tray area.
+
+</p></details>
+
+<details><summary><strong>File Dialogs</strong></summary><p>
+
+> File Dialogs provide standard interfaces for users to open, save, and browse files in desktop applications, maintaining consistency across the operating system.
+
+</p></details>
+
+<details><summary><strong>Clipboard Operations</strong></summary><p>
+
+> Clipboard Operations enable copying, cutting, and pasting data between applications, supporting various data formats including text, images, and custom formats.
+
+</p></details>
+
+<details><summary><strong>Drag and Drop</strong></summary><p>
+
+> Drag and Drop allows users to transfer data by clicking and dragging elements, providing intuitive interaction patterns for file management and data manipulation.
+
+</p></details>
+
+<details><summary><strong>Desktop Application Packaging</strong></summary><p>
+
+> Desktop Application Packaging involves creating installers and distribution packages for different platforms, including MSI for Windows, DMG for macOS, and AppImage/Snap for Linux.
+
+</p></details>
+
+<details><summary><strong>Auto-Updates</strong></summary><p>
+
+> Auto-Updates automatically download and install application updates, ensuring users have the latest features and security patches without manual intervention.
+
+</p></details>
+
+<details><summary><strong>Desktop Performance Optimization</strong></summary><p>
+
+> Desktop Performance Optimization focuses on reducing memory usage, improving startup time, and ensuring responsive UI through efficient resource management and multithreading.
+
+</p></details>
+
+<details><summary><strong>Application State Persistence</strong></summary><p>
+
+> Application State Persistence saves user preferences, window positions, and application state to disk, restoring them when the application restarts.
+
+</p></details>
+
+<details><summary><strong>System Integration</strong></summary><p>
+
+> System Integration connects desktop applications with OS features like file associations, protocol handlers, search indexing, and accessibility services.
 
 </p></details>
 
