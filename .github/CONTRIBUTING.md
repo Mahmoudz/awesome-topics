@@ -1,52 +1,35 @@
-# Welcome to the Awesome Topics community ❤️
+# Contributing to awesome-topics
 
-Your interest in contributing to "Awesome Topics" is greatly appreciated! By participating, you are helping to create a valuable resource for the developer community. Your contributions play a crucial role in fostering knowledge sharing and helping developers of all levels. Thank you for being a part of our mission to empower the tech community!
+Thanks for helping improve this curated map for developers — contributions from anyone are welcome.
 
-## How to Contribute
+What to add
+- Ensure the resource is high-quality, relevant to software engineering or developer learning, and not already listed.
+- Proposed entry format (in a single list line):
+  - `- [Name](URL) — Short neutral description. (tags)`
+  - Example: `- [Free Coding Course](https://example.com) — A beginner-friendly course on web fundamentals. (category:learning, language:js, difficulty:beginner)`
 
-1. **Understand Our Approach**: Familiarize yourself with Awesome Topics' approach, emphasizing clear, concise, and accurate explanations of technical topics.
-2. **Choose Your Contribution**: Select from the following contribution areas: adding a new topic, editing an existing topic, introducing a new subject, or enhancing the design.
-3. **Meet Quality Standards**: Ensure contributions meet our standards for clarity, conciseness, and accuracy. 
-Review our [Pull Request Template](PULL_REQUEST_TEMPLATE.md) for detailed guidance.
-4. **Community Guidelines**: Maintain a respectful and collaborative environment by following the [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines).
+Tags
+- Use simple tags in parentheses after the description. Common tags: category, language, difficulty, license.
+- Tags help readers filter the list and let scripts export machine-readable data.
 
-## Terminology
+How to contribute
+1. Open a pull request that adds or updates entries in the README under the appropriate section.
+2. Keep changes focused and small (one logical change per PR is ideal).
+3. If your change is large (reorganizing many items or adding whole learning paths), open an issue first to discuss structure.
 
-Before contributing, it's important to understand the key terms we use:
+Pull request checklist (for contributors)
+- [ ] I checked for duplicates.
+- [ ] The entry has a short description and tags.
+- [ ] Links work (or a note explains a known issue).
+- [ ] Changes are limited to the intended section.
 
-- **Section**: These represent the top-level divisions in our content structure, organizing related topics into broader categories. In the table of contents, you may find the sections grouped into categories for easier navigation and organization.
-- **Topic**: Within each section, "Topics" are the individual topics or entries. Each topic provides a concise and easily understandable explanation of itself. These explanations are presented in a detailed manner and can be expanded or collapsed for convenience.
+Review & maintenance
+- This project is community-maintained. Anyone can review and suggest improvements.
+- There is no fixed review deadline — maintainers and community members will triage and review PRs as available.
+- If you want to take responsibility for a category, mention it in an issue or comment and the community can coordinate.
 
-## README Structure
+Automation & formatting
+- Try to keep list formatting consistent (Markdown list items).
+- Consider running markdown linters locally before opening large PRs.
 
-The following template illustrates the preferred structure for README sections.
-
-```
-<!-- --------------------------------------------------------------------- -->
-# Section
-<!-- --------------------------------------------------------------------- -->
-
-<details><summary><strong>Topic</strong></summary><p>
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-
-</p></details>
-```
-
-## Contribution Guidelines
-
-#### 1. **Adding a New Topic**: 
-- Aim for clarity and conciseness. (Consider using AI tools like ChatGPT for refining your descriptions).
-
-#### 2. **Editing Existing Topic**:
-- Focus on improving clarity, accuracy, and readability.
-
-#### 3. **Introducing a New Subject**:
-- Include at least 5 related topics and don't forget to update the Table of Contents.
-
-#### 4. **Making Enhancements**:
-- For design changes or major structural improvements, please consult [@Mahmoudz](https://github.com/Mahmoudz) before working on your PR.
-
----
-
-*Thank you for enhancing Awesome Topics with your knowledge!*
+Thanks — your contribution helps other developers find better resources.
