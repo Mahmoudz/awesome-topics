@@ -755,6 +755,60 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Functional Programming</strong></summary><p>
+
+> Functional Programming is a programming paradigm that treats computation as the evaluation of mathematical functions, avoiding changing state and mutable data. It emphasizes immutability, pure functions, and declarative code.
+
+</p></details>
+
+<details><summary><strong>Template Method Pattern</strong></summary><p>
+
+> The Template Method Pattern defines the skeleton of an algorithm in a base class, allowing subclasses to override specific steps without changing the algorithm's structure. It promotes code reuse and consistent behavior.
+
+</p></details>
+
+<details><summary><strong>State Pattern</strong></summary><p>
+
+> The State Pattern allows an object to alter its behavior when its internal state changes. The object appears to change its class, enabling cleaner state management in complex systems.
+
+</p></details>
+
+<details><summary><strong>Facade Pattern</strong></summary><p>
+
+> The Facade Pattern provides a simplified interface to a complex subsystem, making it easier to use. It reduces dependencies between client code and complex implementation details.
+
+</p></details>
+
+<details><summary><strong>Dependency Injection (DI)</strong></summary><p>
+
+> Dependency Injection is a design pattern where dependencies are provided to a class from the outside rather than created internally. It promotes loose coupling, testability, and flexibility in software design.
+
+</p></details>
+
+<details><summary><strong>Inversion of Control (IoC)</strong></summary><p>
+
+> Inversion of Control is a principle where the control flow of a program is inverted compared to traditional programming. The framework or container controls the flow, calling application code rather than the application calling libraries.
+
+</p></details>
+
+<details><summary><strong>Clean Architecture</strong></summary><p>
+
+> Clean Architecture is a software design philosophy that separates concerns into layers with clear dependencies flowing inward. It promotes independence from frameworks, UI, databases, and external agencies.
+
+</p></details>
+
+<details><summary><strong>Hexagonal Architecture (Ports and Adapters)</strong></summary><p>
+
+> Hexagonal Architecture, also known as Ports and Adapters, isolates the core business logic from external concerns like UI, databases, and APIs through well-defined interfaces, enabling flexibility and testability.
+
+</p></details>
+
+<details><summary><strong>Repository Pattern</strong></summary><p>
+
+> The Repository Pattern mediates between the domain and data mapping layers, acting like an in-memory collection of domain objects. It encapsulates data access logic and promotes separation of concerns.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -1907,6 +1961,95 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Document Database</strong></summary><p>
+
+> A Document Database stores data in document formats like JSON or BSON, allowing flexible schemas and nested data structures. Examples include MongoDB and CouchDB.
+
+</p></details>
+
+<details><summary><strong>Key-Value Store</strong></summary><p>
+
+> A Key-Value Store is a simple NoSQL database that stores data as key-value pairs, providing fast lookups and high performance. Examples include Redis and DynamoDB.
+
+</p></details>
+
+<details><summary><strong>Column-Family Store</strong></summary><p>
+
+> A Column-Family Store organizes data into columns rather than rows, optimized for queries over large datasets. Examples include Cassandra and HBase.
+
+</p></details>
+
+<details><summary><strong>Graph Database</strong></summary><p>
+
+> A Graph Database uses graph structures with nodes, edges, and properties to represent and store data. It excels at managing highly connected data and complex relationships. Examples include Neo4j and Amazon Neptune.
+
+</p></details>
+
+<details><summary><strong>Time-Series Database</strong></summary><p>
+
+> A Time-Series Database is optimized for storing and querying time-stamped data, commonly used for monitoring, IoT, and financial applications. Examples include InfluxDB and TimescaleDB.
+
+</p></details>
+
+<details><summary><strong>In-Memory Database</strong></summary><p>
+
+> An In-Memory Database stores data primarily in RAM rather than on disk, providing extremely fast data access and processing. Examples include Redis and Memcached.
+
+</p></details>
+
+<details><summary><strong>Database Connection Pool</strong></summary><p>
+
+> A Database Connection Pool maintains a cache of database connections that can be reused, reducing the overhead of establishing new connections and improving application performance.
+
+</p></details>
+
+<details><summary><strong>Schema Migration</strong></summary><p>
+
+> Schema Migration is the process of evolving database schemas over time through versioned changes, ensuring database structure stays synchronized with application requirements.
+
+</p></details>
+
+<details><summary><strong>Database Locking</strong></summary><p>
+
+> Database Locking is a mechanism to control concurrent access to data, preventing conflicts when multiple transactions attempt to modify the same data simultaneously.
+
+</p></details>
+
+<details><summary><strong>Deadlock</strong></summary><p>
+
+> A Deadlock occurs when two or more transactions are waiting for each other to release locks, creating a circular dependency that prevents any of them from proceeding.
+
+</p></details>
+
+<details><summary><strong>Write-Ahead Log (WAL)</strong></summary><p>
+
+> A Write-Ahead Log is a technique where changes are first written to a log before being applied to the database, ensuring durability and enabling crash recovery.
+
+</p></details>
+
+<details><summary><strong>Database Cursor</strong></summary><p>
+
+> A Database Cursor is a control structure that enables traversal over database records, allowing row-by-row processing of query results.
+
+</p></details>
+
+<details><summary><strong>Data Warehouse</strong></summary><p>
+
+> A Data Warehouse is a centralized repository that stores integrated data from multiple sources, optimized for analysis and reporting rather than transaction processing.
+
+</p></details>
+
+<details><summary><strong>Data Lake</strong></summary><p>
+
+> A Data Lake is a storage repository that holds vast amounts of raw data in its native format until needed, supporting big data analytics and machine learning use cases.
+
+</p></details>
+
+<details><summary><strong>ETL (Extract, Transform, Load)</strong></summary><p>
+
+> ETL is a data integration process that extracts data from source systems, transforms it into a suitable format, and loads it into a target database or data warehouse.
+
+</p></details>
 
 ![Divider](assets/images/divider-1.png)
 
@@ -2060,6 +2203,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>WebSockets</strong></summary><p>
+
+> WebSockets provide full-duplex communication channels over a single TCP connection, enabling real-time, bidirectional data exchange between clients and servers. Useful for chat applications, live updates, and gaming.
+
+</p></details>
+
+<details><summary><strong>GraphQL</strong></summary><p>
+
+> GraphQL is a query language and runtime for APIs that allows clients to request exactly the data they need. It provides a more efficient and flexible alternative to REST APIs.
+
+</p></details>
+
+<details><summary><strong>gRPC</strong></summary><p>
+
+> gRPC is a high-performance, open-source RPC framework that uses Protocol Buffers for serialization. It enables efficient communication between microservices with support for multiple languages.
+
+</p></details>
+
+<details><summary><strong>Message Queue</strong></summary><p>
+
+> A Message Queue is a form of asynchronous service-to-service communication that temporarily stores messages until they can be processed. Examples include RabbitMQ, Apache Kafka, and AWS SQS.
+
+</p></details>
+
+<details><summary><strong>Caching Strategies</strong></summary><p>
+
+> Caching Strategies involve storing frequently accessed data in memory to reduce latency and improve performance. Common patterns include cache-aside, write-through, and write-behind caching.
+
+</p></details>
+
+<details><summary><strong>Session Management</strong></summary><p>
+
+> Session Management tracks user state across multiple requests in stateless protocols like HTTP. It involves creating, storing, and validating session tokens or cookies.
+
+</p></details>
+
+<details><summary><strong>Authentication</strong></summary><p>
+
+> Authentication is the process of verifying the identity of a user or system. Common methods include username/password, OAuth, JWT tokens, and multi-factor authentication.
+
+</p></details>
+
+<details><summary><strong>Authorization</strong></summary><p>
+
+> Authorization determines what resources and actions an authenticated user is allowed to access. It involves implementing role-based access control (RBAC) or permission-based systems.
+
+</p></details>
+
+<details><summary><strong>CORS (Cross-Origin Resource Sharing)</strong></summary><p>
+
+> CORS is a security feature that allows or restricts web applications running on one domain to access resources from another domain, controlling cross-origin HTTP requests.
+
+</p></details>
+
+<details><summary><strong>Serverless Functions</strong></summary><p>
+
+> Serverless Functions (Functions-as-a-Service) are event-driven, stateless compute services that execute code in response to triggers without managing server infrastructure. Examples include AWS Lambda and Azure Functions.
+
+</p></details>
+
+<details><summary><strong>API Gateway</strong></summary><p>
+
+> An API Gateway is a server that acts as a single entry point for multiple backend services, handling request routing, composition, authentication, rate limiting, and protocol translation.
+
+</p></details>
+
+<details><summary><strong>Serialization</strong></summary><p>
+
+> Serialization is the process of converting data structures or objects into a format that can be stored or transmitted, and later reconstructed. Common formats include JSON, XML, and Protocol Buffers.
+
+</p></details>
+
+<details><summary><strong>Logging and Monitoring</strong></summary><p>
+
+> Logging and Monitoring involve tracking application behavior, errors, and performance metrics to diagnose issues and ensure system health. Tools include ELK Stack, Prometheus, and Grafana.
+
+</p></details>
+
+<details><summary><strong>Background Jobs</strong></summary><p>
+
+> Background Jobs are tasks executed asynchronously outside the main request-response cycle, handling time-consuming operations like email sending, data processing, or scheduled tasks.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -2185,6 +2412,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Posture</strong></summary><p>
 
 > In the context of cybersecurity, Posture refers to an organization's overall security posture or readiness to defend against cyber threats. It encompasses the organization's security policies, practices, and infrastructure to mitigate risks and respond effectively to security incidents.
+
+</p></details>
+
+<details><summary><strong>Zero Trust Architecture</strong></summary><p>
+
+> Zero Trust Architecture is a security model that requires verification of every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter.
+
+</p></details>
+
+<details><summary><strong>Penetration Testing</strong></summary><p>
+
+> Penetration Testing (or ethical hacking) is the practice of simulating cyberattacks on systems to identify vulnerabilities before malicious actors can exploit them.
+
+</p></details>
+
+<details><summary><strong>Security Information and Event Management (SIEM)</strong></summary><p>
+
+> SIEM systems collect, analyze, and correlate security event data from multiple sources to provide real-time monitoring, threat detection, and incident response capabilities.
+
+</p></details>
+
+<details><summary><strong>Multi-Factor Authentication (MFA)</strong></summary><p>
+
+> Multi-Factor Authentication requires users to provide two or more verification factors to gain access, significantly enhancing security beyond password-only authentication.
+
+</p></details>
+
+<details><summary><strong>Vulnerability Assessment</strong></summary><p>
+
+> Vulnerability Assessment is a systematic process of identifying, quantifying, and prioritizing security vulnerabilities in systems and applications.
+
+</p></details>
+
+<details><summary><strong>Security Hardening</strong></summary><p>
+
+> Security Hardening involves reducing the attack surface of systems by disabling unnecessary services, applying security patches, and implementing strict configurations.
+
+</p></details>
+
+<details><summary><strong>Cryptography</strong></summary><p>
+
+> Cryptography is the practice of securing communications and data through encoding and decoding techniques, including symmetric and asymmetric encryption algorithms.
+
+</p></details>
+
+<details><summary><strong>Digital Certificates</strong></summary><p>
+
+> Digital Certificates are electronic documents that use digital signatures to bind public keys with identities, enabling secure communications and authentication in PKI systems.
+
+</p></details>
+
+<details><summary><strong>Security Tokens</strong></summary><p>
+
+> Security Tokens are cryptographic keys or hardware devices used for authentication and authorization, providing an additional layer of security for accessing systems and data.
+
+</p></details>
+
+<details><summary><strong>Malware</strong></summary><p>
+
+> Malware is malicious software designed to harm, exploit, or compromise computer systems, including viruses, worms, trojans, ransomware, and spyware.
+
+</p></details>
+
+<details><summary><strong>Intrusion Detection and Prevention</strong></summary><p>
+
+> Intrusion Detection and Prevention systems monitor network traffic for suspicious activities and can automatically block or alert on potential security threats.
+
+</p></details>
+
+<details><summary><strong>Data Masking</strong></summary><p>
+
+> Data Masking is a technique that obscures sensitive data by replacing it with fictitious but realistic data, protecting privacy in non-production environments.
+
+</p></details>
+
+<details><summary><strong>Security Orchestration, Automation and Response (SOAR)</strong></summary><p>
+
+> SOAR platforms integrate security tools and automate incident response workflows, improving the efficiency and effectiveness of security operations teams.
+
+</p></details>
+
+<details><summary><strong>Least Privilege Principle</strong></summary><p>
+
+> The Least Privilege Principle states that users and systems should be granted only the minimum access rights necessary to perform their functions, reducing security risks.
 
 </p></details>
 
