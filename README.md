@@ -240,6 +240,96 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Bytecode</strong></summary><p>
+
+> Bytecode is an intermediate representation of code that sits between source code and machine code. It is platform-independent and is executed by a virtual machine or interpreter, commonly used in languages like Java and Python.
+
+</p></details>
+
+<details><summary><strong>Virtual Machine (VM)</strong></summary><p>
+
+> A Virtual Machine is software that emulates a computer system, allowing programs to run in an isolated environment. VMs enable running multiple operating systems on one physical machine and are fundamental to languages like Java (JVM) and .NET (CLR).
+
+</p></details>
+
+<details><summary><strong>Debugging</strong></summary><p>
+
+> Debugging is the process of identifying, analyzing, and fixing errors or bugs in software code. It involves using debugging tools, breakpoints, and step-through execution to understand program behavior and resolve issues.
+
+</p></details>
+
+<details><summary><strong>Garbage Collection</strong></summary><p>
+
+> Garbage Collection is an automatic memory management process that identifies and frees memory occupied by objects that are no longer needed by a program, preventing memory leaks and optimizing resource usage.
+
+</p></details>
+
+<details><summary><strong>Concurrency</strong></summary><p>
+
+> Concurrency is the ability of a program to execute multiple tasks simultaneously or in overlapping time periods. It improves performance and responsiveness, especially in multi-core processor systems.
+
+</p></details>
+
+<details><summary><strong>Parallelism</strong></summary><p>
+
+> Parallelism involves executing multiple computations simultaneously on different processors or cores. It differs from concurrency by focusing on true simultaneous execution to improve computational speed.
+
+</p></details>
+
+<details><summary><strong>Asynchronous Programming</strong></summary><p>
+
+> Asynchronous Programming is a programming paradigm that allows operations to run independently of the main program flow, enabling non-blocking execution and improved application responsiveness.
+
+</p></details>
+
+<details><summary><strong>Type System</strong></summary><p>
+
+> A Type System is a set of rules that assigns types to variables, expressions, and functions in a programming language. It helps catch errors at compile-time or runtime and ensures data is used consistently.
+
+</p></details>
+
+<details><summary><strong>Static Typing</strong></summary><p>
+
+> Static Typing is a type system where variable types are explicitly declared and checked at compile-time. It helps catch type errors early and can improve performance, used in languages like Java, C++, and TypeScript.
+
+</p></details>
+
+<details><summary><strong>Dynamic Typing</strong></summary><p>
+
+> Dynamic Typing is a type system where variable types are determined at runtime rather than compile-time. It offers more flexibility but may catch type errors later, used in languages like Python, JavaScript, and Ruby.
+
+</p></details>
+
+<details><summary><strong>Code Refactoring</strong></summary><p>
+
+> Code Refactoring is the process of restructuring existing code without changing its external behavior to improve readability, reduce complexity, and enhance maintainability.
+
+</p></details>
+
+<details><summary><strong>Comments and Documentation</strong></summary><p>
+
+> Comments and Documentation are annotations in code that explain what the code does, why it exists, and how to use it. Good documentation improves code maintainability and helps other developers understand the codebase.
+
+</p></details>
+
+<details><summary><strong>Regular Expressions (Regex)</strong></summary><p>
+
+> Regular Expressions are patterns used to match character combinations in strings. They are powerful tools for text searching, validation, and manipulation across many programming languages.
+
+</p></details>
+
+<details><summary><strong>Runtime Environment</strong></summary><p>
+
+> A Runtime Environment provides the necessary infrastructure for executing programs, including libraries, memory management, and system resources. Examples include Node.js for JavaScript and JRE for Java.
+
+</p></details>
+
+<details><summary><strong>Build Tools</strong></summary><p>
+
+> Build Tools are software utilities that automate the process of compiling source code into executable programs, managing dependencies, and running tests. Examples include Make, Maven, Gradle, and Webpack.
+
+</p></details>
+
 
 ![Divider](assets/images/divider-1.png)
 
@@ -366,6 +456,96 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Searching</strong></summary><p>
 
 > Searching is finding specific data in a structure. Vital in database management and information retrieval, effective search algorithms are key to fast and accurate data access.
+
+</p></details>
+
+<details><summary><strong>Binary Search</strong></summary><p>
+
+> Binary Search is an efficient algorithm for finding an item in a sorted array by repeatedly dividing the search interval in half. It has O(log n) time complexity.
+
+</p></details>
+
+<details><summary><strong>Binary Tree</strong></summary><p>
+
+> A Binary Tree is a tree data structure where each node has at most two children, referred to as left and right child. It forms the basis for more specialized trees like BSTs and heaps.
+
+</p></details>
+
+<details><summary><strong>Binary Search Tree (BST)</strong></summary><p>
+
+> A Binary Search Tree is a binary tree where each node's left subtree contains only values less than the node, and the right subtree contains only values greater than the node, enabling efficient searching, insertion, and deletion.
+
+</p></details>
+
+<details><summary><strong>Balanced Trees (AVL, Red-Black)</strong></summary><p>
+
+> Balanced Trees are self-adjusting binary search trees that maintain balance to ensure O(log n) operations. AVL and Red-Black trees are common implementations used in databases and memory management.
+
+</p></details>
+
+<details><summary><strong>B-Trees</strong></summary><p>
+
+> B-Trees are self-balancing tree data structures that maintain sorted data and allow searches, insertions, and deletions in logarithmic time. They are widely used in databases and file systems for efficient disk access.
+
+</p></details>
+
+<details><summary><strong>Priority Queue</strong></summary><p>
+
+> A Priority Queue is an abstract data type where each element has a priority, and elements with higher priority are served before elements with lower priority. Often implemented using heaps.
+
+</p></details>
+
+<details><summary><strong>Deque (Double-Ended Queue)</strong></summary><p>
+
+> A Deque is a generalized queue that allows insertion and deletion at both ends. It combines the functionality of stacks and queues, useful in algorithms requiring flexible access patterns.
+
+</p></details>
+
+<details><summary><strong>Backtracking</strong></summary><p>
+
+> Backtracking is an algorithmic technique for solving problems by exploring all possible solutions and abandoning paths that fail to satisfy constraints. Used in puzzles, constraint satisfaction, and combinatorial problems.
+
+</p></details>
+
+<details><summary><strong>Greedy Algorithms</strong></summary><p>
+
+> Greedy Algorithms make locally optimal choices at each step with the hope of finding a global optimum. They are efficient but don't always produce optimal solutions, used in optimization problems.
+
+</p></details>
+
+<details><summary><strong>Divide and Conquer</strong></summary><p>
+
+> Divide and Conquer is an algorithm design paradigm that breaks a problem into smaller subproblems, solves them recursively, and combines their solutions. Examples include merge sort and quicksort.
+
+</p></details>
+
+<details><summary><strong>Time Complexity</strong></summary><p>
+
+> Time Complexity measures the amount of time an algorithm takes to complete as a function of input size. It helps evaluate algorithm efficiency and scalability.
+
+</p></details>
+
+<details><summary><strong>Space Complexity</strong></summary><p>
+
+> Space Complexity measures the amount of memory an algorithm uses as a function of input size. It's crucial for understanding resource requirements and optimizing memory usage.
+
+</p></details>
+
+<details><summary><strong>Dijkstra's Algorithm</strong></summary><p>
+
+> Dijkstra's Algorithm finds the shortest path between nodes in a weighted graph. It's fundamental in routing and navigation systems, ensuring optimal path selection.
+
+</p></details>
+
+<details><summary><strong>Breadth-First Search (BFS)</strong></summary><p>
+
+> Breadth-First Search is a graph traversal algorithm that explores nodes level by level, starting from a source node. It's used for finding shortest paths in unweighted graphs and level-order traversals.
+
+</p></details>
+
+<details><summary><strong>Depth-First Search (DFS)</strong></summary><p>
+
+> Depth-First Search is a graph traversal algorithm that explores as far as possible along each branch before backtracking. It's used for topological sorting, cycle detection, and path finding.
 
 </p></details>
 
@@ -733,6 +913,90 @@ A curated list of awesome technical topics from the software world, explained co
 
 </p></details>
 
+<details><summary><strong>Content Delivery Network (CDN)</strong></summary><p>
+
+> A Content Delivery Network is a geographically distributed network of servers that deliver web content and media to users based on their location, improving load times and reducing latency.
+
+</p></details>
+
+<details><summary><strong>High Availability (HA)</strong></summary><p>
+
+> High Availability refers to systems designed to be operational and accessible for a very high percentage of time, minimizing downtime through redundancy, failover mechanisms, and fault tolerance.
+
+</p></details>
+
+<details><summary><strong>Scalability</strong></summary><p>
+
+> Scalability is the ability of a system to handle increased load by adding resources. It can be vertical (adding more power to existing machines) or horizontal (adding more machines).
+
+</p></details>
+
+<details><summary><strong>Edge Computing</strong></summary><p>
+
+> Edge Computing processes data closer to where it is generated rather than in centralized data centers. It reduces latency, saves bandwidth, and enables real-time processing for IoT and mobile applications.
+
+</p></details>
+
+<details><summary><strong>Software-Defined Networking (SDN)</strong></summary><p>
+
+> Software-Defined Networking separates the network control plane from the data plane, enabling centralized network management and programmable network behavior through software.
+
+</p></details>
+
+<details><summary><strong>DNS (Domain Name System)</strong></summary><p>
+
+> DNS is a hierarchical naming system that translates human-readable domain names into IP addresses, enabling users to access websites and services using memorable names instead of numeric addresses.
+
+</p></details>
+
+<details><summary><strong>Firewall</strong></summary><p>
+
+> A Firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules, protecting networks from unauthorized access.
+
+</p></details>
+
+<details><summary><strong>Proxy Server</strong></summary><p>
+
+> A Proxy Server acts as an intermediary between clients and servers, forwarding requests and responses. It provides benefits like caching, anonymity, and access control.
+
+</p></details>
+
+<details><summary><strong>Gateway</strong></summary><p>
+
+> A Gateway is a network node that serves as an access point to another network, often translating between different protocols or network architectures.
+
+</p></details>
+
+<details><summary><strong>Network Latency</strong></summary><p>
+
+> Network Latency is the time delay in data transmission across a network, typically measured in milliseconds. Lower latency results in faster, more responsive network communications.
+
+</p></details>
+
+<details><summary><strong>Throughput</strong></summary><p>
+
+> Throughput measures the actual amount of data successfully transferred over a network in a given time period, indicating network performance and capacity.
+
+</p></details>
+
+<details><summary><strong>Colocation</strong></summary><p>
+
+> Colocation is a data center facility where businesses can rent space for servers and computing hardware, providing power, cooling, and network connectivity while maintaining control over their equipment.
+
+</p></details>
+
+<details><summary><strong>Bare Metal Server</strong></summary><p>
+
+> A Bare Metal Server is a physical server dedicated to a single tenant, without virtualization. It offers maximum performance and control, ideal for high-performance computing workloads.
+
+</p></details>
+
+<details><summary><strong>Hybrid Cloud</strong></summary><p>
+
+> Hybrid Cloud combines private and public cloud environments, allowing data and applications to be shared between them. It provides flexibility, optimization of existing infrastructure, and greater deployment options.
+
+</p></details>
+
 ![Divider](assets/images/divider-1.png)
 
 <!-- --------------------------------------------------------------------- -->
@@ -852,6 +1116,90 @@ A curated list of awesome technical topics from the software world, explained co
 <details><summary><strong>Zero Downtime Deployment</strong></summary><p>
 
 > Zero Downtime Deployment aims to maintain uninterrupted service while implementing updates or changes to a system. It utilizes techniques like rolling releases and load balancing to prevent service disruptions.
+
+</p></details>
+
+<details><summary><strong>Blue-Green Deployment</strong></summary><p>
+
+> Blue-Green Deployment is a release strategy that maintains two identical production environments. Traffic is switched from the current (blue) to the new (green) environment, enabling instant rollback if issues arise.
+
+</p></details>
+
+<details><summary><strong>Canary Deployment</strong></summary><p>
+
+> Canary Deployment gradually rolls out changes to a small subset of users before full deployment. It allows teams to test new releases in production with minimal risk.
+
+</p></details>
+
+<details><summary><strong>GitOps</strong></summary><p>
+
+> GitOps is a DevOps practice that uses Git as the single source of truth for declarative infrastructure and applications. Changes are made through pull requests, enabling versioning, auditing, and automated deployments.
+
+</p></details>
+
+<details><summary><strong>Configuration Management</strong></summary><p>
+
+> Configuration Management involves systematically managing and tracking system configurations throughout their lifecycle. Tools like Ansible, Chef, and Puppet automate configuration consistency across environments.
+
+</p></details>
+
+<details><summary><strong>Container Orchestration</strong></summary><p>
+
+> Container Orchestration automates the deployment, scaling, and management of containerized applications. Kubernetes is the most popular orchestration platform for managing container lifecycles.
+
+</p></details>
+
+<details><summary><strong>Microservices</strong></summary><p>
+
+> Microservices is an architectural style that structures applications as collections of loosely coupled, independently deployable services. Each service focuses on a specific business capability.
+
+</p></details>
+
+<details><summary><strong>Service Mesh</strong></summary><p>
+
+> A Service Mesh is an infrastructure layer that manages service-to-service communication in microservices architectures. It handles load balancing, service discovery, encryption, and observability.
+
+</p></details>
+
+<details><summary><strong>Observability</strong></summary><p>
+
+> Observability is the ability to understand a system's internal state from its external outputs. It combines metrics, logs, and traces to provide comprehensive insights into system behavior.
+
+</p></details>
+
+<details><summary><strong>Chaos Engineering</strong></summary><p>
+
+> Chaos Engineering is the practice of intentionally introducing failures into systems to test their resilience and identify weaknesses before they cause real outages.
+
+</p></details>
+
+<details><summary><strong>Error Budget</strong></summary><p>
+
+> An Error Budget is the allowable amount of downtime or errors within a service's SLO. It balances reliability with innovation, determining how much risk teams can take when releasing new features.
+
+</p></details>
+
+<details><summary><strong>Artifact Repository</strong></summary><p>
+
+> An Artifact Repository stores and manages binary artifacts and dependencies used in software builds and deployments. Examples include JFrog Artifactory, Nexus, and Docker Registry.
+
+</p></details>
+
+<details><summary><strong>Immutable Infrastructure</strong></summary><p>
+
+> Immutable Infrastructure is an approach where servers are never modified after deployment. Instead, new servers are deployed with updates, ensuring consistency and reducing configuration drift.
+
+</p></details>
+
+<details><summary><strong>Pipeline as Code</strong></summary><p>
+
+> Pipeline as Code defines CI/CD pipelines in version-controlled code files. It enables automated, reproducible build and deployment processes that can be reviewed and tracked like application code.
+
+</p></details>
+
+<details><summary><strong>Feature Flags</strong></summary><p>
+
+> Feature Flags (or toggles) allow teams to enable or disable features in production without deploying new code. They enable progressive rollouts, A/B testing, and quick rollback of problematic features.
 
 </p></details>
 
